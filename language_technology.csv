@@ -1,0 +1,493 @@
+English,Icelandic
+accuracy,hittni
+accuracy,nákvæmni
+acoustic analysis,hljóðgreining
+advanced discourse processing,þróuð orðræðuaðferð
+alignment,samskipun
+alignment,samröðun orða
+alignment,samröðun setninga
+ambiguity,margræðni
+annotated corpus,mörkuð málheild
+answer extraction,útdráttur svara
+API,forritaskil
+API,API
+application,verkbúnaður
+application,forrit
+application area,verkbúnaðarsvið
+application environment,verkbúnaðarumhverfi
+application program interface,forritaskil
+application program interface,api
+attribute,eigind
+attribute,eiginleiki
+audio file,hljóskrá
+authoring support,ritstoð
+authoring support software,ritstoðarforrit
+authoring support systems,ritstoðarkerfi
+authoring tools,ritstoðartól
+automatic continuous speech recognition ,sjálvirk orðaflaumskennsl 
+automatic hyperlinking,sjálfvirk tenglasetning
+automatic language identification,sjálfvirk tungumálskennsl
+automatic text summarization,vélrænn útdráttur
+backoff,íhörfun
+bactracking,rakning
+backward chaining,afturkeðjun
+backward chaining,bakkeðjun
+bidirectional tagger,tvístefnumarkari
+bigram,tvístæða
+bigram,tvennd
+bilingual text corpus,tvímála málheild
+bootstrapping approach,gagnkvæm hringrás
+bootstrapping approach,sjálfkvæm nálgun
+bottom-up,neðansækinn
+data-directed,neðansækinn
+brill type tagger,markari brills
+categorial grammar,frumflokkamálfræði
+categorization,frumflokkun
+chunk,bagga
+chunk,baggi
+chunking,böggun
+clustering,þyrpa
+clustering,þyrping
+code ,kóti
+code ,kóta
+code ,kóða
+coding and compression,kótun og þjöppun
+coding and compression,kóðun og þjöppun
+coding tool,kótunartól
+coding tool,kótunarverkfæri
+coding tool,kóðunarverkfæri
+coding tool,kóðunartól
+collection of texts,textasafn
+collocational features,orðastæðuþættir
+collocational features,samstæðuþættir
+collocations,orðastæður
+collocations,samstæður
+compression,þjöppun
+computational linguistics,tölvumálvísindi
+computational linguistics,tölvumálfræði
+computational linguistics,reiknifræðileg málfræði
+computational linguistics,reiknifræðileg málvísindi
+computational pragmatics,tölvufræðileg málnotafræði
+computational pragmatics,reiknifræðileg málnotafræði
+computational psycholinguistics,tölvufræðileg sálmálvísindi
+computational psycholinguistics,reiknifræðileg sálmálvísindi
+computational semantics,tölvufræðileg merkingarfræði
+computational semantics,reiknifræðileg merkingarfræði
+computational semantics,merkingartækni
+computer-assisted language learning,tölvustutt tungumálanám
+conditional random fields,skilyrt slembisvæði
+connectionist techniques,samtengiaðferðir
+content production,semja efni
+context sensitive spell-checking,samhengisháð stafrýni
+context sensitive spell-checking,samhengisháð ritvilluleit
+conversation,samræða
+conversational agent,talþjónn
+co-occurrence features,grenndarþættir
+coreference resolution,tilvísanagreining
+coreference resolution,samvísunartúlkun
+corpus,málheild
+corpus linguistics,gagnamálfræði
+corpus linguistics,gagnamálvísindi
+cross validation,krossprófun
+cross-lingual information retrieval,þvermála upplýsingaheimt
+cross-lingual language capabilities,þvermálamöguleikar
+data,gögn
+data presentation method,gagnaframsetningaraðferð
+data-driven methods,gagnaaðferðir aðferðir
+data-driven methods,gagnastýrðar aðferðir
+data-driven system,gagnakerfi
+decision list classifiers,flokkaraskrá
+decoder,afkótari
+decoder,afkóðari
+deep generation,djúp málgerving
+deep parser performance evaluation,mat á frammistöðu djúpþáttara
+deep parsing,full þáttun
+deep parsing,djúp þáttun
+full parsing,full þáttun
+full parsing,djúp þáttun
+denotation,aðalmerking
+denotation,merkingarkjarni
+denotation,umtak
+denote,aðalmerkja
+denote,hrámerkja (x denotes y)
+dependency bank,venslabanki
+dependency grammar,venslamálfræði
+dialect,mállýska
+dialects,mállýskur
+dialogue,samræða
+dialogue management ,samræðustjórnun
+dialogue manager,samræðustjóri
+dialogue modeling,gerð samræðulíkana
+dialogue system,samræðukerfi
+digital humanities,stafræn hugvísindi
+digital library,stafrænt bókasafn
+diphone,tvístæða
+diphone concatenation system,tvístæðu samtengingarkerfi
+disambiguation,einræðing
+discourse ,orðræða
+discourse and dialogue,orðræða og samræða
+discourse capabilities,samræðuhæfileikar
+discourse corpora,orðræðumálheild
+discourse modeling,gerð orðræðulíkana
+discourse capabilities,samræðuhæfileikar
+discriminative tagger,aðgreiningarmarkari
+document image analysis,greining skjalmyndar
+dsp techniques,stafrænar merkjavinnsluaðferðir
+dynamic programming,kvikleg forritun
+dynamic programming,kvikbestun
+dynamic programming,kvik bestun
+e-learning,fjarnám
+e-learning,fjarskiptanám
+e-learning environments,fjarnámsumhverfi
+embedding,greyping
+emerging computing paradigms,uppkomandi viðmið í tölvun
+emotion recognition,tilfinningakennsl
+encode,kóta
+encode,kóða
+encoder,kótari
+encoder,kóðari
+evaluation,mat
+example resource exercise,dæmaæfing
+example-based translation,dæmabyggð þýðing
+feature,sérkennaþáttur
+feature,kenni
+finite state technology,stöðuvélatækni
+finite-state,stöðuferjöld
+finite-state machine,stöðuvél
+finite state machine,endanlegar stöðuvélar
+finite state transducer,endandleg stöðuferjöld
+formant synthesiser,formandagervill
+forward chaining,framkeðjun
+front-end,framendi
+full parsing,full þáttun
+grammar checker,málrýnir/málfræðirýnir
+grammar models and formalisms,málfræðilíkön og formalismar
+grammars,mállýsingar
+grammatical tagger,málfræðilegur markari
+graphical user interface,myndrænt viðmót
+GUI,myndrænt viðmót
+head-driven phrase structure grammar,höfuðstýrð liðgerðarmálfræði
+heuristics,brjóstvitsreglur
+heuristics,þumalputtareglur
+high-level language,æðra forritunarmál
+HMM methods,aðferðir hulinna markovslíkana
+human aided machine translation,mannstudd vélræn þýðing
+hyphenation programs,orðskiptiforrit
+hyperparameter,ytri stiki
+in-domain,innan óðals
+indexing,lyklun
+individual word speech recogniser,stakorðagreinir
+individual word speech recognizer,stakorðagreinir
+inductive logic programming,aðleiðsluleg rökforritun
+information access,upplýsingaðgangur
+information extraction,útdráttur upplýsinga
+information processing,upplýsingavinnsla
+information retrieval,upplýsingaheimt
+information technology,upplýsingatækni 
+input,ílag
+input,viðfang
+input text,ílagstexti
+input text,viðfangstexti
+interface,viðmót
+intranet,innranet
+intuitive language-based interfaces,hugsýn málbundin skil
+isolated word recognizer,stakorðagreinir
+isolated word speech recognition,stakorðagreining
+key enabling technology,lykilstuðningstækni
+keyword-based search,lykilorðaleit
+knowledge discovery,þekkingaröflun
+knowledge exchange,þekkingarskipti
+knowledge management,þekkingarstjórnun
+knowledge technology,þekkingartækni
+knowledge-driven,þekkingarstýrð
+label,mark
+label,merkja
+lambda reduction,aflömbdun
+lambda reduction,lambdaeinföldun
+language analysis,málgreining
+language checking,málrýni
+language engineering,máltækni
+language engineering,tungutækni
+language generation,málmyndun
+language generation,málgerving
+language model,mállíkan
+language modelling,gerð tungumálalíkana
+language resources,málföng
+language resources,málgögn
+language technology,máltækni
+language technology,tungutækni
+language technology application,máltæknibúnaður
+language tools,máltæki
+language understanding,málskilningur
+latent semantic analysis,hulin merkingargreining
+lemma,nefnimynd
+lemma,flettimynd
+lexeme ,les
+lexical analysis,lesgreining
+lexical semantics,orðfræðileg merkingarfræði
+lexicon coding tool,orðasafnskótunarverkfæri
+lexicons,orðasöfn
+linguistic computing,máltölvun
+linguistically annotated corpora,málfræðilega markaðar málheildir
+linked data,tengd gögn
+localisation expert,staðfæringarsérfræðingur
+machine code,vélarmál
+machine learning,vélanám
+machine learning algorithms,vélnámsreiknirit
+machine translation,vélræn þýðing
+machine translation,vélþýðing
+machine-aided human translation,vélstudd þýðing
+mathematical methods,stærðfræðilegar aðferðir
+maximum entropy methods,hámarksóreiðuaðferðir
+meaning representation,merkingartáknun
+memory based tagger,minnismarkari
+module,eining
+module,mótull
+morphological analysis,orðhlutafræðileg greining
+morphological disambiguation,orðhlutafræðileg einræðing
+morphological parsing,orðhlutafræðileg þáttun
+multilingual corpora,margmála málheildir
+multilingual generation,margmála málmyndun
+multilingual information retrieval,margmála upplýsingaheimt
+multilingual speech processing,margmála talvinnsla
+multilingualism,margmæli
+multilinguality,margmæli
+multimedia documents,margmiðlunarskjöl
+multimedia information extraction,útdráttur margmiðlunarupplýsinga
+multimedia information retrieval,margmiðlunarupplýsingaheimt
+multimedia retrieval,margmiðlunarheimt
+multimodal communication,marghátta samskipti
+multimodal communication,fjölhátta samskipti
+multimodality,fjölskynjun
+multimodality,fjölskynþátta
+named entity,sérheitaeining
+named entity,nefnd eining
+named entity recognition,nafnakennsl
+natural language generation,gerving náttúrulegs máls
+natural language generation,myndun náttúrulegs máls
+natural language parsing,þáttun náttúrulegs máls
+natural language processing,málvinnsla
+neural networks,tauganet
+noisy channel model,truflunarlíkan
+non-textual format,á öðru sniði en sem texta
+OCR: handwriting,ljóskennsl: skrift
+OCR: print,ljóskennsl: prent
+ontological language resources ,veranleg málgögn 
+ontological resources,veranleg gögn
+ontologies,verufræði
+out-of-domain,utan óðals
+output,frálag
+output,skil
+output,úttak
+outsource,útvista
+overlap,skörun
+overlap,skarast
+parallel corpus,hliðstæð málheild
+parallel corpus,samhliða málheild
+parameter,færibreyta
+parameter,stiki
+parse tree,þáttunartré
+parser,þáttari
+parsing,þáttun greining
+parsing,setningafræðileg greining
+parsing techniques,þáttunaraðferðir
+partial parsing,hlutþáttun
+partial parsing,hlutaþáttun
+partial/shallow parsing,hlutþáttun
+partial/shallow parsing,grunnþáttun
+partial/shallow parsing,hlutaþáttun
+part-of-speech tagging,orðflokksmörkun
+perceptron,skynjunarnet
+perceptron,skynjunganet
+"performance (m.t.t. nákvæmni, heimt o.s.frv.)",hæfni
+platform,verkvangur
+pos tagging,mörkun (eða málfræðileg mörkun)
+pragmatics,málnotkunarfræði
+pragmatics,málnotafræði
+precision,nákvæmni
+preliminary prototype,frumgerð
+pre-processing,forvinnsla
+presentation and visualization,kynning og framsetning (sjóngerving?)
+principle of compositionality,blendilögmálið
+probabilistic context-free grammars,líkindafræðilegar samhengisfrjálsar mállýsingar
+probabilistic parsing,líkindaþáttun
+probabilistic tagging,líkindamörkun
+programming environment,forritunarumhverfi
+prosody information processing,úrvinnsla hljómfallsupplýsinga
+punctuation,greinarmerkjasetning
+qualitative analysis,eigindargreining
+quantitative analysis,megindargreining
+query analysis,spurnargreining
+query language,fyrirspurnarmál
+question answering,spurnasvörun
+recall,heimt
+recognition task,kennslastarf
+recognition task,kennslaverkefni
+recurrent neural networks (RNN),endurkvæm tauganet
+reference,vísun
+reference,tilvísun
+reference corpus,viðmiðunarmálheild
+referent,merkingarmið
+referring expression,vísandi segð
+regular expression,regluleg segð
+relation extraction,útdráttur vensla
+relevance ranking,gildisröðun
+representations of space and time,birtingarform rúms og tíma
+resources,tilföng
+resources,forðar
+retrieve,sækja
+retrieve,heimta
+rule-based methods,regluaðferðir
+rule-based tagger,reglumarkari
+running word,lesmálsorð
+search engine,leitarvél
+search interface,leitarviðmót
+search interface,leitarskil
+selection module,valeining
+selectional association,valtengsl
+selectional restrictions,valhömlur
+semantic corpora,merkingarmálheild
+semantic drift,merkingarrek
+semantic web,merkingarvefur
+semantic web community,samfélag merkingarvefja
+shallow generation,grunn málgerving,
+shallow generation,grunn myndun
+shallow parsing,hlutaþáttun/grunn þáttun
+shallow parsing,grunn þáttun
+shallow parsing,hlutþáttun
+signal analysis and representation,greining og framsetning merkja
+smoothing,jöfnun
+software application,hugbúnaður
+software application,viðfang
+source language,frummál
+speaker,mælandi
+speaker diarization,samræðugreind
+speaker recognition,mælandakennsl
+speech analyser,talgreinir
+speech analysis,talgreining
+speech coding,talkótun
+speech coding,talkóðun
+speech encryption,dulritun tals
+speech enhancement,endurbót tals
+speech input – assessment and evaluation,mat á talinntaki
+speech interaction ,talsamskipti
+speech interaction technology ,talsamskiptatækni
+speech recognition,talkennsl
+speech recognition module,talkennsleining
+speech recognizer,talþekkjari
+speech retrieval,talheimt
+speech synthesis,talgerving
+speech synthesis evaluation,mat á talgervingu
+speech synthesizer,talgervill
+speech technology,taltækni
+speech-to-text,talgreining
+spell checking,stafrýni 
+spell-checker,stafrýnir
+spoken dialogue systems,samræðukerfi fyrir tal
+spoken language corpora,málheildir talmáls
+spoken language dialogue,samræða í tali
+spoken language generation,gerving talmáls
+spoken language input,talmálsílag
+spoken language understanding,skilningur talmáls
+spoken output technologies,talmálsfrálagsaðferðir
+statistical language model,tölfræðilegt mállíkan
+statistical machine translation,tölfræðistudd vélþýðing
+statistical modeling and classification,tölfræðileg líkanagerð og flokkun
+stemming,stofngreining
+stochastic taggers,líkindamarkarar
+statistical taggers,líkindamarkarar
+stochastic taggers,tölfræðimarkarar
+statistical taggers,tölfræðimarkarar
+strategic,skipulegur
+strategic,skipulagt"
+sub task,undirverk
+summarization,samantekt
+summarizer,samantektir
+summarizer,samantektartól
+summarizer,samantaki
+supervised learning,leiðbeint nám
+supervised learning,"viðgjafarnám (helst ekki, viðgjöf á frekar heima innan reinforcement learning)"
+support vector machines,stoðvigravélar
+syntactic generation,setningagerving
+syntactic parsing,setningaleg þáttun
+syntax-driven semantic analysis,merkingarfræði í setningarlegu ljósi
+tag,mark 
+tagged corpus,mörkuð málheild
+tagger,markari
+tagging,mörkun
+tagset,markaskrá
+target language,markmál
+task-specific module,sérhæfð forritseining
+technical product,tæknileg afurð
+temporal expression,tímasegð
+term base,íðorðagrunnur
+terminal,útstöð
+terminal,skipanalína
+terminal,skjáhermi
+terminology,íðorðaforði
+terminology restrictions,íðorðahömlur
+test corpus,prófunarsafn
+text collection,textasafn
+text compression,textaþjöppun
+text data mining,gagnanám úr texta
+text encryption,dulritun texta
+text indexing,lyklun texta
+text mining/analytics,textanám
+text processing system,ritvinnslukerfi
+text technology,textatækni
+text-to-speech ,talgerving
+text-to-speech synthesis,talgerving texta
+thesauri wordnets,orðtengslanet
+token (information),tóki
+token (frame),tóki
+tokenization,tilreiðsla
+tokenization,tókun
+tokenization and segmentation,tákngreining og sneiðing,
+tokenization and segmentation,tókun og skipting"
+tokenizer,tilreiðari
+tokenizer,tókari
+top-down,ofansækinn
+goal-directed,ofansækinn
+topic detection,efnissviðsgreining
+toy system,leikfangakerfi
+training corpus,þjálfunarsafn
+transformation-based taggers,námsfúsir markarar
+transformation-based taggers,leiðréttingamarkari
+translation memory,þýðingarminni
+tree adjoining grammar,trjátengslamálfræði
+treebank,trjábanki
+trigram,þrístæða
+trigram,þrennd"
+triphones,þrístæða
+truth-conditional semantics,sannkjaramerkingarfræði
+under-resourced,gagnanaumur
+unigram,einstæða
+unigram,eind
+unknown word guesser,giskari
+unsupervised learning,óleiðbeint nám
+unsupervised learning,viðgjafarlaust nám (helst ekki)
+usability and interface design,nytsemi og viðmótshönnun
+user interface,notendaviðmót
+user modeling,notendahönnun
+user query,fyrirspurn notanda
+video file,myndbandsskrá
+voice recognition,raddþekking
+voice recognition,raddkennsl
+voice user interface,raddstýrt notendaviðmót 
+web search,vefleit
+web search engine,vefleitarvél
+wildcard character,algildisstafur
+word embedding,orðaívefja
+word embedding,orðagreyping
+word errror rate,villutíðni orða
+word form,orðmynd
+word processing tools,ritvinnsluforrit/-tól
+word sense,merkingarsvið orða
+word sense,merkingarþættir orða
+word sense,merkingarkjarni"
+word sense disambiguation,einræðing orða
+word sense disambiguation,merkingareinræðing"
+word speech recogniser,stakorðagreinir
+wordnet,orðanet
+written language corpora,málheildir ritmáls
+written language input,ritmálsílag

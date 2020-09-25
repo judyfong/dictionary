@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.6">
+    <title>English-Icelandic dictionary</title>
+
+    <!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- Favicons -->
+<link rel="apple-touch-icon" href="/docs/4.4/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="/docs/4.4/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/docs/4.4/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="manifest" href="/docs/4.4/assets/img/favicons/manifest.json">
+<link rel="mask-icon" href="/docs/4.4/assets/img/favicons/safari-pinned-tab.svg" color="#563d7c">
+<link rel="icon" href="/docs/4.4/assets/img/favicons/favicon.ico">
+<meta name="msapplication-config" content="/docs/4.4/assets/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#563d7c">
+
+
+<style>
+
+path {
+    stroke: orange;
+    stroke-width: 2;
+    fill: none;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+.bar2 {
+  fill: orange;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightyellow;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="#">EN-IS Dictionary</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" id="myInput" type="text" placeholder="Search" aria-label="Search" onkeyup="findMatchingWords()">
+    </form>
+  </div>
+</nav>
+
+<main role="main">
+
+  <!-- Main jumbotron for a primary marketing message or call to action -->
+  <div class="jumbotron">
+    <div class="container">
+      <h1 class="display-3">Technology dictionary</h1>
+      <p>This is mainly an English Icelandic language technology dictionary but it is also a general technology dictionary.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- Example row of columns -->
+    <h1>English Icelandic Language and Technology Dictionary</h1>
+    <table class="table" id="EN-IS-dictionary">
+    </table>
+    <script src="csv-to-table.js"></script>
+  </div>
+
+</main>
+
+<footer class="container">
+  <p>&copy; Judy Fong 2020</p>
+</footer>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="/docs/4.4/assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="/docs/4.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+<script>
+function findMatchingWords() {
+  let input, filter, table, tr, english, icelandic, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("EN-IS-dictionary");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    english = tr[i].getElementsByTagName("td")[0];
+    icelandic = tr[i].getElementsByTagName("td")[1];
+    if (english) {
+      txtValue = english.textContent || english.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+    if (icelandic) {
+      txtValue = icelandic.textContent || icelandic.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      }
+    }
+  }
+}
+</script>
+</body>
+</html>
