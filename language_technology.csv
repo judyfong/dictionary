@@ -40,6 +40,7 @@ bootstrapping approach,gagnkvæm hringrás
 bootstrapping approach,sjálfkvæm nálgun
 bottom-up,neðansækinn
 data-directed,neðansækinn
+data format,skráarform
 brill type tagger,markari brills
 categorial grammar,frumflokkamálfræði
 categorization,frumflokkun
@@ -112,6 +113,7 @@ denote,aðalmerkja
 denote,hrámerkja (x denotes y)
 dependency bank,venslabanki
 dependency grammar,venslamálfræði
+development sets,þróunarlistar
 dialect,mállýska
 dialects,mállýskur
 dialogue,samræða
@@ -164,6 +166,7 @@ grammar checker,málrýnir/málfræðirýnir
 grammar models and formalisms,málfræðilíkön og formalismar
 grammars,mállýsingar
 grammatical tagger,málfræðilegur markari
+grapheme combinations,stafasambönd
 graphical user interface,myndrænt viðmót
 GUI,myndrænt viðmót
 head-driven phrase structure grammar,höfuðstýrð liðgerðarmálfræði
@@ -225,6 +228,7 @@ lemma,flettimynd
 lexeme ,les
 lexical analysis,lesgreining
 lexical semantics,orðfræðileg merkingarfræði
+lexicon acquisition tool,orðtökutól
 lexicon coding tool,orðasafnskótunarverkfæri
 lexicons,orðasöfn
 linguistic computing,máltölvun
@@ -237,10 +241,13 @@ machine learning algorithms,vélnámsreiknirit
 machine translation,vélræn þýðing
 machine translation,vélþýðing
 machine-aided human translation,vélstudd þýðing
+mappings,varpanir
+mapping functions,vörpunarföll
 mathematical methods,stærðfræðilegar aðferðir
 maximum entropy methods,hámarksóreiðuaðferðir
 meaning representation,merkingartáknun
 memory based tagger,minnismarkari
+models,líkön
 module,eining
 module,mótull
 morphological analysis,orðhlutafræðileg greining
@@ -270,6 +277,7 @@ natural language processing,málvinnsla
 neural networks,tauganet
 noisy channel model,truflunarlíkan
 non-textual format,á öðru sniði en sem texta
+n-grams,n-stæður
 OCR: handwriting,ljóskennsl: skrift
 OCR: print,ljóskennsl: prent
 ontological language resources ,veranleg málgögn 
@@ -288,6 +296,8 @@ parameter,færibreyta
 parameter,stiki
 parse tree,þáttunartré
 parser,þáttari
+parser,þáttara
+parsing,þáttun
 parsing,þáttun greining
 parsing,setningafræðileg greining
 parsing techniques,þáttunaraðferðir
@@ -300,6 +310,7 @@ part-of-speech tagging,orðflokksmörkun
 perceptron,skynjunarnet
 perceptron,skynjunganet
 "performance (m.t.t. nákvæmni, heimt o.s.frv.)",hæfni
+phonetic transcription,hljóðritun
 platform,verkvangur
 pos tagging,mörkun (eða málfræðileg mörkun)
 pragmatics,málnotkunarfræði
@@ -313,6 +324,8 @@ probabilistic context-free grammars,líkindafræðilegar samhengisfrjálsar mál
 probabilistic parsing,líkindaþáttun
 probabilistic tagging,líkindamörkun
 programming environment,forritunarumhverfi
+pronunciation,framburður
+pronunciation dictionary,framburðarorðabók
 prosody information processing,úrvinnsla hljómfallsupplýsinga
 punctuation,greinarmerkjasetning
 qualitative analysis,eigindargreining
@@ -356,6 +369,7 @@ shallow parsing,hlutaþáttun/grunn þáttun
 shallow parsing,grunn þáttun
 shallow parsing,hlutþáttun
 signal analysis and representation,greining og framsetning merkja
+signals,merki
 smoothing,jöfnun
 software application,hugbúnaður
 software application,viðfang
@@ -373,6 +387,7 @@ speech input – assessment and evaluation,mat á talinntaki
 speech interaction ,talsamskipti
 speech interaction technology ,talsamskiptatækni
 speech recognition,talkennsl
+speech recognition,talgreining
 speech recognition module,talkennsleining
 speech recognizer,talþekkjari
 speech retrieval,talheimt
@@ -411,11 +426,13 @@ support vector machines,stoðvigravélar
 syntactic generation,setningagerving
 syntactic parsing,setningaleg þáttun
 syntax-driven semantic analysis,merkingarfræði í setningarlegu ljósi
+system,kerfi
 tag,mark 
 tagged corpus,mörkuð málheild
 tagger,markari
 tagging,mörkun
 tagset,markaskrá
+tagset,markamengi
 target language,markmál
 task-specific module,sérhæfð forritseining
 technical product,tæknileg afurð
@@ -427,6 +444,8 @@ terminal,skjáhermi
 terminology,íðorðaforði
 terminology restrictions,íðorðahömlur
 test corpus,prófunarsafn
+test set,prófunarsett
+test sets,prófunarlistar
 text collection,textasafn
 text compression,textaþjöppun
 text data mining,gagnanám úr texta
@@ -451,6 +470,7 @@ goal-directed,ofansækinn
 topic detection,efnissviðsgreining
 toy system,leikfangakerfi
 training corpus,þjálfunarsafn
+training set,þjálfunarsett
 transformation-based taggers,námsfúsir markarar
 transformation-based taggers,leiðréttingamarkari
 translation memory,þýðingarminni
@@ -476,6 +496,7 @@ voice recognition,raddkennsl
 voice user interface,raddstýrt notendaviðmót 
 web search,vefleit
 web search engine,vefleitarvél
+web user interface,vefviðmót
 wildcard character,algildisstafur
 word embedding,orðaívefja
 word embedding,orðagreyping
