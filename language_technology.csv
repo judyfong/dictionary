@@ -27,6 +27,7 @@ authoring tools,ritstoðartól
 automatic continuous speech recognition ,sjálvirk orðaflaumskennsl 
 automatic hyperlinking,sjálfvirk tenglasetning
 automatic language identification,sjálfvirk tungumálskennsl
+automatic rule-based parser,sjálfvirkum regluþáttara
 automatic text summarization,vélrænn útdráttur
 backoff,íhörfun
 bactracking,rakning
@@ -116,11 +117,13 @@ dependency grammar,venslamálfræði
 development sets,þróunarlistar
 dialect,mállýska
 dialects,mállýskur
+dialects,framburðartilbrigði
 dialogue,samræða
 dialogue management ,samræðustjórnun
 dialogue manager,samræðustjóri
 dialogue modeling,gerð samræðulíkana
 dialogue system,samræðukerfi
+dictionary,orðalista
 digital humanities,stafræn hugvísindi
 digital library,stafrænt bókasafn
 diphone,tvístæða
@@ -162,6 +165,7 @@ formant synthesiser,formandagervill
 forward chaining,framkeðjun
 front-end,framendi
 full parsing,full þáttun
+gold standard,gullstaðal
 grammar checker,málrýnir/málfræðirýnir
 grammar models and formalisms,málfræðilíkön og formalismar
 grammars,mállýsingar
@@ -308,6 +312,7 @@ partial parsing,hlutaþáttun
 partial/shallow parsing,hlutþáttun
 partial/shallow parsing,grunnþáttun
 partial/shallow parsing,hlutaþáttun
+part-of-speech,orðflokk
 part-of-speech tagging,orðflokksmörkun
 perceptron,skynjunarnet
 perceptron,skynjunganet
@@ -366,6 +371,7 @@ semantic corpora,merkingarmálheild
 semantic drift,merkingarrek
 semantic web,merkingarvefur
 semantic web community,samfélag merkingarvefja
+sentences,málsgreinir
 shallow generation,grunn málgerving,
 shallow generation,grunn myndun
 shallow parsing,hlutaþáttun/grunn þáttun
@@ -382,6 +388,7 @@ speaker diarization,samræðugreind
 speaker recognition,mælandakennsl
 speech analyser,talgreinir
 speech analysis,talgreining
+speech applications,taltæknihugbúnaði
 speech coding,talkótun
 speech coding,talkóðun
 speech encryption,dulritun tals
@@ -499,6 +506,7 @@ video file,myndbandsskrá
 voice recognition,raddþekking
 voice recognition,raddkennsl
 voice user interface,raddstýrt notendaviðmót 
+web application,vefviðmót
 web search,vefleit
 web search engine,vefleitarvél
 web user interface,vefviðmót
