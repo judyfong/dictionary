@@ -1,7 +1,13 @@
-function findMatchingWords() {
-  let input, filter, table, tr, english, icelandic, i, txtValue;
+function searchForWords() {
+  let input;
   input = document.getElementById("myInput");
-  filter = input.value.toUpperCase();
+  findMatchingWords(input.value);
+  window.history.pushState({},'','?q=' + input.value);
+}
+
+function findMatchingWords(word) {
+  let filter, table, tr, english, icelandic, i, txtValue;
+  filter = word.toUpperCase();
   table = document.getElementById("EN-IS-dictionary");
   tr = table.getElementsByTagName("tr");
 
@@ -25,3 +31,15 @@ function findMatchingWords() {
     }
   }
 }
+
+$(window).load(function() {
+  console.debug('onload');
+  //verify speechId is a query parameter at the end of the URL
+  if (window.location.href.indexOf("q=") > -1) {
+    var word = (window.location.href.match(/q=([^&]+)/))[1];
+    if (word) {
+        document.getElementById("myInput").value=word;
+        findMatchingWords(word);
+    }
+  }
+});
