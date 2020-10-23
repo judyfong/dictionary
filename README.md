@@ -1,5 +1,5 @@
 # English Icelandic Technology and Language dictionary
-This is currently and english icelandic searchable dictionary.
+This is currently an english icelandic searchable dictionary.
 
 # Usage
 The website is available at https://judyfong.github.io/dictionary
