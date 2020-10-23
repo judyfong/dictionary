@@ -314,12 +314,16 @@ partial/shallow parsing,grunnþáttun
 partial/shallow parsing,hlutaþáttun
 part-of-speech,orðflokk
 part-of-speech tagging,orðflokksmörkun
+part-of-speech tagging,mörkun
+part-of-speech tagging,málfræðileg mörkun
 perceptron,skynjunarnet
 perceptron,skynjunganet
 "performance (m.t.t. nákvæmni, heimt o.s.frv.)",hæfni
 phonetic transcription,hljóðritun
 platform,verkvangur
-pos tagging,mörkun (eða málfræðileg mörkun)
+pos tagging,orðflokksmörkun
+pos tagging,mörkun
+pos tagging,málfræðileg mörkun
 pragmatics,málnotkunarfræði
 pragmatics,málnotafræði
 precision,nákvæmni
