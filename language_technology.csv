@@ -151,6 +151,8 @@ encode,kóta
 encode,kóða
 encoder,kótari
 encoder,kóðari
+error corpus,villumálheild
+error categories,villuflokkar
 evaluation,mat
 example resource exercise,dæmaæfing
 example-based translation,dæmabyggð þýðing
@@ -162,6 +164,9 @@ finite-state machine,stöðuvél
 finite state machine,endanlegar stöðuvélar
 finite state transducer,endandleg stöðuferjöld
 formant synthesiser,formandagervill
+foreign language,L2
+foreign language,annars mál
+foreign language speakers,annars málshafar
 forward chaining,framkeðjun
 front-end,framendi
 full parsing,full þáttun
@@ -171,6 +176,7 @@ grammar models and formalisms,málfræðilíkön og formalismar
 grammars,mállýsingar
 grammatical tagger,málfræðilegur markari
 grapheme combinations,stafasambönd
+grammar correction,málfræðileiðrétting
 graphical user interface,myndrænt viðmót
 GUI,myndrænt viðmót
 head-driven phrase structure grammar,höfuðstýrð liðgerðarmálfræði
@@ -253,6 +259,7 @@ mathematical methods,stærðfræðilegar aðferðir
 maximum entropy methods,hámarksóreiðuaðferðir
 meaning representation,merkingartáknun
 memory based tagger,minnismarkari
+milestones,vörðurnar
 models,líkön
 module,eining
 module,mótull
@@ -368,6 +375,9 @@ running word,lesmálsorð
 search engine,leitarvél
 search interface,leitarviðmót
 search interface,leitarskil
+second language,L2
+second language,annars mál
+second language speakers,annars málshafar
 selection module,valeining
 selectional association,valtengsl
 selectional restrictions,valhömlur
@@ -376,6 +386,7 @@ semantic drift,merkingarrek
 semantic web,merkingarvefur
 semantic web community,samfélag merkingarvefja
 sentences,málsgreinir
+sentence-based correction,setningaleiðrétting
 shallow generation,grunn málgerving,
 shallow generation,grunn myndun
 shallow parsing,hlutaþáttun/grunn þáttun
@@ -483,6 +494,7 @@ tokenizer,tilreiðari
 tokenizer,tókari
 top-down,ofansækinn
 goal-directed,ofansækinn
+token-based errors,stakorðavillur
 topic detection,efnissviðsgreining
 toy system,leikfangakerfi
 training corpus,þjálfunarsafn
