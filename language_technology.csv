@@ -17,6 +17,7 @@ application area,verkbúnaðarsvið
 application environment,verkbúnaðarumhverfi
 application program interface,forritaskil
 application program interface,api
+argument definitions,rökliðagreining
 attribute,eigind
 attribute,eiginleiki
 audio file,hljóskrá
@@ -33,6 +34,7 @@ backoff,íhörfun
 bactracking,rakning
 backward chaining,afturkeðjun
 backward chaining,bakkeðjun
+baseline,grunnlína
 bidirectional tagger,tvístefnumarkari
 bigram,tvístæða
 bigram,tvennd
@@ -41,6 +43,7 @@ bootstrapping approach,gagnkvæm hringrás
 bootstrapping approach,sjálfkvæm nálgun
 bottom-up,neðansækinn
 data-directed,neðansækinn
+data analysis,gagnagreining
 data format,skráarform
 brill type tagger,markari brills
 categorial grammar,frumflokkamálfræði
@@ -283,6 +286,7 @@ multimodality,fjölskynþátta
 named entity,sérheitaeining
 named entity,nefnd eining
 named entity recognition,nafnakennsl
+named entity recognition,nafnaþekkjari
 natural language generation,gerving náttúrulegs máls
 natural language generation,myndun náttúrulegs máls
 natural language parsing,þáttun náttúrulegs máls
@@ -472,6 +476,8 @@ terminology,íðorðaforði
 terminology restrictions,íðorðahömlur
 test corpus,prófunarsafn
 test set,prófunarsett
+test set,prófunarmengi
+test set,prófunarhluti
 test sets,prófunarlistar
 text collection,textasafn
 text compression,textaþjöppun
@@ -498,6 +504,7 @@ token-based errors,stakorðavillur
 topic detection,efnissviðsgreining
 toy system,leikfangakerfi
 training corpus,þjálfunarsafn
+training corpus,þjálfunarmálheild
 training set,þjálfunarsett
 transformation-based taggers,námsfúsir markarar
 transformation-based taggers,leiðréttingamarkari
