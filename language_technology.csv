@@ -3,6 +3,7 @@ accuracy,hittni
 accuracy,nákvæmni
 acoustic analysis,hljóðgreining
 advanced discourse processing,þróuð orðræðuaðferð
+aligned,samröðun
 alignment,samskipun
 alignment,samröðun orða
 alignment,samröðun setninga
@@ -30,11 +31,14 @@ automatic hyperlinking,sjálfvirk tenglasetning
 automatic language identification,sjálfvirk tungumálskennsl
 automatic rule-based parser,sjálfvirkum regluþáttara
 automatic text summarization,vélrænn útdráttur
+auto-correlation,sjálfvirku fylgni
+background noise,bakgrunnshávaða
 backoff,íhörfun
 bactracking,rakning
 backward chaining,afturkeðjun
 backward chaining,bakkeðjun
 baseline,grunnlína
+baseline,beislínu
 bidirectional tagger,tvístefnumarkari
 bigram,tvístæða
 bigram,tvennd
@@ -45,6 +49,8 @@ bottom-up,neðansækinn
 data-directed,neðansækinn
 data analysis,gagnagreining
 data format,skráarform
+data set,gagnasafn
+dataset,gagnasafn
 brill type tagger,markari brills
 categorial grammar,frumflokkamálfræði
 categorization,frumflokkun
@@ -182,9 +188,12 @@ grapheme combinations,stafasambönd
 grammar correction,málfræðileiðrétting
 graphical user interface,myndrænt viðmót
 GUI,myndrænt viðmót
+harmonicity,samhljóm
 head-driven phrase structure grammar,höfuðstýrð liðgerðarmálfræði
 heuristics,brjóstvitsreglur
 heuristics,þumalputtareglur
+highlight,yfirstrikunarlitur
+highlight,litun texta
 high-level language,æðra forritunarmál
 HMM methods,aðferðir hulinna markovslíkana
 human aided machine translation,mannstudd vélræn þýðing
@@ -204,6 +213,7 @@ input,ílag
 input,viðfang
 input text,ílagstexti
 input text,viðfangstexti
+intensity,styrkleika
 interface,viðmót
 intranet,innranet
 intuitive language-based interfaces,hugsýn málbundin skil
@@ -246,6 +256,7 @@ lexicon coding tool,orðasafnskótunarverkfæri
 lexicons,orðasöfn
 library,forritasafn
 library,forritseining
+license,afnotaleyfi
 linguistic computing,máltölvun
 linguistically annotated corpora,málfræðilega markaðar málheildir
 linked data,tengd gögn
@@ -292,8 +303,10 @@ natural language generation,myndun náttúrulegs máls
 natural language parsing,þáttun náttúrulegs máls
 natural language processing,málvinnsla
 neural networks,tauganet
+noise,hávaði
 noisy channel model,truflunarlíkan
 non-textual format,á öðru sniði en sem texta
+normalized,staðlaður
 n-grams,n-stæður
 OCR: handwriting,ljóskennsl: skrift
 OCR: print,ljóskennsl: prent
@@ -330,6 +343,7 @@ part-of-speech tagging,málfræðileg mörkun
 perceptron,skynjunarnet
 perceptron,skynjunganet
 "performance (m.t.t. nákvæmni, heimt o.s.frv.)",hæfni
+pitch,hljómfallseinkennin
 phonetic transcription,hljóðritun
 platform,verkvangur
 pos tagging,orðflokksmörkun
@@ -382,6 +396,7 @@ search interface,leitarskil
 second language,L2
 second language,annars mál
 second language speakers,annars málshafar
+segmented,sneidd
 selection module,valeining
 selectional association,valtengsl
 selectional restrictions,valhömlur
@@ -403,6 +418,7 @@ software application,hugbúnaður
 software application,viðfang
 source language,frummál
 speaker,mælandi
+speaker,málhafa
 speaker diarization,samræðugreind
 speaker recognition,mælandakennsl
 speech analyser,talgreinir
@@ -526,6 +542,7 @@ usability and interface design,nytsemi og viðmótshönnun
 user interface,notendaviðmót
 user modeling,notendahönnun
 user query,fyrirspurn notanda
+utterance,yrðingar
 video file,myndbandsskrá
 voice recognition,raddþekking
 voice recognition,raddkennsl
