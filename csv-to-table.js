@@ -1,8 +1,9 @@
-d3.csv("language_technology.csv", function(error, data) {
+function data2table(divId, url) {
+d3.csv(url, function(error, data) {
     if (error) throw error;
     //comes from: http://bl.ocks.org/AMDS/4a61497182b8fcb05906
     var sortAscending = true;
-    var table = d3.select('#EN-IS-dictionary');
+    var table = d3.select(divId);
     var titles = d3.keys(data[0]);
     var headers = table.append('thead').append('tr')
         .selectAll('th')
@@ -46,3 +47,4 @@ d3.csv("language_technology.csv", function(error, data) {
             return d.value;
         });
 });
+}
