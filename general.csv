@@ -1,105 +1,782 @@
 English,Icelandic,slang or not
-intuition,innsæi,not slang
-manifest,áþreifanlegur, not slang
-manifest,augljós, not slang
-compass,áttaviti,not slang
-procrastination,frestun,not slang
-define,afmarka,not slang
-delimit,afmarka,not slang
-treatment of material,efnistök,not slang
-tímasókn,attendance,not slang
-hnökrar,without falter,not slang
-bibliography,heimildaskrá,not slang
-bibliography,heimildaöflun,not slang
-original text,frumheimildir,not slang
-original source,frumheimildir,not slang
-peer-reviewed material, rítrýnt efni,not slang
-constant,stöðugur,not slang
-steadfast,stöðugur,not slang
-incessant,stöðugur,not slang
-The Student Cellar, Stúdentakjallarinn,not slang
-Háskólatorg,Háskólatorg,not slang
-University Square,Háskólatorg,not slang
-"Oktoberfest","Októberfest",not slang
-"Oktoberfest","Oktfest",not slang
-university square,HT,slang
-The Student Cellar, Kja,slang
-The Student Cellar,Stúdó,slang
-student housing,stúdentagarðar,not slang
-student housing,garðarnir,slang
-student rights office,réttingaskrifstofa SHÍ,not slang
-student rights office, skri,slang
-freshman,busi,slang
-freshman,nýnemi,not slang
-hotdog,hotdog,not slang
-hotdog,slanga,slang
-University of Iceland,Háskóli Íslands,not slang
-University of Iceland,Háskólinn,slang
-Reykjavík University,Háskólinn í Reykjavík,not slang
-Reykjavik University,Háskólinn í Reykjavík,not slang
-Reykjavík University,Háskólinn við Nauthólsvík,slang
-Reykjavik University,Háskólinn við Nauthólsvík,slang
-fast,snöggur,slang
-quick,snöggur,slang
-to make oneself, halla sér, colloquial
-to match figuratively, hæfa,
-to realize, gera sér ljóst
-awkwardly,klaufalega,
-guard, varðmaður eða vörður,
-sentry, varðamaður eða vörður,
-strength, styrkleiki,
-combat,bardagi,
-class,áfangi,
-escape plan,flóttaleiðir,
+2 dependent sample t-test,t-próf tveggja háðra úrtaka
+2 independent sample t-test,t-próf tveggja óháðra úrtaka
+2 paired sample t-test,t-próf tveggja háðra úrtaka
+abstract,huglæg
+academic progress,námsframvindu
+accidental gap,tilviljunargat
 accounting,bókhald
 account,reikningur
-annual financial statement,ársreikningur
-balance sheet,efnahagsreikningur
-cash flow,sjóðstreymi
-debt,skuld
-equity,eigið fé
-financial budget,fjárhagsáætlun
-capital,fjármagn
-profit,hagnaður
-loss,tap
-revenue,tekjur
-income, tekjur
-expenses,útgjöld
-tax,skattur
-dividend,arður
-liability,skuldbinding
-asset,eign
-depreciation,afskrift
-audit,endurskoðun
-accounts receivable,viðskiptakröfur
 accounts payable,viðskiptaskuldir
-procurement,innkaup
-cost,kostnaður
-investment,fjárfesting
-interest,vöxtur
-operating expense,rekstrarkostnaður
-profit margin,hagnaðarhlutfall
-solvency,greiðslugeta
-withdrawal,úttekt
-deposit,innborgun
-finances,fjárhagur
-due date,gjalddagi
-economic condition,hagræn staða
-securities,verðbréf
-insurance,trygging
-financial,fjárhagslegur
-income statement,rekstrarreikningur
-value-added tax (VAT),virðisaukaskattur
-payroll,launaskrá
-treasury,fjárvarsla
-badger, greifingja, not slang
-toaster oven, grillofn, not slang
+accounts receivable,viðskiptakröfur
+accuracy,hittni
+accuracy,nákvæmni
+acoustic analysis,hljóðgreining
+acoustics,eðlisfræðilegir þættir málhljóða
+acquiescence,samþykkishneigðar
+advanced discourse processing,þróuð orðræðuaðferð
 airfryer, loftsteikingarpottur, not slang
+aligned,samröðun
+alignment,samröðun orða
+alignment,samröðun setninga
+alignment,samskipun
+allophones,hljóðbrigði
+ambiguity,margræðni
+Analysis of variance,dreifigreining
+annotated corpus,mörkuð málheild
+annual financial statement,ársreikningur
+anonymity,nafnleynd
+answer extraction,útdráttur svara
+API,API
+API,forritaskil
+application area,verkbúnaðarsvið
+application environment,verkbúnaðarumhverfi
+application,forrit
+application program interface,api
+application program interface,forritaskil
+application,verkbúnaður
+Aquarius,Vatnsberi
+áramótaskaup, áramótaskaup, not slang
+argument definitions,rökliðagreining
+Aries,Hrútur
+articulation,myndun málhljóða
+arytenoid,könnubrjósk
+asset,eign
+assimilation,samlögun
+attribute,eigind
+attribute,eiginleiki
+audio file,hljóskrá
+audit,endurskoðun
+authoring support,ritstoð
+authoring support software,ritstoðarforrit
+authoring support systems,ritstoðarkerfi
+authoring tools,ritstoðartól
+auto-correlation,sjálfvirku fylgni
+automatic continuous speech recognition ,sjálvirk orðaflaumskennsl 
+automatic hyperlinking,sjálfvirk tenglasetning
+automatic language identification,sjálfvirk tungumálskennsl
+automatic rule-based parser,sjálfvirkum regluþáttara
+automatic text summarization,vélrænn útdráttur
+available,liggja fyrir
+awareness,vitund
+awkwardly,klaufalega,
+background noise,bakgrunnshávaða
+backoff,íhörfun
+backward chaining,afturkeðjun
+backward chaining,bakkeðjun
+bactracking,rakning
+badger, greifingja, not slang
+balance sheet,efnahagsreikningur
+baseline,beislínu
+baseline,grunnlína
+before,fyrirfram
+best estimate, matskennd fjáhæð
+bibliography,heimildaöflun,not slang
+bibliography,heimildaskrá,not slang
+bidirectional tagger,tvístefnumarkari
+bigram,tvennd
+bigram,tvístæða
+bilingual text corpus,tvímála málheild
+bootstrapping approach,gagnkvæm hringrás
+bootstrapping approach,sjálfkvæm nálgun
+bottom-up,neðansækinn
+brill type tagger,markari brills
+Cancer,Krabbi
+capital,fjármagn
+Capricorn,Steingeit
+carrying value of the bond,bókfært verð af skulduna
+cartilage,brjóskflögur
+cash flow,sjóðstreymi
+categorial grammar,frumflokkamálfræði
+categorization,frumflokkun
+central tendency,miðsækni
+cheese pizza, margarita pizza, not slang
+Chi-square,kí-kvaðrat
+chunk,bagga
+chunk,baggi
+chunking,böggun
+class,áfangi,
+clustering,þyrpa
+clustering,þyrping
+code ,kóða
+code ,kóta
+code ,kóti
+coding and compression,kóðun og þjöppun
+coding and compression,kótun og þjöppun
+coding tool,kóðunartól
+coding tool,kóðunarverkfæri
+coding tool,kótunartól
+coding tool,kótunarverkfæri
+collection of texts,textasafn
+collocational features,orðastæðuþættir
+collocational features,samstæðuþættir
+collocations,orðastæður
+collocations,samstæður
+combat,bardagi,
+common voice,samrómur
+compass,áttaviti,not slang
+complementary distribution,fyllidreifingu
+comprehensive income,heildarafkoma
+compression,þjöppun
+computational linguistics,reiknifræðileg málfræði
+computational linguistics,reiknifræðileg málvísindi
+computational linguistics,tölvumálfræði
+computational linguistics,tölvumálvísindi
+computational pragmatics,reiknifræðileg málnotafræði
+computational pragmatics,tölvufræðileg málnotafræði
+computational psycholinguistics,reiknifræðileg sálmálvísindi
+computational psycholinguistics,tölvufræðileg sálmálvísindi
+computational semantics,merkingartækni
+computational semantics,reiknifræðileg merkingarfræði
+computational semantics,tölvufræðileg merkingarfræði
+computer-assisted language learning,tölvustutt tungumálanám
+conditional random fields,skilyrt slembisvæði
+confidentiality,trúnaður
+connectionist techniques,samtengiaðferðir
+constant,stöðugur,not slang
+content production,semja efni
+context sensitive spell-checking,samhengisháð ritvilluleit
+context sensitive spell-checking,samhengisháð stafrýni
+conversational agent,talþjónn
+conversation,samræða
+co-occurrence features,grenndarþættir
+co-payment,meðlag
+coreference resolution,samvísunartúlkun
+coreference resolution,tilvísanagreining
+corpus linguistics,gagnamálfræði
+corpus linguistics,gagnamálvísindi
+corpus,málheild
+cost,kostnaður
+cross-lingual information retrieval,þvermála upplýsingaheimt
+cross-lingual language capabilities,þvermálamöguleikar
+cross validation,krossprófun
+data analysis,gagnagreining
+data-directed,neðansækinn
+data-driven methods,gagnaaðferðir aðferðir
+data-driven methods,gagnastýrðar aðferðir
+data-driven system,gagnakerfi
+data format,skráarform
+data,gögn
+data presentation method,gagnaframsetningaraðferð
+data set,gagnasafn
+dataset,gagnasafn
+debt,skuld
+decision list classifiers,flokkaraskrá
+decoder,afkóðari
+decoder,afkótari
+deep generation,djúp málgerving
+deep parser performance evaluation,mat á frammistöðu djúpþáttara
+deep parsing,djúp þáttun
+deep parsing,full þáttun
+define,afmarka,not slang
+delay, töf, not slang
+delimit,afmarka,not slang
+denotation,aðalmerking
+denotation,merkingarkjarni
+denotation,umtak
+denote,aðalmerkja
+denote,hrámerkja (x denotes y)
+dependency bank,venslabanki
+dependency grammar,venslamálfræði
+deposit,innborgun
+depreciation,afskrift
+development sets,þróunarlistar
+devoicing,afröddun
+dialect,mállýska
+dialects,framburðartilbrigði
+dialects,mállýskur
+dialogue management ,samræðustjórnun
+dialogue manager,samræðustjóri
+dialogue modeling,gerð samræðulíkana
+dialogue,samræða
+dialogue system,samræðukerfi
+dictionary,orðalista
+digital humanities,stafræn hugvísindi
+digital library,stafrænt bókasafn
+diphone concatenation system,tvístæðu samtengingarkerfi
+diphone,tvístæða
+diphthongization,tvíhljóðun
+disambiguation,einræðing
+discourse and dialogue,orðræða og samræða
+discourse capabilities,samræðuhæfileikar
+discourse corpora,orðræðumálheild
+discourse modeling,gerð orðræðulíkana
+discourse ,orðræða
+discriminative tagger,aðgreiningarmarkari
+dividend,arður
+document image analysis,greining skjalmyndar
+dsp techniques,stafrænar merkjavinnsluaðferðir
+due date,gjalddagi
+dynamic programming,kvik bestun
+dynamic programming,kvikbestun
+dynamic programming,kvikleg forritun
+economic condition,hagræn staða
+effective interest,virkir vextir
+effective interst method - present value amortization
+e-learning environments,fjarnámsumhverfi
+e-learning,fjarnám
+e-learning,fjarskiptanám
+embedding,greyping
+emerging computing paradigms,uppkomandi viðmið í tölvun
+emotion recognition,tilfinningakennsl
+encode,kóða
+encode,kóta
+encoder,kóðari
+encoder,kótari
+equity,eigið fé
+error categories,villuflokkar
+error corpus,villumálheild
+escape plan,flóttaleiðir,
+evaluation,mat
+example-based translation,dæmabyggð þýðing
+example resource exercise,dæmaæfing
+expenses,útgjöld
+exploratory data analysis,gagnakönnun
+Factor analysis, þáttagreiningu
+fast,snöggur,slang
+feature,kenni
+feature,sérkennaþáttur
+finances,fjárhagur
+financial budget,fjárhagsáætlun
+financial,fjárhagslegur
+finite state machine,endanlegar stöðuvélar
+finite-state machine,stöðuvél
+finite-state,stöðuferjöld
+finite state technology,stöðuvélatækni
+finite state transducer,endandleg stöðuferjöld
+foreign language,annars mál
+foreign language,L2
+foreign language speakers,annars málshafar
+formant synthesiser,formandagervill
+fortition,lokhljóðun
+forward chaining,framkeðjun
+freshman,busi,slang
+freshman,nýnemi,not slang
+fricativization,önghljóðun
+front-end,framendi
 frost, frosthörkur, not slang
+full parsing,djúp þáttun
+full parsing,full þáttun
+Gemini,Tvíburar
+Gemini,Tvíburi
+glottis,raddglufuna
+goal-directed,ofansækinn
+gold standard,gullstaðal
+grammar checker,málrýnir/málfræðirýnir
+grammar correction,málfræðileiðrétting
+grammar models and formalisms,málfræðilíkön og formalismar
+grammars,mállýsingar
+grammatical tagger,málfræðilegur markari
+grapheme combinations,stafasambönd
+graphical user interface,myndrænt viðmót
+guard, varðmaður eða vörður,
+GUI,myndrænt viðmót
+harmonicity,samhljóm
+Háskólatorg,Háskólatorg,not slang
+head-driven phrase structure grammar,höfuðstýrð liðgerðarmálfræði
+hedge accounting,áhættuvarnarreikningsskila
+hedge accounting,áhættuvarnir
+heuristics,brjóstvitsreglur
+heuristics,þumalputtareglur
+high-level language,æðra forritunarmál
+highlight,litun texta
+highlight,yfirstrikunarlitur
+HMM methods,aðferðir hulinna markovslíkana
+hnökrar,without falter,not slang
+horoscope,stjörnuspá
+hotdog,hotdog,not slang
+hotdog,slanga,slang
+household,hjúskaparstöða
+human aided machine translation,mannstudd vélræn þýðing
+hypercorrection,ofvöndun
+hyperparameter,ytri stiki
+hyphenation programs,orðskiptiforrit
 imminent, yfirvofandi, not slang
 impending, yfirvofandi, not slang
-áramótaskaup, áramótaskaup, not slang
-tramp, umrenningur, not slang
+incessant,stöðugur,not slang
+income statement,rekstrarreikningur
+income, tekjur
+indexing,lyklun
+individual word speech recogniser,stakorðagreinir
+individual word speech recognizer,stakorðagreinir
+in-domain,innan óðals
+inductive logic programming,aðleiðsluleg rökforritun
+information access,upplýsingaðgangur
+information extraction,útdráttur upplýsinga
+information processing,upplýsingavinnsla
+information retrieval,upplýsingaheimt
+information technology,upplýsingatækni 
+input,ílag
+input text,ílagstexti
+input text,viðfangstexti
+input,viðfang
+insurance,trygging
+intensity,styrkleika
+interest,vöxtur
+interface,viðmót
+intranet,innranet
+intuition,innsæi,not slang
+intuitive language-based interfaces,hugsýn málbundin skil
+investment,fjárfesting
+isolated word recognizer,stakorðagreinir
+isolated word speech recognition,stakorðagreining
+key enabling technology,lykilstuðningstækni
+keyword-based search,lykilorðaleit
+knowledge discovery,þekkingaröflun
+knowledge-driven,þekkingarstýrð
+knowledge exchange,þekkingarskipti
+knowledge management,þekkingarstjórnun
+knowledge technology,þekkingartækni
+knowledge,vitund
+label,mark
+label,merkja
+lambda reduction,aflömbdun
+lambda reduction,lambdaeinföldun
+language analysis,málgreining
+language checking,málrýni
+language engineering,máltækni
+language engineering,tungutækni
+language generation,málgerving
+language generation,málmyndun
+language modelling,gerð tungumálalíkana
+language model,mállíkan
+language resources,málföng
+language resources,málgögn
+language technology application,máltæknibúnaður
+language technology,máltækni
+language technology,tungutækni
+language tools,máltæki
+language understanding,málskilningur
+larynx,barkakýlisins
+latent semantic analysis,hulin merkingargreining
+lemma,flettimynd
+lemma,nefnimynd
+lenition,veiklun
+Leo,Ljón
+Leo,Ljónið
+lexeme ,les
+lexical analysis,lesgreining
+lexical semantics,orðfræðileg merkingarfræði
+lexicon acquisition tool,orðtökutól
+lexicon coding tool,orðasafnskótunarverkfæri
+lexicons,orðasöfn
+liability, skuld
+liability,skuldbinding
+library,forritasafn
+library,forritseining
+Libra,Vog
+license,afnotaleyfi
+linguistically annotated corpora,málfræðilega markaðar málheildir
+linguistic computing,máltölvun
+linked data,tengd gögn
+localisation expert,staðfæringarsérfræðingur
+loss,tap
+machine-aided human translation,vélstudd þýðing
+machine code,vélarmál
+machine learning algorithms,vélnámsreiknirit
+machine learning,vélanám
+machine translation,vélræn þýðing
+machine translation,vélþýðing
+manifest,augljós, not slang
+manifest,áþreifanlegur, not slang
+mapping functions,vörpunarföll
+mappings,varpanir
+market price, markaðsverð
+market rate, markaðsverð
+mathematical methods,stærðfræðilegar aðferðir
+maximum entropy methods,hámarksóreiðuaðferðir
+meaning representation,merkingartáknun
+mean,meðaltal
+median,miðgildi
+membranes,himnur
+memory based tagger,minnismarkari
+milestones,vörðurnar
+minimal pair,lágmarkspar
+models,líkön
+mode,tíðasta gildi
+module,eining
+module,mótull
+morphological analysis,orðhlutafræðileg greining
+morphological disambiguation,orðhlutafræðileg einræðing
+morphological parsing,orðhlutafræðileg þáttun
+multilingual corpora,margmála málheildir
+multilingual generation,margmála málmyndun
+multilingual information retrieval,margmála upplýsingaheimt
+multilingualism,margmæli
+multilinguality,margmæli
+multilingual speech processing,margmála talvinnsla
+multimedia documents,margmiðlunarskjöl
+multimedia information extraction,útdráttur margmiðlunarupplýsinga
+multimedia information retrieval,margmiðlunarupplýsingaheimt
+multimedia retrieval,margmiðlunarheimt
+multimodal communication,fjölhátta samskipti
+multimodal communication,marghátta samskipti
+multimodality,fjölskynjun
+multimodality,fjölskynþátta
+Multiple comparisons,margföldum samanburði
+multiple regression,fjölbreytuaðhvarfsgreiningu
+multivariate statistics,margbreytitölfræði
+nafnverð bréfs
+nafnverð,par value,
+named entity,nefnd eining
+named entity recognition,nafnakennsl
+named entity recognition,nafnaþekkjari
+named entity,sérheitaeining
+natural language generation,gerving náttúrulegs máls
+natural language generation,myndun náttúrulegs máls
+natural language parsing,þáttun náttúrulegs máls
+natural language processing,málvinnsla
+neural networks,tauganet
+n-grams,n-stæður
+noise,hávaði
+noisy channel model,truflunarlíkan
+non-textual format,á öðru sniði en sem texta
+normalized,staðlaður
+notes payable, nýja lánið
+Null hypothesis,núlltilgátan
+OCR: handwriting,ljóskennsl: skrift
+OCR: print,ljóskennsl: prent
+"Oktoberfest","Oktfest",not slang
+"Oktoberfest","Októberfest",not slang
+One sample t-test,t-prófi eins úrtaks
+ontological language resources ,veranleg málgögn 
+ontological resources,veranleg gögn
+ontologies,verufræði
+operating expense,rekstrarkostnaður
+original source,frumheimildir,not slang
+original text,frumheimildir,not slang
+outliers,einförum
+out-of-domain,utan óðals
+output,frálag
+output,skil
+output,úttak
+outsource,útvista
+overlap,skarast
+overlap,skörun
+palatalization,framgómun
+parallel corpus,hliðstæð málheild
+parallel corpus,samhliða málheild
+parameter,færibreyta
+parameter,stiki
+parser,þáttara
+parser,þáttari
+parse tree,þáttunartré
+parsing,setningafræðileg greining
+parsing techniques,þáttunaraðferðir
+parsing,þáttun
+parsing,þáttun greining
+partial parsing,hlutaþáttun
+partial parsing,hlutþáttun
+partial/shallow parsing,grunnþáttun
+partial/shallow parsing,hlutaþáttun
+partial/shallow parsing,hlutþáttun
+part-of-speech,orðflokk
+part-of-speech tagging,málfræðileg mörkun
+part-of-speech tagging,mörkun
+part-of-speech tagging,orðflokksmörkun
+payroll,launaskrá
+Pearson’s r,fylgnistuðul Pearsons
+peer-reviewed material, rítrýnt efni,not slang
+perception,skynjun málhljóða
+perceptron,skynjunarnet
+perceptron,skynjunganet
+"performance (m.t.t. nákvæmni, heimt o.s.frv.)",hæfni
+phoneme,hljóðana
+phonetics,hljóðfræði
+phonetic transcription,hljóðritun
+phonology,hljóðkerfisfræði
+Pisces,Fiskar
+Pisces,Fiskur
+pitch,hljómfallseinkennin
+platform,verkvangur
+Population,þýði
+pos tagging,málfræðileg mörkun
+pos tagging,mörkun
+pos tagging,orðflokksmörkun
+Power,styrk
+pragmatics,málnotafræði
+pragmatics,málnotkunarfræði
+pre-aspiration,aðblástur
+precision,nákvæmni
+preliminary prototype,frumgerð
+pre-processing,forvinnsla
+presentation and visualization,kynning og framsetning (sjóngerving?)
+principle of compositionality,blendilögmálið
+probabilistic context-free grammars,líkindafræðilegar samhengisfrjálsar mállýsingar
+probabilistic parsing,líkindaþáttun
+probabilistic tagging,líkindamörkun
+procrastination,frestun,not slang
+procurement,innkaup
+profit,hagnaður
+profit margin,hagnaðarhlutfall
+programming environment,forritunarumhverfi
+pronunciation dictionary,framburðarorðabók
+pronunciation,framburður
+prosody information processing,úrvinnsla hljómfallsupplýsinga
+pull requests,togbeiðnir
+punctuation,greinarmerkjasetning
+qualitative analysis,eigindargreining
+quantitative analysis,megindargreining
+query analysis,spurnargreining
+query language,fyrirspurnarmál
+question answering,spurnasvörun
+quick,snöggur,slang
+range,spönn
+recall,heimt
+recognition task,kennslastarf
+recognition task,kennslaverkefni
+recurrent neural networks (RNN),endurkvæm tauganet
+reference corpus,viðmiðunarmálheild
+reference,tilvísun
+reference,vísun
+reference year,viðmiðunarárið
+referent,merkingarmið
+referring expression,vísandi segð
+regular expression,regluleg segð
+relation extraction,útdráttur vensla
+relevance ranking,gildisröðun
+representations of space and time,birtingarform rúms og tíma
+resources,forðar
+resources,tilföng
+retrieve,heimta
+retrieve,sækja
+revenue,tekjur
+Reykjavik University,Háskólinn í Reykjavík,not slang
+Reykjavík University,Háskólinn í Reykjavík,not slang
+Reykjavik University,Háskólinn við Nauthólsvík,slang
+Reykjavík University,Háskólinn við Nauthólsvík,slang
+robust,harðgerðar
+rule-based methods,regluaðferðir
+rule-based tagger,reglumarkari
+running word,lesmálsorð
+Sagittarius,Bogmaður
+Sample,úrtak
+Scorpio,Sporðdreki
+search engine,leitarvél
+search interface,leitarskil
+search interface,leitarviðmót
+second language,annars mál
+second language,L2
+second language speakers,annars málshafar
+securities,verðbréf
+segmented,sneidd
+selectional association,valtengsl
+selectional restrictions,valhömlur
+selection module,valeining
+semantic corpora,merkingarmálheild
+semantic drift,merkingarrek
+semantic web community,samfélag merkingarvefja
+semantic web,merkingarvefur
+sentence-based correction,setningaleiðrétting
+sentences,málsgreinir
+sentry, varðamaður eða vörður,
+settle, að gera upp
+shallow generation,grunn málgerving,
+shallow generation,grunn myndun
+shallow parsing,grunn þáttun
+shallow parsing,hlutaþáttun/grunn þáttun
+shallow parsing,hlutþáttun
+signal analysis and representation,greining og framsetning merkja
+signals,merki
+Significance tests,marktektarpróf
+smoothing,jöfnun
+software application,hugbúnaður
+software application,viðfang
+solvency,greiðslugeta
+source language,frummál
+spam filters,ruslpóstsía
+speaker diarization,samræðugreind
+speaker,mælandi
+speaker,málhafa
+speaker recognition,mælandakennsl
+Spearman’s rho,raðfylgnistuðul
+speech analyser,talgreinir
+speech analysis,talgreining
+speech applications,taltæknihugbúnaði
+speech coding,talkóðun
+speech coding,talkótun
+speech encryption,dulritun tals
+speech enhancement,endurbót tals
+speech input – assessment and evaluation,mat á talinntaki
+speech interaction ,talsamskipti
+speech interaction technology ,talsamskiptatækni
+speech recognition module,talkennsleining
+speech recognition,talgreining
+speech recognition,talkennsl
+speech recognizer,talþekkjari
+speech retrieval,talheimt
+speech synthesis evaluation,mat á talgervingu
+speech synthesis,talgerving
+speech synthesizer,talgervill
+speech technology,taltækni
+speech-to-text,talgreining
+spell-checker,stafrýnir
+spell checking,stafrýni 
+spoken dialogue systems,samræðukerfi fyrir tal
+spoken language corpora,málheildir talmáls
+spoken language dialogue,samræða í tali
+spoken language generation,gerving talmáls
+spoken language input,talmálsílag
+spoken language understanding,skilningur talmáls
+spoken output technologies,talmálsfrálagsaðferðir
+standard deviation,staðalfrávik
+statement of comprehensive income, yfirlit um heildarafkomu
+statistical language model,tölfræðilegt mállíkan
+statistical machine translation,tölfræðistudd vélþýðing
+statistical modeling and classification,tölfræðileg líkanagerð og flokkun
+statistical taggers,líkindamarkarar
+statistical taggers,tölfræðimarkarar
+statistic,mælitala
+steadfast,stöðugur,not slang
+stemming,stofngreining
+Stjarnfræði,astronomy
+Stjarnvísindi,astronomy
+Stjörnufræði,astrology
+Stjörnufræði,astronomy
+stochastic taggers,líkindamarkarar
+stochastic taggers,tölfræðimarkarar
+stop epenthesis,lokhljóðsinnskot
+stopword,stopporð
+stopword,váorð
+strategic,skipulagt"
+strategic,skipulegur
+strengthening,herðin
+strength, styrkleiki,
+student housing,garðarnir,slang
+student housing,stúdentagarðar,not slang
+student rights office,réttingaskrifstofa SHÍ,not slang
+student rights office, skri,slang
+sub task,undirverk
+subword,orðaflís
+summarization,samantekt
+summarizer,samantaki
+summarizer,samantektartól
+summarizer,samantektir
+supervised learning,leiðbeint nám
+supervised learning,"viðgjafarnám (helst ekki, viðgjöf á frekar heima innan reinforcement learning)"
+support vector machines,stoðvigravélar
+surface form,yfirborðsgerð
+syntactic generation,setningagerving
+syntactic parsing,setningaleg þáttun
+syntax-driven semantic analysis,merkingarfræði í setningarlegu ljósi
+systematic gap,kerfisgat
+system,kerfi
+tagged corpus,mörkuð málheild
+tagger,markari
+tagging,mörkun
+tag,mark 
+tagset,markamengi
+tagset,markaskrá
+target language,markmál
+task-specific module,sérhæfð forritseining
+Taurus,Naut
+tax,skattur
+technical product,tæknileg afurð
+temporal expression,tímasegð
+term base,íðorðagrunnur
+terminal,skipanalína
+terminal,skjáhermi
+terminal,útstöð
+terminology,íðorðaforði
+terminology restrictions,íðorðahömlur
+test corpus,prófunarsafn
+test set,prófunarhluti
+test set,prófunarmengi
+test set,prófunarsett
+test sets,prófunarlistar
+text collection,textasafn
+text compression,textaþjöppun
+text data mining,gagnanám úr texta
+text encryption,dulritun texta
+text indexing,lyklun texta
+text mining/analytics,textanám
+text processing system,ritvinnslukerfi
+text technology,textatækni
+text-to-speech synthesis,talgerving texta
+text-to-speech ,talgerving
+thesauri wordnets,orðtengslanet
+The Student Cellar, Kja,slang
+The Student Cellar, Stúdentakjallarinn,not slang
+The Student Cellar,Stúdó,slang
+thyroid,skjaldbrjósk
+tímasókn,attendance,not slang
+toaster oven, grillofn, not slang
+token-based errors,stakorðavillur
+token (frame),tóki
+token (information),tóki
+tokenization and segmentation,tákngreining og sneiðing,
+tokenization and segmentation,tókun og skipting"
+tokenization,tilreiðsla
+tokenization,tókun
+tokenizer,tilreiðari
+tokenizer,tókari
+to make oneself, halla sér, colloquial
+to match figuratively, hæfa,
+top-down,ofansækinn
+topic detection,efnissviðsgreining
+to realize, gera sér ljóst
 tortilla chips, nachos, not slang
-cheese pizza, margarita pizza, not slang
-delay, töf, not slang
+toy system,leikfangakerfi
+training corpus,þjálfunarmálheild
+training corpus,þjálfunarsafn
+training set,þjálfunarsett
+tramp, umrenningur, not slang
+transformation-based taggers,leiðréttingamarkari
+transformation-based taggers,námsfúsir markarar
+translation memory,þýðingarminni
+treasury,fjárvarsla
+treatment of material,efnistök,not slang
+tree adjoining grammar,trjátengslamálfræði
+treebank,trjábanki
+trigram,þrennd"
+trigram,þrístæða
+triphones,þrístæða
+truth-conditional semantics,sannkjaramerkingarfræði
+Type I error,höfnunarmistök
+Type II error,fastheldnismistök
+unconscious knowledge,ómeðvitað kunnátta
+underlying form,baklæg gerð
+under-resourced,gagnanaumur
+unigram,eind
+unigram,einstæða
+University of Iceland,Háskóli Íslands,not slang
+University of Iceland,Háskólinn,slang
+University Square,Háskólatorg,not slang
+university square,HT,slang
+unknown word guesser,giskari
+unsupervised learning,óleiðbeint nám
+unsupervised learning,viðgjafarlaust nám (helst ekki)
+usability and interface design,nytsemi og viðmótshönnun
+user interface,notendaviðmót
+user modeling,notendahönnun
+user query,fyrirspurn notanda
+utterance,yrðingar
+value-added tax (VAT),virðisaukaskattur
+variance,dreifitala
+video file,myndbandsskrá
+Virgo,Meyja
+vocal organs,talfærin
+voice recognition,raddkennsl
+voice recognition,raddþekking
+voice,rómur (usually used as a suffix)
+voice user interface,raddstýrt notendaviðmót 
+web application,vefviðmót
+web search engine,vefleitarvél
+web search,vefleit
+web user interface,vefviðmót
+wildcard character,algildisstafur
+withdrawal,úttekt
+word embedding,orðagreyping
+word embedding,orðaívefja
+word errror rate,villutíðni orða
+word form,orðmynd
+wordnet,orðanet
+word processing tools,ritvinnsluforrit/-tól
+word sense disambiguation,einræðing orða
+word sense disambiguation,merkingareinræðing"
+word sense,merkingarkjarni"
+word sense,merkingarsvið orða
+word sense,merkingarþættir orða
+word speech recogniser,stakorðagreinir
+written language corpora,málheildir ritmáls
+written language input,ritmálsílag
