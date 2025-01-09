@@ -45,6 +45,7 @@ articulation,myndun málhljóða
 arytenoid,könnubrjósk
 asset,eign
 assimilation,samlögun
+Association of Businesswomen in Iceland, Félag Kvenna í Atvinnulífinu, not slang
 attribute,eigind
 attribute,eiginleiki
 audio file,hljóskrá
@@ -78,6 +79,7 @@ beaten, laminn
 become reasonable, vitkast
 bed,rekkja
 before,fyrirfram
+Bergen, Björgvin,not slang
 best estimate, matskennd fjáhæð
 bibliography,heimildaöflun,not slang
 bibliography,heimildaskrá,not slang
@@ -85,6 +87,7 @@ bidirectional tagger,tvístefnumarkari
 bigram,tvennd
 bigram,tvístæða
 bilingual text corpus,tvímála málheild
+biting midge,lúsmý,not slang
 bootstrapping approach,gagnkvæm hringrás
 bootstrapping approach,sjálfkvæm nálgun
 bottom-up,neðansækinn
@@ -93,6 +96,7 @@ brave, hugprúður
 break free, sleit
 brill type tagger,markari brills
 Cancer,Krabbi
+canteen, háma, not slang
 capital,fjármagn
 Capricorn,Steingeit
 carrying value of the bond,bókfært verð af skulduna
@@ -101,7 +105,9 @@ cash flow,sjóðstreymi
 categorial grammar,frumflokkamálfræði
 categorization,frumflokkun
 central tendency,miðsækni
+Ceratopogonidae,lúsmý,not slang
 cheese pizza, margarita pizza, not slang
+childrens' garage sale, tombóla, slang
 chimney sweep, sótari
 Chi-square,kí-kvaðrat
 chunk,bagga
@@ -234,6 +240,7 @@ effective interst method - present value amortization
 e-learning environments,fjarnámsumhverfi
 e-learning,fjarnám
 e-learning,fjarskiptanám
+electronic id,auðkenni, not slang
 elli, old age
 embedding,greyping
 emerging computing paradigms,uppkomandi viðmið í tölvun
@@ -269,6 +276,7 @@ finite state technology,stöðuvélatækni
 finite state transducer,endandleg stöðuferjöld
 fire, bál
 fireplace, arinn
+FKA New Icelanders,FKA Framtíð, slang
 flame, logana
 foreign language,annars mál
 foreign language,L2
@@ -319,11 +327,14 @@ horoscope,stjörnuspá
 hotdog,hotdog,not slang
 hotdog,slanga,slang
 household,hjúskaparstöða
+Huldumal,nemendafelagið á HÍ fyrir nemendur í ISE námsbraut,not slang
 human aided machine translation,mannstudd vélræn þýðing
 hypercorrection,ofvöndun
 hyperparameter,ytri stiki
 hyphenation programs,orðskiptiforrit
 ideal efficiency,hámarksskilvirkni,not
+identification number,kennitala, not slang
+id number,kennitala, not slang
 immersed, niðursokkinn
 imminent, yfirvofandi, not slang
 impending, yfirvofandi, not slang
@@ -341,6 +352,7 @@ information extraction,útdráttur upplýsinga
 information processing,upplýsingavinnsla
 information retrieval,upplýsingaheimt
 information technology,upplýsingatækni
+inlanders,innlendingur, slang
 in need, áttu bágt
 input,ílag
 input text,ílagstexti
@@ -359,8 +371,10 @@ invincible, ósigrandi
 isolated word recognizer,stakorðagreinir
 isolated word speech recognition,stakorðagreining
 jolted, hrökk
+kennitala,kennitala,not slang
 key enabling technology,lykilstuðningstækni
 keyword-based search,lykilorðaleit
+kids garage sale,tombóla, slang
 knowledge discovery,þekkingaröflun
 knowledge-driven,þekkingarstýrð
 knowledge exchange,þekkingarskipti
@@ -422,6 +436,7 @@ mapping functions,vörpunarföll
 mappings,varpanir
 market price, markaðsverð
 market rate, markaðsverð
+masturbate, fróa sér; runka sér;kippi í, not slang
 mathematical methods,stærðfræðilegar aðferðir
 maximum entropy methods,hámarksóreiðuaðferðir
 meaning representation,merkingartáknun
@@ -471,6 +486,8 @@ natural language processing,málvinnsla
 neighborhood, grennd
 neoliberalism,nýfrjálshyggjunnar,not
 neural networks,tauganet
+new icelander, íslendingur sem var ekki fæddist á Íslandi, slang
+new icelanders,framtíð, slang
 n-grams,n-stæður
 nicknamed, uppnefndu
 noise,hávaði
@@ -483,12 +500,14 @@ OCR: handwriting,ljóskennsl: skrift
 OCR: print,ljóskennsl: prent
 "Oktoberfest","Oktfest",not slang
 "Oktoberfest","Októberfest",not slang
+old icelander, Íslendingur fæddist á Íslandi, slang
 One sample t-test,t-prófi eins úrtaks
 ontological language resources ,veranleg málgögn
 ontological resources,veranleg gögn
 ontologies,verufræði
 open, ber
 operating expense,rekstrarkostnaður
+Oregon, Oregon,not slang
 original source,frumheimildir,not slang
 original text,frumheimildir,not slang
 outliers,einförum
@@ -542,6 +561,7 @@ Population,þýði
 pos tagging,málfræðileg mörkun
 pos tagging,mörkun
 pos tagging,orðflokksmörkun
+potluck,pálínuboð, not slang
 Power,styrk
 pragmatics,málnotafræði
 pragmatics,málnotkunarfræði
@@ -602,6 +622,7 @@ robust,harðgerðar
 rule-based methods,regluaðferðir
 rule-based tagger,reglumarkari
 running word,lesmálsorð
+Rutgers, Rutgers,not slang
 Sagittarius,Bogmaður
 Sample,úrtak
 Scorpio,Sporðdreki
@@ -778,13 +799,14 @@ token-based errors,stakorðavillur
 token (frame),tóki
 token (information),tóki
 tokenization and segmentation,tákngreining og sneiðing,
-tokenization and segmentation,tókun og skipting"
+tokenization and segmentation,tókun og skipting
 tokenization,tilreiðsla
 tokenization,tókun
 tokenizer,tilreiðari
 tokenizer,tókari
 to make oneself, halla sér, colloquial
 to match figuratively, hæfa,
+tombóla,tombóla, not slang
 top-down,ofansækinn
 topic detection,efnissviðsgreining
 to realize, gera sér ljóst
@@ -803,7 +825,7 @@ treasury,fjárvarsla
 treatment of material,efnistök,not slang
 tree adjoining grammar,trjátengslamálfræði
 treebank,trjábanki
-trigram,þrennd"
+trigram,þrennd
 trigram,þrístæða
 triphones,þrístæða
 trot, skálma
@@ -833,6 +855,7 @@ value-added tax (VAT),virðisaukaskattur
 variance,dreifitala
 velvet, flauel
 veneration, lotningu
+vertex, hnútur; punktur; grannhnútur,not slang
 video file,myndbandsskrá
 Virgo,Meyja
 vocal organs,talfærin
@@ -848,6 +871,7 @@ whistle, blístra
 wide-awake, glaðvaknaði
 wildcard character,algildisstafur
 withdrawal,úttekt
+without falter,hnökrar,not slang
 word embedding,orðagreyping
 word embedding,orðaívefja
 word errror rate,villutíðni orða
@@ -855,8 +879,8 @@ word form,orðmynd
 wordnet,orðanet
 word processing tools,ritvinnsluforrit/-tól
 word sense disambiguation,einræðing orða
-word sense disambiguation,merkingareinræðing"
-word sense,merkingarkjarni"
+word sense disambiguation,merkingareinræðing
+word sense,merkingarkjarni
 word sense,merkingarsvið orða
 word sense,merkingarþættir orða
 word speech recogniser,stakorðagreinir
