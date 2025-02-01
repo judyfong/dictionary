@@ -200,6 +200,7 @@ dependency bank,venslabanki
 dependency grammar,venslamálfræði
 deposit,innborgun
 depreciation,afskrift
+detective,spæjari
 development sets,þróunarlistar
 devoicing,afröddun
 dialect,mállýska
@@ -366,7 +367,8 @@ insurance,trygging
 intensity,styrkleika
 interest,vöxtur
 interface,viðmót
-intervention,afskipti,not
+intervention,afskipti,not slang
+intimidate,hræða
 intranet,innranet
 intuition,innsæi,not slang
 intuitive language-based interfaces,hugsýn málbundin skil
