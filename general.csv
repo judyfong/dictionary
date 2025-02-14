@@ -2,11 +2,13 @@ English,Icelandic,slang or not
 2 dependent sample t-test,t-próf tveggja háðra úrtaka
 2 independent sample t-test,t-próf tveggja óháðra úrtaka
 2 paired sample t-test,t-próf tveggja háðra úrtaka
+abolished,afnumið
 abstract,huglæg
 abundant,gnótt
 acacia,akacía
 academic progress,námsframvindu
 accidental gap,tilviljunargat
+accordance,samræmi
 accounting,bókhald
 account,reikningur
 accounts payable,viðskiptaskuldir
@@ -19,6 +21,7 @@ acquiescence,samþykkishneigðar
 action movie,hasarmyndir
 advanced discourse processing,þróuð orðræðuaðferð
 agreed upon,umsamið
+agreement,samræmi
 airfryer, loftsteikingarpottur, not slang
 aligned,samröðun
 alignment,samröðun orða
@@ -50,8 +53,10 @@ arrangement,ráðstafanir
 articulation,myndun málhljóða
 arytenoid,könnubrjósk
 asset,eign
+assignment,verkefni
 assimilation,samlögun
 Association of Businesswomen in Iceland, Félag Kvenna í Atvinnulífinu, not slang
+at an angle,á ská
 attend to,hjúfraði
 attest,votta
 attribute,eigind
@@ -94,6 +99,7 @@ beginner,viðvaningur
 belonged,tilheyrði
 be lowered slowly, síga
 Bergen, Björgvin,not slang
+beside,við hliðina á
 best estimate, matskennd fjáhæð
 bibliography,heimildaöflun,not slang
 bibliography,heimildaskrá,not slang
@@ -128,6 +134,8 @@ cause,verki
 cautious,varkár
 central tendency,miðsækni
 Ceratopogonidae,lúsmý,not slang
+cereal,korn
+challenge,áskorun
 chaos, þvögunni
 cheese pizza, margarita pizza, not slang
 chemical weapon,efnavopn
@@ -161,6 +169,7 @@ collocations,samstæður
 combat,bardagi,
 comfort,makindum
 common voice,samrómur
+compared with,miðað við
 compass,áttaviti,not slang
 compete,kapp
 complementary distribution,fyllidreifingu
@@ -194,6 +203,7 @@ co-occurrence features,grenndarþættir
 co-payment,meðlag
 coreference resolution,samvísunartúlkun
 coreference resolution,tilvísanagreining
+cornea of the eye,glæra
 corpus linguistics,gagnamálfræði
 corpus linguistics,gagnamálvísindi
 corpus,málheild
@@ -241,6 +251,7 @@ depreciation,afskrift
 detective,spæjari
 development sets,þróunarlistar
 devoicing,afröddun
+diagonally,á ská
 dialect,mállýska
 dialects,framburðartilbrigði
 dialects,mállýskur
@@ -257,6 +268,7 @@ digital library,stafrænt bókasafn
 diphone concatenation system,tvístæðu samtengingarkerfi
 diphone,tvístæða
 diphthongization,tvíhljóðun
+diphthong,tvíhljóð
 dip,ídýfa
 disambiguation,einræðing
 disciple,lærisveinn
@@ -290,6 +302,7 @@ e-learning,fjarnám
 e-learning,fjarskiptanám
 electronic id,auðkenni, not slang
 elegiac,harmljóðlegur
+elision,brottfall
 embedding,greyping
 emerging computing paradigms,uppkomandi viðmið í tölvun
 emotion recognition,tilfinningakennsl
@@ -312,6 +325,7 @@ exploit,arðdræna,not
 exploratory data analysis,gagnakönnun
 extreme weather, veðurofsanum
 Factor analysis, þáttagreiningu
+farm,býli
 fast,snöggur,slang
 fate, örlög
 fear, ógnin
@@ -329,6 +343,7 @@ finite state transducer,endandleg stöðuferjöld
 fire, bál
 fireplace, arinn
 fireproof,eldtraustu
+fishing village,verstöðvum
 FKA New Icelanders,FKA Framtíð, slang
 flame, logana
 foreign language,annars mál
@@ -436,6 +451,7 @@ irritate,áreiti
 irritated,ergileg
 isolated word recognizer,stakorðagreinir
 isolated word speech recognition,stakorðagreining
+italics,skáletur
 jolted, hrökk
 jumper,peysa
 justice,réttvísi
@@ -570,6 +586,7 @@ neoliberalism,nýfrjálshyggjunnar,not
 neural networks,tauganet
 new icelander, íslendingur sem var ekki fæddist á Íslandi, slang
 new icelanders,framtíð, slang
+next to,við hliðina á
 n-grams,n-stæður
 nicknamed, uppnefndu
 noise,hávaði
@@ -579,6 +596,7 @@ normalized,staðlaður
 notes payable, nýja lánið
 nuisance,trafala
 Null hypothesis,núlltilgátan
+obliquely,á ská
 OCR: handwriting,ljóskennsl: skrift
 OCR: print,ljóskennsl: prent
 "Oktoberfest","Oktfest",not slang
@@ -586,6 +604,7 @@ OCR: print,ljóskennsl: prent
 old age, elli
 old icelander, Íslendingur fæddist á Íslandi, slang
 One sample t-test,t-prófi eins úrtaks
+on the southside,sunnanvert
 ontological language resources ,veranleg málgögn
 ontological resources,veranleg gögn
 ontologies,verufræði
@@ -672,12 +691,14 @@ profit,hagnaður
 profit margin,hagnaðarhlutfall
 programming environment,forritunarumhverfi
 progressive capitalism,framfarakapítalisma,not
+project,verkefni
 pronunciation dictionary,framburðarorðabók
 pronunciation,framburður
 prosody information processing,úrvinnsla hljómfallsupplýsinga
 pull requests,togbeiðnir
 pull, svipta
 punctuation,greinarmerkjasetning
+pursue,stundaðar
 qualitative analysis,eigindargreining
 quantitative analysis,megindargreining
 query analysis,spurnargreining
@@ -685,6 +706,7 @@ query language,fyrirspurnarmál
 question answering,spurnasvörun
 quick,snöggur,slang
 quiet,næði
+raise livestock,kvikfjárrækt
 ranch,búgarður
 range,spönn
 rascal, þorparinn
@@ -743,10 +765,12 @@ segmented,sneidd
 selectional association,valtengsl
 selectional restrictions,valhömlur
 selection module,valeining
+self-sufficiency,sjálfsbjarga
 semantic corpora,merkingarmálheild
 semantic drift,merkingarrek
 semantic web community,samfélag merkingarvefja
 semantic web,merkingarvefur
+sensibly,skynsamlega
 sentence-based correction,setningaleiðrétting
 sentenced to die, dauðadæmd
 sentences,málsgreinir
@@ -769,7 +793,10 @@ shutters,hlerana
 signal analysis and representation,greining og framsetning merkja
 signals,merki
 Significance tests,marktektarpróf
+similar to,svipað og
+skewed,á ská
 skin,hörunds
+slide from a presentation,glæra
 small pancake, lumma
 smart, snidugt
 smoothing,jöfnun
@@ -830,6 +857,7 @@ statistical taggers,tölfræðimarkarar
 statistic,mælitala
 steadfast,stöðugur,not slang
 stemming,stofngreining
+stem vowel,stöfnsérhljóð
 stick, kylfa
 stigma,skömm
 Stjarnfræði,astronomy
@@ -854,6 +882,7 @@ student rights office, skri,slang
 sub task,undirverk
 subword,orðaflís
 suddenly, snögglega
+suffix,viðskeyti
 suite,svíta
 summarization,samantekt
 summarizer,samantaki
@@ -865,6 +894,7 @@ support vector machines,stoðvigravélar
 surface form,yfirborðsgerð
 surprising,flatt
 sweater,peysa
+syllable,atkvæði
 syntactic generation,setningagerving
 syntactic parsing,setningaleg þáttun
 syntax-driven semantic analysis,merkingarfræði í setningarlegu ljósi
@@ -878,6 +908,7 @@ tagset,markamengi
 tagset,markaskrá
 target language,markmál
 task-specific module,sérhæfð forritseining
+task,verkefni
 tattoo, húðflúr
 Taurus,Naut
 tax,skattur
@@ -937,6 +968,9 @@ tombóla,tombóla, not slang
 top-down,ofansækinn
 topic detection,efnissviðsgreining
 to realize, gera sér ljóst
+to recount,rifja upp
+to refresh one's memory,rifja upp
+to review,rifja upp
 to revive, lífga
 tortilla chips, nachos, not slang
 to shove,stjakaði
@@ -975,6 +1009,7 @@ University Square,Háskólatorg,not slang
 university square,HT,slang
 unknown word guesser,giskari
 unpleasant,óviðfelldinn
+unstressed,áherslulaus
 unsupervised learning,óleiðbeint nám
 unsupervised learning,viðgjafarlaust nám (helst ekki)
 uproarious,rokinn
@@ -986,6 +1021,8 @@ utterance,yrðingar
 vagabonds,farandlýður
 value-added tax (VAT),virðisaukaskattur
 variance,dreifitala
+variant,tilbrigði
+variation,tilbrigði
 velvet, flauel
 veneration, lotningu
 vertex, hnútur; punktur; grannhnútur,not slang
@@ -998,6 +1035,7 @@ voice recognition,raddkennsl
 voice recognition,raddþekking
 voice,rómur (usually used as a suffix)
 voice user interface,raddstýrt notendaviðmót
+vowel,sérhljóð
 web application,vefviðmót
 web search engine,vefleitarvél
 web search,vefleit
