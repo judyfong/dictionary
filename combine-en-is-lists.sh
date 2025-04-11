@@ -30,8 +30,10 @@ while IFS= read -r line; do
   cat "$line" >> $processing
 done < "$FILE"
 
+#    only display the first two columns
+#    make sure each entry contains both english and Icelandic by only getting lines with commas
 # 3. remove duplicates
-cut -d',' -f1,2 $processing | grep -v "English" | sort | uniq > $final
+cut -d',' -f1,2 $processing | grep ',' | grep -v "English" | sort | uniq > $final
 rm "$processing"
 
 sed -i '/^,/d' $final
