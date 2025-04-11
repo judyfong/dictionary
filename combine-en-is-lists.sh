@@ -10,7 +10,7 @@
 set -e
 
 processing=processing.csv
-final=general-auto.csv
+final=general-semi-auto.csv
 
 if [ -f "$processing" ]; then
     rm "$processing"
