@@ -35,6 +35,9 @@ cut -d',' -f1,2 $processing | grep -v "English" | sort | uniq > $final
 rm "$processing"
 
 sed -i '/^,/d' $final
+# 4. remove entries with quotations
+# TODO: process quoted entries better
+sed -i '/"/d' $final
 # 4. create English, Icelandic header
 # This only works to insert on linux
 sed -i '1i\English,Icelandic' $final
