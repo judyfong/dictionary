@@ -32,8 +32,10 @@ done < "$FILE"
 
 #    only display the first two columns
 #    make sure each entry contains both english and Icelandic by only getting lines with commas
+#    remove windows lines endings
+#    remove trailing spaces
 # 3. remove duplicates
-cut -d',' -f1,2 $processing | grep ',' | grep -v "English" | sort | uniq > $final
+cut -d',' -f1,2 $processing | grep ',' | grep -v "English" | sed 's/\r//' | sed 's/[[:space:]]*$//' | sort | uniq > $final
 rm "$processing"
 
 sed -i '/^,/d' $final
