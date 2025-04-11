@@ -37,6 +37,7 @@ cut -d',' -f1,2 $processing | grep ',' | grep -v "English" | sort | uniq > $fina
 rm "$processing"
 
 sed -i '/^,/d' $final
+sed -i '/,$/d' $final
 # 4. remove entries with quotations
 # TODO: process quoted entries better
 sed -i '/"/d' $final
