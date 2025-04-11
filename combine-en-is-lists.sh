@@ -10,12 +10,14 @@
 set -e
 
 processing=processing-en-isl.csv
+processingisen=processing-is-en.csv
 final=general-semi-auto.csv
 
 if [ -f "$processing" ]; then
     rm "$processing"
     echo "Deleted: $processing"
 fi
+[ -f "$processingisen" ] && rm "$processingisen"
 if [ -f "$final" ]; then
     rm "$final"
     echo "Deleted: $final"
@@ -32,7 +34,6 @@ done < "$FILE"
 
 # 1. list of icelandic english dictionary files
 FILEISEN="islenska-english-lists.txt"
-processingisen=processing-is-en.csv
 
 # 2. combine into intermediate processing file
 while IFS= read -r line; do
@@ -43,7 +44,8 @@ done < "$FILEISEN"
 #    remove spaces around commas
 #    only display the first two columns
 sed -i 's/ *, */,/g' $processingisen
-awk -F',' '{print $2 "," $1}' $processingisen >> $processing
+
+awk -F',' '{print $2 "," $1}' $processingisen | grep -v "þýðing,sagnorð" >> $processing
 
 #    only display the first two columns
 #    make sure each entry contains both english and Icelandic by only getting lines with commas
@@ -53,6 +55,7 @@ awk -F',' '{print $2 "," $1}' $processingisen >> $processing
 # 3. remove duplicates
 cut -d',' -f1,2 $processing | grep ',' | grep -v "English" | sed 's/ *, */,/g' | sed 's/\r//' | sed 's/[[:space:]]*$//' | sort | uniq > $final
 rm "$processing"
+rm "$processingisen"
 
 sed -i '/^,/d' $final
 sed -i '/,$/d' $final
