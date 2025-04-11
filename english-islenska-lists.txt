@@ -1,7 +1,12 @@
+benjamin-dufa.csv
 books.csv
 business-administration.csv
 codenames.csv
 general.csv
+haskoli-islands.csv
 hi_ise.csv
+horoscope.csv
+idioms.csv
+language_technology.csv
 research.csv
 thestudentpaper.csv
