@@ -125,6 +125,7 @@ bigram,tvístæða
 bilingual text corpus,tvímála málheild
 birch,björk
 biting midge,lúsmý,not slang
+blinds,gluggatjöld
 blizzard,blindbylur
 blizzard,hríðarbylur
 bloated,bólginn
@@ -255,6 +256,7 @@ cross validation,krossprófun
 crumpet,gerklatti
 culprit,sökudólganir
 cursed,formælti
+curtain,gluggatjald
 dad joke,fimmaurabrandari
 dare,dirfðist
 data analysis,gagnagreining
@@ -461,6 +463,7 @@ homeless shelter,gistiskýli fyrir heimilislausa
 horoscope,stjörnuspá
 hotdog,hotdog,not slang
 hotdog,slanga,slang
+housing benefit,húsbætur
 household,hjúskaparstöða
 Huldumal,nemendafelagið á HÍ fyrir nemendur í ISE námsbraut,not slang
 human aided machine translation,mannstudd vélræn þýðing
@@ -1045,6 +1048,7 @@ tax,skattur
 technical product,tæknileg afurð
 teenage girl,táningsstúlkur
 temporal expression,tímasegð
+tent,tjald
 term base,íðorðagrunnur
 terminal,skipanalína
 terminal,skjáhermi
