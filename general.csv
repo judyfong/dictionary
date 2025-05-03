@@ -1,4 +1,4 @@
-English,Icelandic,slang or not
+	English,Icelandic,slang or not
 2 dependent sample t-test,t-próf tveggja háðra úrtaka
 2 independent sample t-test,t-próf tveggja óháðra úrtaka
 2 paired sample t-test,t-próf tveggja háðra úrtaka
@@ -84,6 +84,7 @@ automatic rule-based parser,sjálfvirkum regluþáttara
 automatic text summarization,vélrænn útdráttur
 automobile inspection,bifreiðaskoðun
 available,liggja fyrir
+available,ráðstöfun
 avaricious, nískur
 awareness,vitund
 awkwardly,klaufalega,
