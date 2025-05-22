@@ -656,6 +656,8 @@ icy cold,svellkaldur
 ideal efficiency,hámarksskilvirkni,not
 identification number,kennitala, not slang
 id number,kennitala, not slang
+immediate,án tafar
+immediate,tafarlaus
 immersed, niðursokkinn
 imminent, yfirvofandi, not slang
 impending, yfirvofandi, not slang
@@ -868,6 +870,7 @@ morphological disambiguation,orðhlutafræðileg einræðing
 morphological parsing,orðhlutafræðileg þáttun
 motorscooter, skellinöðruna
 mud,drulla
+muddy,gruggugur
 multilingual corpora,margmála málheildir
 multilingual generation,margmála málmyndun
 multilingual information retrieval,margmála upplýsingaheimt
@@ -1082,6 +1085,8 @@ profligacy,eyðslusemi
 programming environment,forritunarumhverfi
 progressive capitalism,framfarakapítalisma,not
 project,verkefni
+prompt,án tafar
+prompt,tafarlaus
 pronunciation dictionary,framburðarorðabók
 pronunciation,framburður
 prosecuting attorney,sækjandi
@@ -1523,6 +1528,7 @@ tuberculosis,berklar
 tuberculosis,tæring
 Tufted Vetch,Umfeðmingur
 tumult,uppþot
+turbid,gruggugur
 two-story, tvílyftur
 Type I error,höfnunarmistök
 Type II error,fastheldnismistök
