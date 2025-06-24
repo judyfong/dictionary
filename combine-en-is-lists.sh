@@ -45,6 +45,10 @@ done < "$FILEISEN"
 #    only display the first two columns
 sed -i 's/ *, */,/g' $processingisen
 
+# to ensure that the first line in $processingisen is not combined with the
+# last line of $processing
+echo >> $processing
+
 awk -F',' '{print $2 "," $1}' $processingisen | grep -v "þýðing,sagnorð" >> $processing
 
 #    only display the first two columns
