@@ -623,6 +623,13 @@ fiber,taug
 field trip,vísindaferð
 field trip,vísó
 field trip,skemmtiferð
+figurative,yfirfærður
+figurative,óeiginlegur
+figurative,myndrænn
+figurative,myndauðugur
+figurative,táknrænn
+figurative,fígúratífur
+figurative,hlutbundinn
 finances,fjárhagur
 financial budget,fjárhagsáætlun
 financial,fjárhagslegur
@@ -1776,6 +1783,8 @@ training set,þjálfunarsett
 tramp, umrenningur, not slang
 transfixed,heillaður
 transformation-based taggers,leiðréttingamarkari
+transfer,yfirfærsla
+transfer,yfirfæra
 transformation-based taggers,námsfúsir markarar
 translation memory,þýðingarminni
 trap,gildra
