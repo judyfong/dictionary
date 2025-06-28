@@ -1392,6 +1392,10 @@ sacks of products,vörusekki
 sad,mæðulegur
 Sagittarius,Bogmaður
 district attorney,saksóknari
+sandbank,sandrif
+sandbank,eyri
+sandbank,rif
+sandbank,grynningar
 Sample,úrtak
 sandwich,samloka
 sarcastic,hæðinn
@@ -1454,6 +1458,11 @@ sheik,sjeik
 shepherd,hirðir
 shit,drulla
 shoal,vaða
+shoal,sandrif
+shoal,grynningar
+shoal,torfa
+shoal,mergð
+shoal,eyri
 shopping mall,kringlan, slang
 shopping mall,verslunarmiðstöð
 shore, fjara
@@ -1536,6 +1545,7 @@ spin-dryer,þeytivinda
 spin the bottle,flöskustútur
 spite,illkvittni
 spiteful,illkvittinn
+spit of land,eyri
 spoken dialogue systems,samræðukerfi fyrir tal
 spoken language corpora,málheildir talmáls
 spoken language dialogue,samræða í tali
