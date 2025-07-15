@@ -5,6 +5,7 @@
 # 2. combine into general-auto.csv
 # 3. remove duplicates
 # 4. create English, Icelandic header
+# TODO: add new lines to all .csv lists before processing
 
 # Exit on any error
 set -e
@@ -30,6 +31,7 @@ FILE="english-islenska-lists.txt"
 while IFS= read -r line; do
   echo "$line"
   cat "$line" >> $processing
+  echo >> $processing
 done < "$FILE"
 
 # 1. list of icelandic english dictionary files
