@@ -85,6 +85,10 @@ annual financial statement,ársreikningur
 anonymity,nafnleynd
 answer extraction,útdráttur svara
 antacid,kalsíumkarbónat
+antacid,magalyf
+antacid,magapillur
+antacid,magasýruhemjandi lyf
+antacid,magasýrulyf
 antacid,sýrubindandi lyf
 antacid,sýruhlutleysir
 anteroom,gímald
@@ -103,6 +107,7 @@ apprehension,hugarangri
 appropriate,viðeigandi
 Aquarius,Vatnsberi
 áramótaskaup,áramótaskaup
+arboreal,trjálegur
 arched,hvelfdum
 arctic char,bleikja
 arctic char,reyður
@@ -269,9 +274,13 @@ blockhead,bjáni
 blow away,fjúka
 blow,högg
 bluebell,bláklukkur
+blue cheese,blámygluostur
+blue cheese,gráðaostur
+blue cheese,gráðostur
 blunt,skorinorður
 blunt,sljóvga
 boast,monta
+bobble,hnökri
 body,skrokkurinn
 boil,suða
 bolt,fælast
@@ -280,6 +289,7 @@ boorish,ruddist
 boot,skotta
 bootstrapping approach,gagnkvæm hringrás
 bootstrapping approach,sjálfkvæm nálgun
+boreal forest,barrskógabeltið
 bother,ergja
 bottom-up,neðansækinn
 boulder,grjótglíma
@@ -358,6 +368,7 @@ caricature,skrípamyndir
 carry,bar
 carry,bera
 carrying value of the bond,bókfært verð af skulduna
+cartilage,brjósk
 cartilage,brjóskflögur
 carved,ristur
 carved,útskorinn
@@ -395,6 +406,7 @@ chard,silfurbeðja
 charming,heillaður
 charm,sjarmi
 chatter,mala
+chatter,skvaldrið
 checkbox,reit
 cheerful,kátur
 cheese pizza,margarita pizza
@@ -442,6 +454,7 @@ cluster,hvirfing
 clustering,þyrpa
 clustering,þyrping
 coach,áætlunarbíl
+cobra,gleraugnaslanga
 cocoa liquor,kakómassi
 code,kóða
 code,kóta
@@ -467,6 +480,7 @@ column,pistill
 coma,dá
 combat,bardagi
 comb,kemba
+comedy,gamanmynd
 comfort,hugga
 comfort,makindum
 common sense,skynsemi
@@ -682,6 +696,8 @@ dessert,desert
 dessert,eftirmatur
 dessert,eftirréttur
 detective,spæjari
+deuce,daus
+deuce,tvistur
 development sets,þróunarlistar
 devoicing,afröddun
 diagonally,á ská
@@ -759,6 +775,7 @@ doubtful,efablöndnum
 downcast,mæðulegur
 drama,leiklist
 draw a quick breath as when surprised,súpa hveljur
+dressing,umbúðir
 dripping wet,rennvotur
 drive away,flæma
 drive-in theater,útibíó
@@ -785,6 +802,8 @@ dynamic programming,kvik bestun
 dynamic programming,kvikbestun
 dynamic programming,kvikleg forritun
 dynasty,ættarveldi
+dysgraphia,rithömlun
+dysgraphia,skrifblinda
 early childhood,frumbernska
 earth,jarðríki
 eating disorder,átröskun
@@ -1073,6 +1092,7 @@ greiðsla,fjármuna
 grill,glóðarsteikja
 grind,gnísti
 grind,mala
+gristle,brjósk
 grow,gróið
 g-spot,G-blettur
 guard,varðmaður eða vörður
@@ -1127,6 +1147,7 @@ highlight,yfirstrikunarlitur
 hinge,hjara
 hint of itself,angi
 hipbone,mjaðmabein
+hit,lemja
 HMM methods,aðferðir hulinna markovslíkana
 hnökrar,without falter
 hoarfrost,héla
@@ -1391,6 +1412,7 @@ library,forritseining
 Libra,Vog
 license,afnotaleyfi
 lifestyle inflation,lífsgæðakapphlaup
+lift,hífa
 lighting,lýsing
 light,lýsa
 lightning fast,eldsnöggur
@@ -1479,6 +1501,7 @@ memory based tagger,minnismarkari
 menace,hótun
 menace,ógnun
 mental disorder,geðröskun
+mentally disabled,þroskaheftur
 mental sensitivity,geðnæmnin
 merciless,óvæginn
 metamorphosis,hamskipti
@@ -1537,6 +1560,7 @@ mourn,sútar
 mousse,frómas
 mouth of the cave,hellismunnanum
 moveable,færanlegur
+move about restlessly,iða
 move,bæra
 move,bifa
 move oneself,bærast
@@ -1617,6 +1641,7 @@ noisy channel model,truflunarlíkan
 non-binary sexuality,kynsegin
 non-textual format,á öðru sniði en sem texta
 normalized,staðlaður
+nose,nef
 notebook,hefti
 notes payable,nýja lánið
 not quite,ekki alveg
@@ -1680,6 +1705,7 @@ overweight,ofþyngd
 own initiative,frumkvæði
 oxygen,súrefnis
 pace,kólfur
+packaging,umbúðir
 packing machines,pökkunarvélar
 pact,sáttmáli
 padding,tróð
@@ -1728,6 +1754,7 @@ payroll,launaskrá
 peace talks,friðarviðræðum
 Pearson’s r,fylgnistuðul Pearsons
 peeled,afhýdd
+peep hole,gægjugat
 peer chat,jafningjaspjall
 peer-reviewed material,rítrýnt efni
 peignoirs,morgunklæðnaður
@@ -1878,6 +1905,7 @@ proud,stoltur
 provisional estimate,bráðabirgðaútreikningur
 provisions,skuldbinding
 p.s.,e.s.
+psoriasis,sóri
 publish,birta
 puddle,pollur
 pull requests,togbeiðnir
@@ -1930,6 +1958,7 @@ reach,seilingar
 react,bregða
 reaction,viðbragð
 readily,gjarnan
+readily,gjarnt
 ready,viðbúinn
 reality,staðreynd
 reality,veruleiki
@@ -1965,6 +1994,8 @@ reliable,áreiðanlegur
 religion,trúarbrögð
 remember,muna
 REM-sleep,draumsvefni
+rennet,hleypir
+rennet,ostahleypir
 renown,orðstír
 repeat,árétta
 report,skothvellur
@@ -1975,12 +2006,14 @@ reprobate,lastafullur
 resentful,beiskur
 resentful,gramur
 resentful,hvekktur
+resent,gremjast
 resound,óma
 resources,forðar
 resources,tilföng
 rest,kasta mæðinni
 result,afrakstur
 retained profits,óráðstafað eigið fé
+retarded,þroskaheftur
 retrieve,heimta
 retrieve,sækja
 revenue,tekjur
@@ -2003,6 +2036,7 @@ Robin Hood,Hrói höttur
 robust,harðgerðar
 rock climbing,klettaklifur
 rock ridge,klettahrygg
+roll one's eyes,ranghvolfa augunum
 roll,valt
 rooftop cargo box,farangursbox
 rooftop cargo box,ferðabox
@@ -2299,6 +2333,7 @@ stench,óþefur
 stench,stækju
 stick figure,spýtukall
 stick,kylfa
+stick,stinga
 stigma,skömm
 stimulation,örvun
 stimulus,áreiti
@@ -2329,6 +2364,7 @@ strengthening,herðin
 strength,máttur
 strength,styrkleiki
 stress,árétta
+strict,strangur
 striking,áberandi
 strip mall,þjónustukjarna
 stroke,heilablóðfall
@@ -2610,6 +2646,7 @@ to write,skrifa
 toy system,leikfangakerfi
 trace,snefill
 trailer,hjólhýsi
+trailer trash,hvítt hjólhýsapakk
 training corpus,þjálfunarmálheild
 training corpus,þjálfunarsafn
 training set,þjálfunarsett
@@ -2712,6 +2749,7 @@ value-added tax (VAT),virðisaukaskattur
 variance,dreifitala
 variant,tilbrigði
 variation,tilbrigði
+vehemence,ofsi
 veil,blæja
 vellum,bókfell
 velvet,flauel
@@ -2772,6 +2810,8 @@ whistle,blístra
 whistleblower,uppljóstrari
 whistle,gnauða
 whistling,gnauðið
+white trailer trash,hvítt hjólhýsapakk
+white trash,hvítt hjólhýsapakk
 wide-awake,glaðvaknaði
 wide,víður
 wildcard character,algildisstafur
@@ -2803,6 +2843,8 @@ word sense,merkingarsvið orða
 word sense,merkingarþættir orða
 word speech recogniser,stakorðagreinir
 work,iðja
+worldview,heimssýn
+worldview,veraldarsýn
 wormhole,ormagryfjuna
 worry,kveið
 wound,áverki
