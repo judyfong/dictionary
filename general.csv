@@ -533,6 +533,7 @@ dependency bank,venslabanki
 dependency grammar,venslamálfræði
 deposit,innborgun
 depreciation,afskrift
+desire,löngun
 dessert,desert
 dessert,ábætisréttur
 dessert,ábætir
@@ -1062,6 +1063,7 @@ livestock,búfé
 localisation expert,staðfæringarsérfræðingur
 lodging,híbýli
 logorrhea,munnræpa
+longing,löngun
 loot,þýfi
 loss,tap
 love,kærleikur
@@ -1707,6 +1709,7 @@ spyware,hlerunartæki
 squash,kremja
 stack,stafla
 stack,stafli
+staff,prík
 staged,setja á svið
 stamina,þol
 standard,staðall
@@ -1729,6 +1732,7 @@ stench,fýla
 stench,óþefur
 stench,fnykur
 stick, kylfa
+stick,prík
 stimulation,örvun
 stigma,skömm
 Stjarnfræði,astronomy
@@ -1773,6 +1777,7 @@ subsistence,afkoma
 subsistence,atvinna
 sub task,undirverk
 subword,orðaflís
+succeed,heppnast
 success,frami
 succulent,safajurt
 succulent,þykkblöðungur
@@ -1924,6 +1929,8 @@ to review,rifja upp
 to revive, lífga
 torso,bolur
 tortilla chips, nachos, not slang
+torture, pína
+torment,pína
 to shove,stjakaði
 total darkness, kolniðamyrkur
 tow hook,dráttarkúla
@@ -2082,6 +2089,7 @@ wing,álma
 wing,vængur
 written language corpora,málheildir ritmáls
 written language input,ritmálsílag
+yearning,löngun
 yield,afrakstur
 yoke,klafi
 youngest child,örverpi
