@@ -23,6 +23,8 @@ accounts payable,viðskiptaskuldir
 accounts receivable,viðskiptakröfur
 accuracy,hittni
 accuracy,nákvæmni
+accurate,gaumgæfilegur
+accuse,kæra
 ace,eikynhneigð
 ache,verkir
 ache,verkur
@@ -362,12 +364,15 @@ candy,nammi
 can,geta
 cannister,dolla
 canteen,háma
+canvas bag,segldúkspoki
+canvas,segldúkur
 canvas,strigi
 capital,fjármagn
 Capricorn,Steingeit
 capsicum,paprika
 captivate,gagntaka
 carbohydrate,kolvetni
+careful,gaumgæfilegur
 careful,varkár
 caresses,atlot
 care,umhirða
@@ -418,6 +423,7 @@ chaos,þvögunni
 characteristic,eiginleiki
 chard,blaðbeta
 chard,silfurbeðja
+charge,kæra
 charming,heillaður
 charm,sjarmi
 chatter,mala
@@ -510,6 +516,7 @@ compell,knýja
 compete,kapp
 competent,fullfær
 complain,barma
+complaint,kæra
 complementary distribution,fyllidreifingu
 completely,alveg
 composition,stíll
@@ -1496,6 +1503,7 @@ lukewarm,volgur
 lunacy,vitfirring
 luster,slikja
 luxurious,dýrindis
+lymphocyte,eitilfruma
 lynx,gaupa
 lysosome,leysibóla
 machine-aided human translation,vélstudd þýðing
@@ -1819,6 +1827,9 @@ peep hole,gægjugat
 peer chat,jafningjaspjall
 peer-reviewed material,rítrýnt efni
 peignoirs,morgunklæðnaður
+pendant,dingull
+pendant,men
+pendulum,dingull
 pension,eftirlaun
 pepper,paprika
 perceive,skynja
@@ -1921,6 +1932,7 @@ predator,rándýr
 predatory (toward men),vergjörn
 prefer,kjósa
 prefer,vilja heldur
+prefix,forskeyti
 prejudice,hleypidómur
 preliminary prototype,frumgerð
 premonition,hugboð
@@ -2142,6 +2154,7 @@ sacrifice everything,leggja allt í sölurnar
 sad,mæðulegur
 sadness,depurðar
 Sagittarius,Bogmaður
+sail,segl
 saint's legend,helgisaga
 Sample,úrtak
 sanatorium,heilsuhæli
