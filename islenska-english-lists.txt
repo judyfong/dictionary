@@ -3,3 +3,4 @@ hi_mf1.csv
 laeknisfraedi.csv
 undirheimar.csv
 vmst.csv
+classes/business-law.csv
