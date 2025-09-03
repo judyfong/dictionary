@@ -4,3 +4,4 @@ laeknisfraedi.csv
 undirheimar.csv
 vmst.csv
 classes/business-law.csv
+classes/finance-i.csv
