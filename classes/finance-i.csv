@@ -32,6 +32,9 @@ jukust,increases
 nafnvextir,nominal interest rate
 virkir vextir,EAR
 virkir vextir,effective annual rate
+virkir vextir,EFF%
+virkir vextir,effective rate
+virkir vextir,equivalent annual rate
 uppgefnir,nominal interest rate
 auglýstir vextir,nominal interest rate
 ársfjórðung,quarterly
