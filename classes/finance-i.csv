@@ -26,7 +26,7 @@ hreint núvirði,NPV
 afvöxtun,discounting
 ávöxtunar,compounding
 miðað við,relative to
-ársvexti,annual percentage rate
+ársvexti,annual interest
 einangrum,isolate
 jukust,increases
 nafnvextir,nominal interest rate
@@ -41,3 +41,8 @@ auglýstir vextir,nominal interest rate
 jafngreiðsluröð,annuity
 renta,interest
 tímabilsvextir,periodic rate
+árleg hlutfallstala kostnaðar, annual percentage rate
+árleg hlutfallstala kostnaðar,APR
+sígreiðslur,perpetuity
+eilífðarbréf,perpetuity
+eilífðarbréf,consol
