@@ -889,6 +889,8 @@ highlight,yfirstrikunarlitur
 hipbone,mjaðmabein
 histology,vefjafræði
 hit,lemja
+HLA,vefjaflokkun
+HLA serotype,vefjaflokkun
 HMM methods,aðferðir hulinna markovslíkana
 hnökrar,without falter,not slang
 hole,hola
@@ -905,6 +907,7 @@ household,hjúskaparstöða
 Huldumal,nemendafelagið á HÍ fyrir nemendur í ISE námsbraut,not slang
 human,mennskur
 human aided machine translation,mannstudd vélræn þýðing
+human leukocyte antigen,vefjaflokkun
 human resources,mannaforráða
 hunger,sultur
 hungry,ágjarn
@@ -1663,6 +1666,7 @@ sentences,málsgreinir
 sentry, varðamaður eða vörður,
 septic tank,rotþró
 series,syrpa
+serotype,vefjaflokkun
 set,syrpa
 set something in motion,rekspölur
 settle, að gera upp
