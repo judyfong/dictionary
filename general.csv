@@ -66,6 +66,7 @@ animal,dýr
 annoyed,ergilegur
 annotated corpus,mörkuð málheild
 annual financial statement,ársreikningur
+annulment,ógilding
 anonymity,nafnleynd
 answer extraction,útdráttur svara
 antacid,sýruhlutleysir
@@ -824,6 +825,8 @@ frustrate,kollvarpa
 frustrate,hindra
 frustrate,skaprauna
 frustrate,svekkja
+frustration,ónýting
+frustration,ógilding
 full parsing,djúp þáttun
 full parsing,full þáttun
 fungus gnat,svarðmý
@@ -1024,6 +1027,7 @@ intimidate,hræða
 intranet,innranet
 intuition,innsæi,not slang
 intuitive language-based interfaces,hugsýn málbundin skil
+invalidate,ónýting
 investment,fjárfesting
 invincible, ósigrandi
 involved,viðriðin
