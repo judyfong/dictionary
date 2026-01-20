@@ -751,6 +751,7 @@ dependency bank,venslabanki
 dependency grammar,venslamálfræði
 deposit,innborgun
 depreciation,afskrift
+depressed,niðurdreginn
 desire,löngun
 despair,örvænta
 despise,fyrirlíta
@@ -843,6 +844,7 @@ double-lock, tvílæsti
 dove,friðarsinni
 dove,dúfa
 downcast,mæðulegur
+downcast,niðurdreginn
 down collection,dúntekja
 downhill,hraka
 down payment,útborgun
@@ -2366,10 +2368,12 @@ skive,skrópa
 sky,himinn
 slacker,letihaugur
 slammer,steinn
+slide,renna
 slide from a presentation,glæra
 slightly,ívið
 slingshot,teygjubyssa
 slingshot,slöngva
+slip,renna
 Slippery Jack,furusveppur
 Slippery Jack,furusúlungur
 slow news season,gúrkutíð
