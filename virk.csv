@@ -1,47 +1,102 @@
-English,Icelandic
-act,athafnir
-deed,athafnir
-action,athafnir
-self care,sjálfsumönnun
-discomfort,óþægindi
-mobility,hreyfigeta
-checkbox,reit
-ache,verkir
-ache,verkur
-pain,verkur
-problem,verkur
-occupational therapist,iðjuþjálfi
-sadness,depurðar
-melancholy,depurðar
-solution,úrræði
-resource,úrræði
-conduct,framkoma
-behavior,framkoma
-frighten,fæla
-tool,græjum
-gadget,græjum
-suppress,bæla
-inhibit,bæla
-harshness,hörkunni
-rigour,hörkunni
-neurodevelopmental disorder,taugaþroskaröskun
-conduct,framkoma
-behavior,framkoma
-rerun,endursýninga
-Excuse me who are you?, Fyrirgeðu hver ertu?
-laugh,skellum
-crash,skellum
-offend,móðga
-insult,móðga
-mock,móða
-I'm in a hurry and have to go, Ég þarf að drífa mig.
-voicemail,talskilaboð
-private,einkasvæði
-catfishing,falsfiskum
-be on the lookout,varðbergi
-be on one's guard,varðbergi
-cold-calling,óundirbúin
-,spyrja meira út af svarið
-What exactly is being spoken about?, Hvað fjallar eiginlega um?
-,Hvað fjallar eyilegga um?
-nail it down,negla hann niður
+English,Icelandic,
+act,athafnir,
+deed,athafnir,
+action,athafnir,
+self care,sjálfsumönnun,
+discomfort,óþægindi,
+mobility,hreyfigeta,
+checkbox,reit,
+ache,verkir,
+ache,verkur,
+pain,verkur,
+problem,verkur,
+occupational therapist,iðjuþjálfi,
+sadness,depurðar,
+melancholy,depurðar,
+solution,úrræði,
+resource,úrræði,
+conduct,framkoma,
+behavior,framkoma,
+frighten,fæla,
+tool,græjum,
+gadget,græjum,
+suppress,bæla,
+inhibit,bæla,
+harshness,hörkunni,
+rigour,hörkunni,
+neurodevelopmental disorder,taugaþroskaröskun,
+conduct,framkoma, PEERS
+behavior,framkoma, PEERS
+rerun,endursýninga, PEERS
+Excuse me who are you?, Fyrirgeðu hver ertu?, PEERS
+laugh,skellum, PEERS
+crash,skellum, PEERS
+offend,móðga, PEERS
+insult,móðga, PEERS
+mock,móða, PEERS
+I'm in a hurry and have to go, Ég þarf að drífa mig., PEERS
+voicemail,talskilaboð, PEERS
+private,einkasvæði, PEERS
+catfishing,falsfiskum, PEERS
+be on the lookout,varðbergi, PEERS
+be on one's guard,varðbergi, PEERS
+cold-calling,óundirbúin, PEERS
+,spyrja meira út af svarið, PEERS
+What exactly is being spoken about?, Hvað fjallar eiginlega um?, PEERS
+What is it actually being discussed?,Hvað fjallar eiginlega um?, PEERS
+nail it down,negla hann niður, PEERS
+taste,hæfi, PEERS
+make friends,vingast, PEERS
+way,leið, PEERS
+behave well, kemur vel fram við þig, PEERS
+make a bad impression,kemur illa fram við þig, PEERS
+ignore,hunsa, PEERS
+get you in trouble,gæti komið þér í vandræði, PEERS
+abuse,misnotar, PEERS
+take advantage of you,notfærir sér, PEERS
+shared interests,sameiginlegum áhugamálum, PEERS
+specific,ákveðnum, PEERS
+,listsköpun, PEERS
+baseball,hafnabolti, PEERS
+motorcycle,vélhjól, PEERS
+KFUM og KFUK, PEERS
+,vísindanörðar, PEERS
+,listasmiðjur, PEERS
+,söngskóli, PEERS
+source,uppspretta, PEERS
+,gets varið okkur fyrir, PEERS
+teasing,striðni, PEERS
+be appropriate,tilheyrir, PEERS
+social activity,félagsleg virkni, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
+, PEERS
