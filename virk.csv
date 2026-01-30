@@ -31,6 +31,7 @@ rerun,endursýninga, PEERS
 Excuse me who are you?, Fyrirgeðu hver ertu?, PEERS
 laugh,skellum, PEERS
 crash,skellum, PEERS
+laugh,skellum,PEERS
 offend,móðga, PEERS
 insult,móðga, PEERS
 mock,móða, PEERS
@@ -41,23 +42,37 @@ catfishing,falsfiskum, PEERS
 be on the lookout,varðbergi, PEERS
 be on one's guard,varðbergi, PEERS
 cold-calling,óundirbúin, PEERS
-,spyrja meira út af svarið, PEERS
+ask more about,spyrja meira út af svarið, PEERS
+ask follow-up questions,spyrja meira út af svarið
 What exactly is being spoken about?, Hvað fjallar eiginlega um?, PEERS
 What is it actually being discussed?,Hvað fjallar eiginlega um?, PEERS
 nail it down,negla hann niður, PEERS
+nail down a time,negla hann niður,PEERS
+robotic,vélræn,PEERS
+important,um að gera,PEERS
+crucial,um að gera,PEERS
+great idea,um að gera,PEERS
+by all means,un að gera,PEERS
+I encourage you to do it,um að gera,PEERS
 taste,hæfi, PEERS
 make friends,vingast, PEERS
 way,leið, PEERS
+route,leið,PEERS
 behave well, kemur vel fram við þig, PEERS
+make a good impression,kemur vel fram við þig,PEERS
+behave badly,kemur illa fram við þig,PEERS
 make a bad impression,kemur illa fram við þig, PEERS
 ignore,hunsa, PEERS
+cut,hubsa,PEERS
 get you in trouble,gæti komið þér í vandræði, PEERS
+misuse,misnotar,PEERS
 abuse,misnotar, PEERS
 take advantage of you,notfærir sér, PEERS
 shared interests,sameiginlegum áhugamálum, PEERS
 specific,ákveðnum, PEERS
 ,listsköpun, PEERS
 baseball,hafnabolti, PEERS
+softball,mjúkbolti,PEERS
 motorcycle,vélhjól, PEERS
 KFUM og KFUK, PEERS
 ,vísindanörðar, PEERS
