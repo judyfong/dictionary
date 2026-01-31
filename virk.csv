@@ -67,16 +67,17 @@ cut,hunsa,PEERS
 get you in trouble,gæti komið þér í vandræði, PEERS
 misuse,misnotar,PEERS
 abuse,misnotar, PEERS
-take advantage of you,notfærir sér, PEERS
+take advantage of one,notfærir sér, PEERS
 shared interests,sameiginlegum áhugamálum, PEERS
 specific,ákveðnum, PEERS
-,listsköpun, PEERS
+create art,listsköpun, PEERS
+artistic creation,listsköpun, PEERS
 baseball,hafnabolti, PEERS
 softball,mjúkbolti,PEERS
-motorcycle,vélhjól, PEERS
-KFUM og KFUK, PEERS
-,vísindanörðar, PEERS
-,listasmiðjur, PEERS
+motorcycle gang,vélhjólalið, PEERS
+YMCA and YWCA,KFUM og KFUK, PEERS
+science nerd,vísindanörðar, PEERS
+artist,listasmiður, PEERS
 ,söngskóli, PEERS
 source,uppspretta, PEERS
 ,geta varið okkur fyrir, PEERS
@@ -84,13 +85,15 @@ teasing,striðni, PEERS
 be appropriate,tilheyrir, PEERS
 social activity,félagsleg virkni, PEERS
 ,hverju þau halda á, PEERS
+look after,halda á,PEERS
+hold,halda á, PEERS
 loaf,hanga, PEERS
 various kinds,ýmsu tagi, PEERS
 change,snúast, PEERS
 ,félagsþjálfa, PEERS
-,tómstundastarfi, PEERS
+leisure activity,tómstundastarfi, PEERS
 year,árgangs, PEERS
-,sviðsetning, PEERS
+staging,sviðsetning, PEERS
 props,leikmunir,, PEERS
 exchange information,skiptiast á upplýsingum, PEERS
 Priming,Undirbúningsr, PEERS
@@ -98,6 +101,7 @@ Prompting,Stikkorð, PEERS
 Praising,Hrósa, PEERS
 Praise sandwich,LokSamloka, PEERS
 neighborhood,nærumhverfi, PEERS
+immediate surroundings,nærumhverfi, PEERS
 hobby shops,Tómstundaverslanir, PEERS
 charity work,góðgerðastarf, PEERS
 ponder,vega, PEERS
@@ -107,7 +111,7 @@ bilateral,gagnkvæm,PEERS
 contact information,tengiliðaupplýsingar, PEERS
 accept an invitation,að þiggja boð, PEERS
 talkative,ræðið, PEERS
-,tómstundaiðja, PEERS
+pastime,tómstundaiðja, PEERS
 relative to,að miða við, PEERS
 different,ólíkur, PEERS
 quite varied,ansi víða, PEERS
@@ -133,3 +137,11 @@ regard,álitin,PEERS
 machismo,karlrembur,PEERS
 male chauvinism,karlrembur,PEERS
 hostile,óvinveitt,PEERS
+seriously,alvarlegri,PEERS
+socially risky,áhættusöm,PEERS
+that was funny, Það var fyndið,PEERS
+at us not with us,af okkur ekki við okkur,PEERS
+meetups,stefnumóta hópur,PEERS
+stare,einblínum,PEERS
+focus,einblínum,PEERS
+to solve disagreements,að leysa ágreining,PEERS
