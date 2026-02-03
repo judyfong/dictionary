@@ -8,19 +8,19 @@ fjölkynhneigð,polysexuality
 tvíkynhneigð,bisexuality
 karlkynhneigð,androsexuality
 kvenkynhneigð,gynosexuality
-clavicle,viðbein
-collarbone,viðbein
-keybone,viðbein
-shoulder muscle,axlarvöðvi
-deltoid muscle,axlarvöðvi
-triceps,þríhöfði
-biceps,tvíhöfði
-muscle cell,vöðvafruma
-cardiac muscle,hjartavöðvi
-muscle fiber,vöðvaþráður
-excitability,ertanleiki
-irritability,ertanleiki
-trapezius,sjalvöðvi
+viðbein,clavicle
+viðbein,collarbone
+viðbein,keybone
+axlarvöðvi,shoulder muscle
+axlarvöðvi,deltoid muscle
+þríhöfði,triceps
+tvíhöfði,biceps
+vöðvafruma,muscle cell
+hjartavöðvi,cardiac muscle
+vöðvaþráður,muscle fiber
+ertanleiki,excitability
+ertanleiki,irritability
+sjalvöðvi,trapezius
 platysma,hálsflatningur
 m. pectoralis major,stóri brjóstvöðvi
 lats,bakbreiðavöðvi
