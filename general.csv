@@ -330,6 +330,7 @@ boil,suða
 boil,bulla
 boil,sjóða
 bold,frekur
+bold,kræfur
 boom,dynja
 boot,klossi
 bootstrapping approach,gagnkvæm hringrás
@@ -349,6 +350,8 @@ bracelet,armband
 brain cell,heilafruma
 brave,hugdjarfur
 brave, hugprúður
+brazen,ósvífinn
+brazen,blygðunarlaus
 brazier,glóðarpanna
 brazier,messingssmiður
 breakdown,bilun
@@ -712,6 +715,7 @@ dangerous,glæfralegur
 dare,dirfðist
 dare,voga
 dare,þora
+daring,kræfur
 daring,glæfralegur
 data analysis,gagnagreining
 data collection,gagnaöflun
@@ -1020,6 +1024,7 @@ expenses,útgjöld
 exploit,arðdræna,not
 exploratory data analysis,gagnakönnun
 expression,orðatiltæki
+expression,orðtak
 extended play,stuttskífa
 extreme weather, veðurofsanum
 eyeliner,ælæner,slang
@@ -1064,6 +1069,7 @@ figurative,táknrænn
 figurative,fígúratífur
 figurative,hlutbundinn
 figuratively,bókstaflega
+figure of speech,orðtak
 figure skating,listskautar
 file,þjöl
 filth,saur
@@ -1095,6 +1101,8 @@ fishing village,verstöðvum
 fish skin,roð
 fistula,pípa
 fitting room,mátun
+fixed,óafturkræfur
+fixed phrase,orðtak
 fixed phrase,orðasamband
 FKA New Icelanders,FKA Framtíð, slang
 flagstone,hella
@@ -1375,6 +1383,7 @@ idea,hugtak
 ideal efficiency,hámarksskilvirkni,not
 idealism,hughyggja
 identification number,kennitala, not slang
+idiom,orðtak
 idiot,lúðó,slang
 idiot,bjálfi
 idiot,bjáni
@@ -1387,8 +1396,11 @@ immediate,tafarlaus
 immersed, niðursokkinn
 imminent, yfirvofandi, not slang
 impending, yfirvofandi, not slang
+impertinent,ósvífinn
 impressive,tilkomumikill
 impressive,impónerandi
+impudent,ósvífinn
+impudent,kræfur
 incessant,stöðugur,not slang
 incredible,ótrúlegur
 income statement,rekstrarreikningur
@@ -1432,6 +1444,7 @@ input,viðfang
 insane,snargeggjaður
 inscrutable,órannsakanlegur
 inscrutable,óræður
+insolent,ósvífinn
 insomnia,svefnleysi
 installation,lögn
 installment,hefti
@@ -1458,6 +1471,7 @@ invincible, ósigrandi
 involved,viðriðin
 ironic,hæðinn
 irresistible,ómótstæðilegur
+irreversible,óafturkræfur
 irritate,áreiti
 irritate,ergja
 irritated,ergileg
@@ -2282,6 +2296,7 @@ retrieve,sækja
 revenge,hefnd
 revenue,tekjur
 reverberation,bergmál
+reversible,afturkræfur
 review,umsögn
 revision,endurskoðun
 revoke,hnekkja
@@ -2311,6 +2326,7 @@ rooftop cargo box,ferðabox
 rorqual,reyður
 rorqual,reyðarhvalur
 rub somebody out,kála
+rude,ósvífinn
 ruffian,dólgur
 rule-based methods,regluaðferðir
 rule-based tagger,reglumarkari
@@ -2418,6 +2434,8 @@ shallow generation,grunn myndun
 shallow parsing,grunn þáttun
 shallow parsing,hlutaþáttun/grunn þáttun
 shallow parsing,hlutþáttun
+shameless,ósvífinn
+shameless,blygðunarlaus
 shared,sameiginlegur
 sharp,skarpur
 shave,raka
@@ -2698,6 +2716,9 @@ stupefy,deyfa
 stupefy,sljóvga
 stylish,smart
 subjectivism,hughyggja
+subject to demands,afturkræfur
+subject to repayment,afturkræfur
+subject to necessity,afturkræfur
 sub-junior category,æskuflokkur
 sublet,endurleigu
 submarine sandwich,langloka
@@ -2879,13 +2900,16 @@ title,yfirskrift
 title,fyrirsögn
 toaster oven, grillofn, not slang
 toasting fork,eldskörunginn
+to be necessary,krefja
 to cry, grenja
+to demand,krefja
 to echo, bermála
 toffee,karamella
 to growl, urra
 to hiss, hvæsa
 toilet rim block,salernissteinn
 toilet rim block,wc steinn
+to insist,krefja
 token-based errors,stakorðavillur
 token (frame),tóki
 token (information),tóki
@@ -3086,6 +3110,7 @@ weft,ívaf
 well-established,gróinn
 whiff,snefill
 while,hríð
+whiny,frekur
 whistle, blístra
 whistle,gnauða
 whistleblower,uppljóstrari
