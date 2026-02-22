@@ -422,7 +422,7 @@ tekjurnar,income
 tekjurnar,revenue
 söluáætlun,
 framleiðsluna,production
-framleiðsluba,manufacturing
+framleiðsluna,manufacturing
 efnisnotkun,coverage
 efnisnotkun,use of materials
 efnisinnkaup,
@@ -435,4 +435,4 @@ lántökur,borrowing
 greiðsluáætlun,payment plan
 greiðsluáætlun,schedule of cash payments
 efnahagsreikningur,balance sheet
-ajóðstreymi,cash flow
+sjóðstreymi,cash flow
