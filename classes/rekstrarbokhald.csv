@@ -444,4 +444,8 @@ magnfrávik,materials quantity variance
 nýtingarfrávik,materials quantity variance
 verðfrávik,materials price variance
 tímafrávik,labor quantity variance
+launafrávik,labor quantity variance
+magnfrávik vinnu,labor quantity variance
+vinnumagnsfrávik,labor quantity variance
 taxtafrávik,labor price variance
+launaverðsfrávik,labor price variance
