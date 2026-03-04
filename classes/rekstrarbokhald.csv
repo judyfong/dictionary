@@ -439,6 +439,10 @@ efnahagsreikningur,balance sheet
 sjóðstreymi,cash flow
 skurðpunktur,point of intersection
 skurðpunktur,y-intercept
+skurðpunktur,constant
+hallatala,slope coefficient
+óháða breytan,independent variable
+háða breytan,dependent variable
 hagnýt viðmið,benchmarking
 magnfrávik,materials quantity variance
 nýtingarfrávik,materials quantity variance
