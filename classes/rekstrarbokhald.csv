@@ -117,7 +117,9 @@ lagt fram,present
 skiptistuðull,overhead rate
 álagsstuðullinn,overhead rate
 vanreiknaður,undercosted
+vanreiknuð,undercosted
 ofreiknaður,overcosted
+ofreiknuð,overcosted
 próffyrirmæli,test instructions
 eftirtalinna, following
 eftirtalinna, this
@@ -459,17 +461,41 @@ telja,regard
 telja,reckon
 telja,believe
 úthlutun óbeins kostnaðar (óbk), allocation of indirect costs
+óbeins kostnaðar (óbk), indirect costs
 innleiða,implement
 innleiða,introduce
 ABC kostnaðargreiningu, Activity Based Costing
 efnismeðhöndlun,
 pöntunarafgreiðsla,
 kostnaðarvísar,
+kostnaðarvísi,
 úrlausnarefni,
 kostnaðarhlutfall,cost driver rate
 ABC-aðferð,Activity Based Costing
+ABC,Activity Based Costing
 óbeinan kostnað á einingu,
 heildarframleiðslukostnað á einingu,
 framlegð á einingu,
 hefðbundin kostnaðarúthlutun,
 s.s. svo sem, such as
+staðalkostnað,standard costs
+kostnaðareftirlit,
+breytilegur óbk, variable indirect costs
+breytilegur óbk (óbein kostnaðar),variable indirect costs
+fastur óbk,fixed indirect costs
+fastur óbk (óbein kostnaðar), fixed indirect costs
+heildarfrávik hráefnis,
+verðfrávik hráefnis,materials price variance
+magnfrávik hráefnis,materials quantity variance
+heildarfrávik launa,
+verðfrávik launa,labor price variance
+magnfrávik launa,labor quantity variance
+greinist,identified
+greinist,determined
+greinist,discerned
+greinist,divided
+innkaup,shopping
+innkaup,purchasing
+innkaup,procurement
+gæðaeftirlit,quality assurance
+gæðaeftirlit,quality control
