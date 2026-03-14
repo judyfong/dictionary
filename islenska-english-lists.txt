@@ -6,3 +6,4 @@ vmst.csv
 classes/business-law.csv
 classes/finance-i.csv
 classes/rekstrarbokhald.csv
+rsk.csv
