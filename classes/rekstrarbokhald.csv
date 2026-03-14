@@ -659,4 +659,12 @@ hagkvæmni,feasibility
 hagkvæmni,effectiveness
 hagkvæmni,efficiency
 rekja,trace
-innri vexti,(IRR) internal rate of return
+innri vexti,(IRR) internal rate of return,
+ávöxtunarkrafa,required rate of return
+ávöxtunarkrafa,discount rate
+ávöxtunarkrafa,interest rate
+ávöxtunarkrafa,cost of capital
+ávöxtunarkrafa,hurdle rate
+ávöxtunarkrafa,cutoff rate
+áföllum,discount
+hröðunarafskrift,declining balance depreciation method
