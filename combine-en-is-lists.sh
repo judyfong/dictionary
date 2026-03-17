@@ -41,6 +41,7 @@ FILEISEN="islenska-english-lists.txt"
 while IFS= read -r line; do
   echo "$line"
   cat "$line" >> $processingisen
+  echo >> $processingisen
 done < "$FILEISEN"
 
 #    remove spaces around commas
