@@ -351,8 +351,9 @@ vera staddur, to be situated
 standa,be
 standa,stands
 standa,say
-, EBITDA earnings before interest taxes depreciation and amortization
-, EBIT earnings before interest and taxes
+hagnaður fyrir fjármunatekjur og fjármagnsgjöld án afskrifta og virðisrýmunar, EBITDA earnings before interest taxes depreciation and amortization
+hagnaður fyrir fjármunatekjur og fjármagnsgjöld, EBIT earnings before interest and taxes
+hagnaður fyrir tekjuskatt,EBT earnings before tax
 vöxtur markaðar,sales price increase
 grunnmagn,
 innheimtutími,collection time period
