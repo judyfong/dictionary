@@ -85,6 +85,7 @@ kostnaðarvaldur,cost drivers
 þrýstinemar,pressoreceptor
 þrýstinemar,pressure receptor
 núllpunktsgreining,cost-volume-profit
+núllpunktsgreining,CVP cost-volume-profit analysis
 afurðakostnaður,product costs
 birðakostnaður,inventoriable costs
 tímabilskostnaður,period costs
@@ -685,3 +686,8 @@ flíspeysa,fleece jacket
 flíspeysa,fleece
 gjaldfæra,charge
 gjaldfæra,debit
+einingar,units
+öryggismörk,confidence limit
+öryggismörk,margin of safety
+öryggisbil,confidence limit
+öryggisbil,margin of safety
