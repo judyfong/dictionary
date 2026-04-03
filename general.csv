@@ -547,6 +547,7 @@ class,áfangi,
 class,bekkur
 class,stétt
 clay pot,leirker
+clear,tær
 clearance sale,rýmingarsala
 closeout sale,rýmingarsala
 closing down sale,rýmingarsala
@@ -966,6 +967,7 @@ down payment,útborgun
 down payment,innborgun
 dozen,tylft
 draft,rissa
+draw,teyma
 dressing,umbúðir
 dried yeast,þurrger
 drift,rása
@@ -1541,6 +1543,7 @@ indisposition,forföll
 individual word speech recogniser,stakorðagreinir
 individual word speech recognizer,stakorðagreinir
 in-domain,innan óðals
+induce,teyma
 inducer,vaki
 inductive logic programming,aðleiðsluleg rökforritun
 industry,bransi
@@ -1560,6 +1563,7 @@ inlanders,innlendingur, slang
 innovation,nýsköpun
 innovative,framsækinn
 in need, áttu bágt
+in the top half,ofanverða
 in the way,fyrir
 innuendo,dylgjur
 innumerable,ótal
@@ -1666,6 +1670,7 @@ lame,hallærislega
 lament,harma
 lamp post,götuljós
 landfill,urðun
+landslide,skriða
 lane,akrein
 langostine,humar
 language analysis,málgreining
@@ -1700,6 +1705,7 @@ lazy,hægfara
 lazybones,letihaugur
 Lazy-legs,letihaugurinn
 lead,leiða
+lead by the reins,teyma
 leader,leiðari
 leap,skreppa
 leapfrog,höfrungahlaup
@@ -1743,6 +1749,7 @@ lilac,sýrena
 lilac,sýringa
 lily of the valley,dalalilja
 limited,einskorðast
+limpid,tær
 liner,hólkur
 linguistically annotated corpora,málfræðilega markaðar málheildir
 linguistic computing,máltölvun
@@ -2506,6 +2513,7 @@ river,fljót
 Robin Hood,Hrói höttur
 robust,harðgerðar
 rock climbing,klettaklifur
+rocks,grjóti
 rockfish,karfi
 Rockies,Klettafjöllin
 Rocky Mountains,Klettafjöllin
@@ -2677,6 +2685,7 @@ short distance,spöl
 short distance,spölur
 short fellow,naggur
 short fellow,peð
+short stretch,spölkorn
 short-track speed skating,skautaat
 shoulders,herðar
 shower,skúr
@@ -2916,6 +2925,7 @@ stochastic taggers,líkindamarkarar
 stochastic taggers,tölfræðimarkarar
 stock,kraftur
 stolen goods,þýfi
+stones,grjóti
 stoned,skakkur,slang
 stop epenthesis,lokhljóðsinnskot
 stop, nam staður
