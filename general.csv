@@ -417,6 +417,7 @@ bureaucracy,skrifræði
 burner,hella
 burning,sviði
 burst,gusa
+bury,grafa
 bushfire,sinueldur
 bush,runni
 business,bransi
@@ -1053,6 +1054,7 @@ encoder,kóðari
 encoder,kótari
 encouragement,örvun
 encryption,dulkóðun
+end,þrjóta
 endorse,mæla með
 endure,þola
 endurance,þol
@@ -1085,6 +1087,7 @@ estate,jarðareign
 etiquette,mannasiðir
 exactly,nákvæmlega
 exactly,einmitt
+excavate,grafa
 excrement,saur
 expound upon,fjölyrða
 express,orða
@@ -1289,6 +1292,7 @@ generation,kynslóð
 generator,rafall
 generator,vaki
 generator,gjafi
+generous,gjafmild
 gentle breeze,gola
 germinate,forrækta
 gerontocracy,öldungaveldi
@@ -1305,6 +1309,7 @@ giggle,flissa
 giggling, skríkjandi
 ginkgo biloba,musteristré
 give way,kikna
+gives,vikið að
 glazing agents,húðunarefni
 gliding,svífandi
 glinted, glitti
@@ -1381,6 +1386,7 @@ hardcover,harðspjalda
 hardtack,hrökkbrauð
 hare,héri
 harmonicity,samhljóm
+harsh,harkalegt
 hash,bixímatur
 haughtiness,reigingur
 haughty,þóttafullur
@@ -1518,6 +1524,7 @@ impressive,tilkomumikill
 impressive,impónerandi
 impudent,ósvífinn
 impudent,kræfur
+in ancient times,í fyrndinni
 inbreeding,innrækt
 incessant,stöðugur,not slang
 incest,sifjaspell
@@ -1844,6 +1851,7 @@ menace,ógnun
 men's health doctor,þvagfæralæknisfræði
 menstrual cup,tíðabikar
 mentally disabled,þroskaheftur
+mention,vikið að
 measles,mislingar
 meta analysis,fjölgreining
 metamorphosis,hamskipti
@@ -2264,6 +2272,7 @@ pragmatics,málnotafræði
 pragmatics,málnotkunarfræði
 pre-aspiration,aðblástur
 preceding,á undan
+precipitous,snarbröttu
 precision,nákvæmni
 precious,dýrindis
 precious,dýrmætur
@@ -2508,6 +2517,7 @@ rooftop cargo box,farangursbox
 rooftop cargo box,ferðabox
 rorqual,reyður
 rorqual,reyðarhvalur
+rough,harkalegt
 rub somebody out,kála
 rude,ósvífinn
 ruffian,dólgur
@@ -2516,6 +2526,7 @@ rule-based tagger,reglumarkari
 run,rása
 run into,rekast
 running word,lesmálsorð
+runs out,þrjóta
 runt,örverpi
 rush,skunda
 rush,vaða
@@ -2613,6 +2624,7 @@ sesame,sesam
 set,syrpa
 set something in motion,rekspölur
 settle, að gera upp
+severe,harkalegt
 sewage,skólp
 sewage,skolp
 sewer,holræsi
@@ -2767,6 +2779,8 @@ sorrow,harmkvæli
 sought after,eftirsóttur
 source language,frummál
 source of, -gjafi
+source of water,vatnslind
+source of water,vatnsból
 southern,suðrænn
 space jet,geimþota
 space probe,könnunarfar
@@ -2837,6 +2851,7 @@ spotlight,kastari
 spotted catfish,hlýri
 spotted catfish,steinbítsbróðir
 spout,stútnum
+spring,vatnsból
 sprite,hrekkálfur
 sprout,forrækta
 spurt, bunu
@@ -3053,6 +3068,7 @@ teal,urtlitur
 eurasian teal,urtönd
 technical product,tæknileg afurð
 teenage girl,táningsstúlkur
+temperament,skapferli
 temporal expression,tímasegð
 temporary tattoo,gervihúðflúr
 ten,tíu
@@ -3071,6 +3087,7 @@ term base,íðorðagrunnur
 terminal,skipanalína
 terminal,skjáhermi
 terminal,útstöð
+terminate,þrjóta
 terminology,íðorðaforði
 terminology restrictions,íðorðahömlur
 terrible,agalegur
@@ -3249,6 +3266,7 @@ turnover,velta
 turnover,bakkelsi
 turnover,kruðerí
 turnover,sætabrauð
+turns,vikið
 turquoise,blágrænn
 turquoise,grænblár
 turquoise,túrkis
@@ -3324,6 +3342,7 @@ verbalize,orða
 versus,gegn
 versus,á móti
 vertex, hnútur; punktur; grannhnútur,not slang
+very steep,snarbröttu
 vessel,ílát
 video file,myndbandsskrá
 vigilance,árvekni
@@ -3357,6 +3376,8 @@ watchfulness,árvekni
 watercourse,farvegur
 water's edge,flæðarmál
 water level,vatnsborð
+water source,vatnslind
+water source,vatnsból
 watt,vatt
 watt,kerti
 wave,vinka
@@ -3371,6 +3392,7 @@ web search engine,vefleitarvél
 web search,vefleit
 web user interface,vefviðmót
 weft,ívaf
+well,vatnsból
 well-established,gróinn
 well rested,úthvíldur
 wet snow avalanche,krapaflóð
