@@ -1,5 +1,6 @@
 English,Icelandic,slang or not
 2 dependent sample t-test,t-próf tveggja háðra úrtaka
+2FA,tvíþættur auðkenni
 2 independent sample t-test,t-próf tveggja óháðra úrtaka
 2 paired sample t-test,t-próf tveggja háðra úrtaka
 abdomen,kviður
@@ -3324,6 +3325,7 @@ turquoise,túrkís
 turquoise,túrkisblár
 twin towns,vinabæir
 twopence,túskildingur
+two-factor,tvíþættur
 two-story, tvílyftur
 type,vélrita
 Type I error,höfnunarmistök
