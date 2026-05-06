@@ -435,6 +435,7 @@ balance sheet,efnahagsreikningur
 balance,staða
 balance,stöðugleiki
 balance,stöðuleiki
+ball,dansiball
 balls of one's foot,táberg
 balsamic vinegar,balsamedik
 banality,flatneskja
@@ -786,6 +787,7 @@ carved,útskorinn
 case,ver
 cash agent,greiðslubanki
 cash flow,sjóðstreymi
+cash payment,staðgreiðsla
 cash sale,staðgreiðslusala
 catch,ná
 catch on,fatta
@@ -882,6 +884,11 @@ chocoholic,súkkulaðisjúklingur
 chocolates,konfekt
 choice,kostur
 chop,saxa
+choreographer,danshöfundur
+choreography,dansgerð
+choreography,danshönnun
+choreography,danssmíði
+choreography,samræming hreyfinga
 chromatography,litskilja
 chromatography,litskiljun
 chunk,bagga
@@ -1292,6 +1299,7 @@ damage,skemmist
 damnation,glötun
 damp,deigan
 damselfish,svölusporður
+dance,dansiball
 dandle,hossa
 dandy,pjattrófa
 dangerous,glæfralegur
@@ -1336,6 +1344,7 @@ death,bani
 deathly pale,náfölt
 Death Valley,Dauðadalurinn
 debit,gjaldfæra
+debit,staðgreiðsla
 debt ratio,skuldahlutfall
 debt,skuld
 decade,áratugur
@@ -1415,6 +1424,7 @@ dependency grammar,venslamálfræði
 dependent variable,háða breytan
 deposited,innborguð
 deposit,innborgun
+deposit,innlögð
 deposits,innborganir
 depreciation,afskrift
 depreciation,fyrning
@@ -1851,6 +1861,7 @@ exception,frávik
 excessive,óhóflegt
 excessive,óhóflegur
 exchange information,skiptast á upplýsingum
+exchange of words,orðaskiptin
 excitability,ertanleiki
 excite,trylla
 excrement,saur
@@ -2560,6 +2571,7 @@ idler,letihaugur
 idling,lausagangur
 id number,kennitala
 I encourage you to do it,um að gera
+if you don't mind,ef þér er sama
 igneous rock,storkuberg
 ignore,hunsa
 I liked,mér leist
@@ -2665,6 +2677,7 @@ ingrained,rótgróinn
 ingredients,innihaldsefni
 inhibit,bæla
 in-house,hýsing
+in-house,innanhúss
 inimical,illviljaður
 inimical,óvinveittur
 inimical,skaðlegur
@@ -3066,6 +3079,7 @@ lose control,missa tökin
 lose,glatar
 loss,tap
 lotion,áburður
+loud,hávær
 loud raw rock music radio station,graðhestastöð
 lout,ruddi
 love,kærleikur
@@ -3376,6 +3390,7 @@ multimedia documents,margmiðlunarskjöl
 multimedia information extraction,útdráttur margmiðlunarupplýsinga
 multimedia information retrieval,margmiðlunarupplýsingaheimt
 multimedia retrieval,margmiðlunarheimt
+multimixer,steinvinnsluvélina
 multimodal communication,fjölhátta samskipti
 multimodal communication,marghátta samskipti
 multimodality,fjölskynjun
@@ -3439,6 +3454,7 @@ nerd,proffi
 nervous,smeyk
 nervous system,taugakerfi
 nervous,taugaóstyrkur
+nervous wreck,taugahrúga
 nest,hreiður
 net income,ráðstöfunartekjur
 net present value,hreint núvirði
@@ -3662,6 +3678,8 @@ packing machines,pökkunarvélar
 pack,troða
 pact,sáttmáli
 padding,tróð
+paid immediately,staðgreiðsla
+paid on location,staðgreiðsla
 pain,harmkvæli
 pain,kvöl
 paintbrush,pensill
@@ -3684,6 +3702,7 @@ parameter,stiki
 parapet,brjóstvirki
 paring knife,skurðarhnífur
 parish,sókn
+parole,náðun
 parser,þáttara
 parser,þáttari
 parse tree,þáttunartré
@@ -3987,6 +4006,7 @@ pride,hroki
 pride,stolt
 primaries,prófkjöri
 Priming,Undirbúningsr
+primitive,frumstæðu
 primitive,frumstæður
 primitive,upphaflegur
 primrose,laufeyjarlykill
@@ -4537,6 +4557,7 @@ search interface,leitarskil
 search interface,leitarviðmót
 seaside town,sjávarþorp
 seaside village,sjávarþorp
+seat belt,sætisólar
 seaweed,þang
 seaweed,þari
 sebastes,karfi
@@ -5012,6 +5033,7 @@ stick,prík
 stick-shift,beinskiptur
 stick,stinga
 stick to the basics,stiklað á stóru
+stiff,stirður
 stigma,skömm
 stimulated,örvað
 stimulation,örvun
@@ -5251,6 +5273,7 @@ task,verk
 task,verkefni
 tassle,skúfur
 taste,hæfi
+tasty,bragðgóður
 tattoo,flúr
 tattoo,húðflúr
 Taurus,Naut
@@ -5850,6 +5873,7 @@ water source,vatnslind
 watery,vætusamt
 watt,kerti
 watt,vatt
+waver,skalf
 wave,vinka
 wax,bón
 way,leið
@@ -5914,11 +5938,15 @@ wind noises,vindgnauð
 window pane,rúða
 wing,álma
 wing,vængur
+wink,drap tittlinga
 wino,róni
 wipe out,afmá
 wiper blades,þurrkublöð
 WIP(work in progress),Vörur í vinnslu í byrjun tímabils
 withdrawal,úttekt
+withered,skrælnaður
+withered,visinn
+withered,visnaður
 without falter,hnökrar
 wolf,úlfinn
 womanizing,kvennafar
