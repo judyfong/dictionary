@@ -770,3 +770,6 @@ fk fastur kostnaður,fixed costs
 stofnáætlun,static budget
 fullunnar birgðir,finished goods inventory
 vörunotkun mánaðarins KSV, cost of goods sold during the month
+hráefnisbirgðir,raw materials inventory
+verk í vinnslu,work in process inventory
+fullunnar vörur,finished goods inventory
