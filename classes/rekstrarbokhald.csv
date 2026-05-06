@@ -769,3 +769,4 @@ bk breytilegur kostnaður,variable cost
 fk fastur kostnaður,fixed costs
 stofnáætlun,static budget
 fullunnar birgðir,finished goods inventory
+vörunotkun mánaðarins KSV, cost of goods sold during the month
