@@ -784,3 +784,7 @@ eignir,assets
 dagbókarfærslan,journal entries
 kostnaðarverð óseldra vara á lager,cost of goods unsold
 kostnaðarverð óseldra vara á lager,finished goods inventory leftover
+úthlutaður óbeinn kostnaður,allocated indirect costs
+úthlutaður óbeinn kostnaður,applied indirect costs
+úthlutaður óbeinn kostnaður,predetermined indirect costs
+beinn launakostnaður,direct labor costs
