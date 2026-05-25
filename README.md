@@ -30,6 +30,14 @@ permission from Fædon.
 
 The definition of steal comes from [Íslensk-Ensk Ensk-Íslensk vasaorðabók](https://www.forlagid.is/vara/islensk-enskensk-islensk-vasaor%C3%B0abok/), [ÍSLENSK-ENSK ORÐABÓK. CONCISE ICELANDIC- ENGLISH DICTIONARY](https://www.boksala.is/en/product/islensk-ensk-ordabok-concise-icelandic/), [The American College Dictionary](https://www.amazon.com/American-College-Dictionary-Stein-Barnhart/dp/B000U0SKDE), and [Ensk-Íslensk orðabók - til að hafa við höndina eftir Sigurður Örn Borgason](https://books.google.is/books/about/Ensk_%C3%ADslensk_or%C3%B0ab%C3%B3k.html?id=nJOszgEACAAJ&redir_esc=y).
 
+The Icelandic Tier 2 frequency list is from: 
+
+```
+Ólafsdóttir, Sigríður and Pálsdóttir, Auður, 2023, 
+  The Icelandic Academic Word List (v. 1.0), CLARIN-IS, 
+  http://hdl.handle.net/20.500.12537/307.
+```
+
 # Licensing
 Licensing will be treated on a case by case basis by initiating a GitHub issue
 listing why you want to use the dictionary.
