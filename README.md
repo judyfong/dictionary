@@ -47,3 +47,4 @@ Judy Fong <contact@judyyfong.xyz>
 
 # TODO
 1. Create a GitHub action to automatically combine word lists
+2. Create script to extract words from LINO frequency list
