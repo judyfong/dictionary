@@ -336,6 +336,8 @@ benefit,hagur
 benefit,hlunnindi
 benefit,kostur
 benefit,skila
+benighted,sem lendir í myrkri
+benighted,hjúpaður í myrkri
 bequeath,arfleiða
 Bergen, Björgvin,not slang
 berth,rúmklefi
@@ -755,6 +757,7 @@ counsellor,ráðgjafi
 count,greifi
 countless,ótal
 courier,fylgdarmaður
+cover,hjúpa
 cower,hnipra
 cower,grúfa
 cower,híma
@@ -1008,6 +1011,7 @@ discourse ,orðræða
 discriminate,mismuna
 discriminative tagger,aðgreiningarmarkari
 discipline,aga
+disclose,afhjúpa
 discussion,reifun
 discussion-worthy,umtalsvert
 disguise,dulargervi
@@ -1115,6 +1119,7 @@ eating disorder,átröskun
 economic condition,hagræn staða
 economics,hagfræði,not
 economy,efnahagur
+ecosystem,vistkerfi
 edge,brún
 edge,jaðar
 edge,hjari
@@ -1189,6 +1194,7 @@ exactly,nákvæmlega
 exactly,einmitt
 excavate,grafa
 excrement,saur
+expose,afhjúpa
 expound upon,fjölyrða
 express,orða
 extract,þykkni
@@ -2370,6 +2376,7 @@ peahen,páhæna
 Pearson’s r,fylgnistuðul Pearsons
 peashooter,baunabyssa
 peel,pilla
+peel,afhjúpa
 peeled,afhýdd
 peep hole,gægjugat
 peer chat,jafningjaspjall
@@ -3646,6 +3653,7 @@ unstressed,áherslulaus
 unsubscribe,afskrá
 unsupervised learning,óleiðbeint nám
 unsupervised learning,viðgjafarlaust nám (helst ekki)
+unveil,afhjúpa
 up against,uppvið
 up against,upp við
 uproarious,rokinn
@@ -3810,6 +3818,7 @@ window pane,rúða
 wing,álma
 wing,vængur
 withstand,sporna við
+wrap,hjúpa
 written language corpora,málheildir ritmáls
 written language input,ritmálsílag
 wuss,kisa
