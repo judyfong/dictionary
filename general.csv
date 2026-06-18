@@ -227,6 +227,7 @@ attribute,eigind
 attribute,eiginleiki
 audio file,hljóskrá
 audit,endurskoðun
+auk,svartfugl
 authenticate,auðkenna
 authoring support,ritstoð
 authoring support software,ritstoðarforrit
@@ -2738,6 +2739,7 @@ refugee,flóttamaður
 refuse,synja
 region,umdæmi
 regular expression,regluleg segð
+regularly, að staðaldri
 rehabilitation,endurhæfing
 rehabilitation,endurreisn
 rehabilitation,viðreisn
