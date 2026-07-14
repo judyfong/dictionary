@@ -288,6 +288,7 @@ applied indirect costs,úthlutaður óbeinn kostnaður
 applied overhead,álagður óbeinn kostnaður
 apply,beita við
 apply,beitt
+apply,bera á
 apprehension,hugarangri
 approach,framsetning
 appropriate,séð
@@ -482,6 +483,7 @@ bag,skjóða
 baguette,franskbrauð
 baguette,snittubrauð
 bait,ögn
+bait,ögnum
 baker's ammonia,hjartarsalt
 baking potato,bökun
 balanced scorecard,stefnumiðað árangursmat
@@ -512,6 +514,7 @@ baroceptor,þrýstinemar
 baroreceptor,þrýstinemar
 barrel,hólkur
 barren moor,móinn
+bar,súla
 baseball,hafnabolti
 baseball,hornabolti
 based on,hafa fyrir þeim
@@ -520,6 +523,7 @@ baseline,beislínu
 baseline,grunnlína
 base year,grunnár
 basic need,grunnþarfir
+basin,bali
 basin,lægð
 basis for forming a judgment,forsendur
 basis,forsendur
@@ -722,6 +726,7 @@ bow,hneigði
 boycott,sniðganga
 boy,snáði
 bracelet,armband
+brag,hæla
 brain cell,heilafruma
 brainwash,heilaþvo
 brake housing,bremsubarki
@@ -982,6 +987,7 @@ child,peð
 child prodigy,afburðargreindur
 childrens' garage sale,tombóla
 chimney,skorsteini
+chimney,súla
 chimney sweep,sótari
 chin,haka
 chip,flís
@@ -1111,10 +1117,12 @@ collocational features,samstæðuþættir
 collocations,orðastæður
 collocations,samstæður
 collusion,samsæri
+colomn,súla
 colorful,litadýrð
 colostomy bag,hægðapoki
 colt,foli
 column,pistill
+column,súla
 coma,dá
 combat,bardagi
 combination lock,stafalás
@@ -1729,6 +1737,7 @@ discharge,hleypa af
 disciple,fylgismaður
 disciple,lærisveinn
 discipline,aga
+disciplined,agaður
 discipline,greinin
 disclose,afhjúpa
 disclosure,uppljóstrun
@@ -1763,6 +1772,7 @@ disposal,umráð
 dispose of,farga
 dispute,ágreiningur
 dispute,véfengja
+dispute,þrætti
 dissection class,krufningarkúrsarnir
 dissent,ágreiningur
 dissenter,ættleri
@@ -2203,6 +2213,7 @@ fast,snöggur
 fatal blow,banasár
 fate,afdrif
 fate,örlög
+father and son,feðgar
 fat sausage,bjúga
 fat,sver
 fault,ágalli
@@ -2343,6 +2354,7 @@ fleshless,holdlaus
 flex,hnyklaði
 flexibility,liðleiki
 flexible budget,sveigðri áætlun
+flexible,skalanlegur
 flicker,flökti
 flight,flótti
 flight time,flugþol
@@ -2489,6 +2501,7 @@ gallows,gálgi
 gamble,gambla
 gamble,spila fjárhættuspil
 gang,gengið
+gannet,súla
 gap,skarð
 garment,spjör
 garrison,setulið
@@ -2765,6 +2778,7 @@ highlighter,áherslupenni
 highlight,litun texta
 highlight,yfirstrikunarlitur
 high-low method,hámarks-lágmarks aðferð
+high-net-worth individual,auðfýkingur
 high-rise,háhýsi
 highway,þjóðvegur
 hindering,fyrir
@@ -2785,6 +2799,7 @@ HLA,vefjaflokkun
 hlutverkaleikur,role-play
 HMM methods,aðferðir hulinna markovslíkana
 hnökrar,without falter
+HNWI,auðfýkingur
 hoarfrost,héla
 hobby shops,Tómstundaverslanir
 hokum,bull
@@ -2952,6 +2967,7 @@ importunate,nærgöngull
 impossibility,ógerningur
 impossible,ótækt
 impotent,vanmáttugan
+impress,heillaðu
 impressive,aðsópsmikill
 impressive,impónerandi
 impressive,tilkomumikill
@@ -3179,6 +3195,7 @@ ivory,fílabein
 jabber,mala
 jacuzzi,heitur pottur
 jade ring,jaðihring
+jagged,skörðóttri
 jail,steinn
 jaundice,gulu
 jaw,kjálki
@@ -3367,8 +3384,10 @@ leap year,hlaupár
 learning and growth perspective,lærdóms- og vaxtarsjónarhorn
 learning,lærdómur
 leasing,eignaleiga
+lecithin,lesitín
 lecture,röfla
 ledge,sylla
+ledge,syllu
 left out,útundan
 legal counsel,lögfræðiþjónustu
 legal guardian,forsjáraðili
@@ -3639,6 +3658,7 @@ mass,mannþröng
 mass,mergð
 mass-produced,fjöldaframleiddur
 master,tileinka
+mast,súla
 masturbate,fróa sér; runka sér;kippi í
 match,stemma
 material,efniskennt
@@ -3660,6 +3680,7 @@ mayfly,dægurfluga
 mayfly,maífluga
 may,mega
 mayonnaise,majónes
+meadow,bali
 meadows,engjar
 meadow,tún
 meal,máltíð
@@ -3712,6 +3733,7 @@ message,orðsendingu
 mess around,fikta
 messing with,stríða
 meta analysis,fjölgreining
+metal industry,málmiðnaður
 metamorphosis,hamskipti
 meteor shower,loftsteinadrífa
 meteor shower,loftsteinaregn
@@ -4143,6 +4165,8 @@ ouch,ái
 outcome,útkoma
 outer garment,yfirhöfnina
 outer space,geiminn
+outlet,útsölumarkaður
+outlet,útsölustaða
 outliers,einförum
 outline,móta
 out-of-domain,utan óðals
@@ -4225,6 +4249,10 @@ paralyzed,lamaður
 parameter,færibreyta
 parameter,stiki
 parapet,brjóstvirki
+parasite,afæta
+parasite,smjaðrari
+parasite,sníkill
+parasite,sníkjudýr
 paring knife,skurðarhnífur
 parish,sókn
 parole,náðun
@@ -4291,6 +4319,7 @@ peer-reviewed material,rítrýnt efni
 peg,pinni
 peignoirs,morgunklæðnaður
 penal code,hegningarlögum
+penalty shoot-out,bráðabani
 pendant,dingull
 pendant,men
 pendulum,dingull
@@ -4366,11 +4395,13 @@ piebald,skjóttur
 piece,stykki
 piecework,akkorð
 piecework,ákvæðisvinna
+pier,súla
 pigeon,dúfa
 pile,hrúgar
 pile,hrúgu
 pile,stafli
 pilfer,nappa
+pillar,súla
 pill bottle,pillubox
 pill,pilla
 pimple patch,bóluplástur
@@ -4421,6 +4452,7 @@ pluck,hnippa
 pluck,plokka
 pluck,reyta
 plunder,gripdeildir
+plutocrat,auðfýkingur
 pms,firirtíðaspenna
 poacher,veiðiþjófur
 pockmarked,hrjúft
@@ -4440,6 +4472,7 @@ poker,póker
 polarization,pólun
 polarization,skautun
 pole,staur
+pole,súla
 policy,stefnu
 polisexuality,fjölkynhneigð
 polish,bón
@@ -4674,6 +4707,7 @@ proud,drambsamur
 proud,fagur
 proud,hreykinn
 proudly,hróðugur
+proud,montinn
 proud,stoltur
 provide,veita
 province,umdæmi
@@ -4903,6 +4937,7 @@ refuse,synja
 regard,álitin
 regards,varða
 regard,telja
+regimented,agaður
 region,umdæmi
 register of goods being carried and under which terms,farmskirteini
 register of judgements,dómasafni
@@ -5145,6 +5180,7 @@ sarcastic,kaldhæðinn
 sarcastic,meinhæðinn
 satellite,gervihnöttur
 satellite,gervitungl
+satellite store,útsölustaða
 satiating,seðjandi
 satisfactory,viðunandi
 saturated with,þrunginn
@@ -5158,6 +5194,7 @@ say,kváðust
 say of oneself,kvaðst
 say,standa
 scaffolding,vinnupallur
+scalable,skalanlegur
 scale,mælikvarða
 scale,mælikvarði
 scale,skali
@@ -5246,6 +5283,7 @@ self-esteem,sjálfsálit
 self-helper,gertækari
 self-important person,merkikertið
 self-sufficiency,sjálfsbjarga
+self-sustaining,sjálfbær
 selling and administrative expense budget,áætlun um sölu- og stjórnunarkostnað
 semantic corpora,merkingarmálheild
 semantic drift,merkingarrek
@@ -5838,6 +5876,7 @@ subject,viðfangsefni
 subject,þegn
 sub-junior category,æskuflokkur
 sublet,endurleigu
+submarine,neðansjávar
 submarine sandwich,langloka
 subpeona,stefnt
 subsidize,niðurgreiða
@@ -5866,6 +5905,7 @@ suck,sjúga
 suck,soga
 suck,totta
 suction,sog
+sudden-death,bráðabani
 suddenly,snögglega
 sudden,snöggur
 suet,mör
@@ -5924,6 +5964,7 @@ surveillance,vöktun
 survey,yfirlit
 suspected,meintur
 sustainability certified,sjálfbærnivottun
+sustainable,sjálfbær
 swallowed,kokgleypti
 swarm,mannþröng
 SWAT,víkingasveit
@@ -6337,6 +6378,7 @@ to work at the docks,vinna á eyrinni
 to work in town,vinna á eyrinni
 to work,vinna
 to write,skrifa
+toxic,agaður
 toy system,leikfangakerfi
 trace,rekja
 trace,snefill
@@ -6396,6 +6438,7 @@ trust,fjárhald
 trustworthy,ábyggilegir
 trustworthy,áreiðanlegur
 truth-conditional semantics,sannkjaramerkingarfræði
+tub,bali
 tube,hólkur
 tuberculosis,berklar
 tuberculosis,tæring
@@ -6478,6 +6521,7 @@ uninterrupted,samfleytt
 unit level,einingastig
 units,einingar
 universal,sammannlegt
+universal sensor,alneminn
 universe,alheimur
 University of Iceland,Háskóli Íslands
 University of Iceland,Háskólinn
@@ -6539,6 +6583,8 @@ vacant,auður
 vacant,tómur
 vacate,rýma
 vagabonds,farandlýður
+valetudinarian,heilsulinur maður
+valetudinarian,óhraustur
 valour,hreysti
 value-added tax (VAT),virðisaukaskattur
 value,andvirði
@@ -6665,6 +6711,7 @@ weak spot,bláþráður
 weak spot,veikleiki
 weak-willed,veiklundaðan
 wealth wellbeing,efnahagur
+wealthy,auðfýkingur
 weary,aðframkominn
 weary,luinn
 weather conditions,veðrabrigði
