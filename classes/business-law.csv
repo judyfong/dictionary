@@ -647,8 +647,8 @@ efist,doubt
 fullnaðar kvittun,formal acknowledgement of full payment
 fullnaðar viðurkenning,formal acknowledgement of full payment
 laut,
-skuldajafnaðar set-off
-skuldajafnaðar,nettinh
+skuldajafnaðar, set-off
+skuldajafnaðar,netting
 rakti,
 sló <> föstu,assume
 sló <> föstu,take as given
@@ -669,7 +669,7 @@ sérlögum,
 í för með sér,
 tilvist,
 tilliti,glance
-tilliti,comsider
+tilliti,consider
 tilliti,regard
 tilliti,respect
 tilliti,consideration
@@ -711,3 +711,21 @@ gjaldfella,call in (a loan)
 uppboðs,auction
 umleitun,appeal
 umleitun,plea
+ógjaldfallnar,not due for payment
+falla niður,cancelled
+eiginlegum,natural
+eiginlegum,real
+gagnvart,facing
+gagnvart,towards
+gagnvart,in relation to
+kröfurétti,claim right
+kröfurétti,law of obligations
+eftirgjafar,write-off
+eftirgjafar,forgiveness
+löggerningi,legal act
+löggerningi,statement of intent legally
+uppgjöfin,capitulation
+uppgjöfin,surrender
+uppgjöfin,submission
+leystur,release
+leystur,undo
