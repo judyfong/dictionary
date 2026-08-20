@@ -443,6 +443,7 @@ brazen,blygðunarlaus
 brazier,glóðarpanna
 brazier,messingssmiður
 breakdown,bilun
+breakdown truck,kranabíla
 break free, sleit
 brill type tagger,markari brills
 brilliant,framúrskarandi
@@ -610,6 +611,7 @@ child prodigy,afburðargreindur
 childrens' garage sale, tombóla, slang
 chimney,súla
 chimney sweep, sótari
+chink,raufina
 chips,flögur
 chisel,meitill
 Chi-square,kí-kvaðrat
@@ -831,6 +833,7 @@ crab,krabbi
 crab,skógarepli
 crabbed,önugur
 crabby,önugur
+crack,raufina
 crackle,snarka
 crafting,föndur
 cramp,krampi
@@ -1646,6 +1649,7 @@ guinea pig,naggrís
 guitar pick,gítarnögl
 gullet,kok
 gun,hólkur,slang
+gurgle,gutlar
 gust,vindhviða
 gymnastics,leikfimi
 gypsy,síguani
@@ -1721,6 +1725,7 @@ HMM methods,aðferðir hulinna markovslíkana
 hnökrar,without falter,not slang
 HNWI,auðfýkingur
 hole,hola
+hole,raufina
 hole in the wall,hraðbanki
 hole in the wall,búlla
 hollow,lægð
@@ -2265,6 +2270,7 @@ moan,gnauða
 moat,díki
 mob,mannþröng
 mobile classrooms,gámakennslustofur
+mobile crane,kranabíla
 model,fyrirsæta
 modular classrooms,gámakennslustofur
 portable classrooms,gámakennslustofur
@@ -2469,6 +2475,7 @@ old icelander, Íslendingur fæddist á Íslandi, slang
 omnivore,alæta
 open,hispurslaus
 opening,op
+opening,raufina
 opportunity,forvöð
 oppose,sporna við
 opposite,gagnstæður
@@ -3063,6 +3070,7 @@ rockfish,karfi
 Rockies,Klettafjöllin
 Rocky Mountains,Klettafjöllin
 roe,hrogn
+rolled,valt
 rolling pin,kökukefli
 rotisserie,rotisserie
 rotisserie,eldgrillaður
@@ -3215,6 +3223,7 @@ sex,samfarir
 sexual intercourse,kynmök
 sexy,kynæsandi
 schmuck,lúði
+shaky,valt
 shakily,nötrandi
 shallow generation,grunn málgerving,
 shallow generation,grunn myndun
@@ -3327,6 +3336,8 @@ slip,renna
 Slippery Jack,furusveppur
 Slippery Jack,furusúlungur
 slipshod,ófínn
+slit,raufina
+slot,raufina
 slow news season,gúrkutíð
 slug,snigill
 slur,munnsöfnuður
@@ -3882,6 +3893,7 @@ totally,aldeilis
 tough,þrautseigur
 tough guy,kallakall,slang
 tow hook,dráttarkúla
+tow truck, kranabíla
 towards the rear,aftarlega
 toxic,agaður,slang
 toy system,leikfangakerfi
@@ -3993,6 +4005,7 @@ unknown word guesser,giskari
 unpleasant,óviðfelldinn
 unremitting,þrotlaus
 unscrupulous,ófínn
+unsteady,valt
 unstressed,áherslulaus
 unsubscribe,afskrá
 unsupervised learning,óleiðbeint nám
@@ -4028,6 +4041,7 @@ variant,tilbrigði
 variation,tilbrigði
 vat,ker
 vault,hvelfing
+vaulted,valt
 vaulted ceiling,hvelfing
 vegetative growth phase,geldvexti
 vehemence,ofsi
@@ -4156,6 +4170,7 @@ withered,skrælnaður
 without falter,hnökrar,not slang
 wizard,galdrakarl
 wizard,seiðkarl
+wobbly,valt
 womanizing,kvennafar
 wonder,furða
 wonder,spurn
