@@ -49,6 +49,11 @@ actually,nefnilega
 actually,sem sagt
 a dash,slæðingur
 adapter,millistykki
+additive,aukefni
+additive,samleggjandi
+additive,íauki
+additive,íblendiefni
+additive,viðbætinn
 administrative division,umdæmi
 advanced discourse processing,þróuð orðræðuaðferð
 advancement,frami
@@ -483,6 +488,7 @@ bumper,högghlíf
 bump somebody off,kála
 bungler,klaufi
 bunny,kanína
+burden,sliga
 bureaucracy,skrifræði
 burn,logar
 burner,hella
@@ -3699,6 +3705,7 @@ summarizer,samantektir
 summary,yfirlit
 supervised learning,leiðbeint nám
 supervised learning,"viðgjafarnám (helst ekki, viðgjöf á frekar heima innan reinforcement learning)"
+supplement,bætiefni
 support,framfærsla
 support system,stoðkerfi
 support vector machines,stoðvigravélar
@@ -4169,6 +4176,7 @@ web search,vefleit
 web user interface,vefviðmót
 weed,stuð
 weft,ívaf
+weigh down,sliga
 well,vatnsból
 well-established,gróinn
 well rested,úthvíldur
