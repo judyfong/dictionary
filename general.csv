@@ -1323,6 +1323,7 @@ exactly,einmitt
 examination,skoðun
 excavate,grafa
 excavation,gryfja
+excerpt,útdráttur
 excrement,saur
 expose,afhjúpa
 expound upon,fjölyrða
@@ -1331,6 +1332,8 @@ extinct,aldauða
 extinct,útdauður
 extract,þykkni
 extract,extrakt
+extract,útdráttur
+extraction,útdráttur
 extremely,urrandi
 eucalyptus,myrtusviður
 eucalyptus,tröllatré
@@ -3712,6 +3715,7 @@ summarizer,samantaki
 summarizer,samantektartól
 summarizer,samantektir
 summary,yfirlit
+summary,útdráttur
 supervised learning,leiðbeint nám
 supervised learning,"viðgjafarnám (helst ekki, viðgjöf á frekar heima innan reinforcement learning)"
 supplement,bætiefni
