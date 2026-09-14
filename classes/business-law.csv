@@ -79,6 +79,9 @@ afturkala,annul
 afturkalla,recall
 viðtöku,welcome
 viðtöku,reception
+viðtöku,accept
+viðtöku,receive
+veita viðtöku,granted temporary ownership
 yfirlögráðanda,guardian in charge
 ófjárráða,financially incapable
 FIT = færslur innistæðulausra tékka gjald, overdraft fee
