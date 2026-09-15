@@ -392,6 +392,8 @@ binturong,svartur bjarnköttur
 birch,björk
 bit,bútur
 biting midge,lúsmý,not slang
+blade,eggvopn
+bladed weapon,eggvopn
 blah blah blah,daddaradadd,
 blight,blettur
 blinds,gluggatjöld
@@ -517,6 +519,8 @@ callus,sigg
 camel,kameldýr
 camel,úlfaldi
 can,brúsi
+canal,síki
+canal,skurður
 can be,unnt
 candidate,frambjóðandi
 candidate,umsækjandi
@@ -571,6 +575,8 @@ cargo roof box,ferðabox
 carrying value of the bond,bókfært verð af skulduna
 cartilage,brjóskflögur
 cartilage,brjósk
+carve,rista
+carving,rista
 cash flow,sjóðstreymi
 castle,slot
 catch,ná
@@ -924,6 +930,7 @@ cuddle,kúra
 cue,stikkorð
 culprit,sökudólgur
 culprit,sökudólganir
+culvert,ræsi
 cunning,slóttugur
 cupcake,bollakaka
 cup noodles,bollanúðlur
@@ -1144,6 +1151,8 @@ disruption,rask
 disrupt,raska
 district,umdæmi
 ditch,skrópa
+ditch,skurður
+ditch,síki
 ditch,díki
 dive,kafa
 dive,dúfa
@@ -1183,6 +1192,7 @@ down payment,útborgun
 down payment,innborgun
 dozen,tylft
 draft,rissa
+drain,ræsi
 draw,teyma
 dressing,umbúðir
 dried yeast,þurrger
@@ -1231,6 +1241,8 @@ dune,sandskafl
 durable,endingargóður
 dust,mylsna
 duvet,sæng
+dyke,síki
+dyke,skurður
 dysgraphia,skrifblinda
 dysgraphia,rithömlun
 dynamic programming,kvik bestun
@@ -1248,6 +1260,7 @@ ecosystem,vistkerfi
 edge,brún
 edge,jaðar
 edge,hjari
+edged weapon,eggvopn
 education,menntun
 effective interest,virkir vextir
 effective interst method - present value amortization
@@ -1570,6 +1583,7 @@ gannet,súla
 gap,skarð
 garrison,setulið
 gas canister,gaskútur
+gash,skurður
 Gastropoda,snigill
 gas tank,gaskútur
 gas tank for the grill,smellugas
@@ -1685,9 +1699,12 @@ guide,fylgdarmaður
 guinea pig,naggrís
 guitar pick,gítarnögl
 gullet,kok
+gutter,ræsi
 gun,hólkur,slang
 gurgle,gutlar
 gust,vindhviða
+gut flora,þarmaflóra
+gutting,aðgerð
 gymnastics,leikfimi
 gypsy,síguani
 gyrfalcon,valur
@@ -1706,6 +1723,7 @@ hare,héri
 harmonicity,samhljóm
 harsh,harkalegt
 hartshorn,hjartarsalt
+harvest,skurður
 hash,bixímatur
 hash,stuð,slang
 haughtiness,reigingur
@@ -1886,6 +1904,7 @@ inbreeding,innrækt
 incessant,stöðugur,not slang
 incessant,þrotlaus
 incest,sifjaspell
+incision,skurður
 incredible,ótrúlegur
 income statement,rekstrarreikningur
 income, tekjur
@@ -1921,6 +1940,7 @@ inimical,óvinveittur
 inimical,illviljaður
 inimical,skaðlegur
 injure,móðga
+injury,ben
 inlanders,innlendingur, slang
 innovation,nýsköpun
 innovative,framsækinn
@@ -2038,6 +2058,7 @@ knowledge technology,þekkingartækni
 knowledge,vitund
 label,mark
 label,merkja
+laceration,skurður
 lacklusterly,dauflega
 ladybug,maríuhæna
 ladybug,sjödepla
@@ -2265,6 +2286,7 @@ meal time,máltíð
 meal time,snæðingur
 meaning representation,merkingartáknun
 mean,meðaltal
+measure,aðgerð
 muddle,flækja
 median,miðgildi
 medley,syrpa
@@ -2547,6 +2569,7 @@ open, ber
 opening ceremony,setningarathöfn
 operating expense,rekstrarkostnaður
 operating system,stýrikerfi
+operation,aðgerð
 os,stýrikerfi
 opinion,skoðun
 opinion piece,pistill
@@ -2618,6 +2641,10 @@ parasite,sníkill
 parasite,afæta
 parasite,smjaðrari
 parasomnias,sérstakar svefntruflanir
+parboil,hálfsjóða
+parboil,snöggsjóða
+parboil,forsjóða
+parboil,hraðsjóða
 paring knife,skurðarhnífur
 parish,sókn
 parser,þáttara
@@ -2878,6 +2905,7 @@ probabilistic context-free grammars,líkindafræðilegar samhengisfrjálsar mál
 probabilistic parsing,líkindaþáttun
 probabilistic tagging,líkindamörkun
 probiotic,góðgerill
+procedure,aðgerð
 processed,unninn
 processed foods,unnin matvæli
 procrastination,frestun,not slang
@@ -3014,6 +3042,7 @@ ready, viðbúinn
 ready,útbúa
 reality,staðreynd
 reality,veruleiki
+reap,skurður
 reason,skynsemi
 rebetika,gríska tonlist
 rebound,skoppa
@@ -3745,6 +3774,7 @@ support vector machines,stoðvigravélar
 supposed,meintur
 surface,yfirborð
 surface form,yfirborðsgerð
+surgery,aðgerð
 surmise,giska á
 surmise,gruna
 surname,ættarnafn
@@ -4287,6 +4317,7 @@ wort,urt
 worth it,borgar sig
 worth it,skila
 wound,áverki
+wound,ben
 worldview,heimssýn
 worldview,veraldarsýn
 wimp,héri
