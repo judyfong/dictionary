@@ -440,17 +440,21 @@ attend to,sinna
 take care of,sinna
 head,sinna
 mind,sinna
+carry out,sinna
 daily routine,daglegri rútínu
 quotidian routine,daglegri rútínu
 everyday routine,daglegri rútínu
+day-to-day activities,verkefnum frá degi til dags
 take on,takast á við
 deal with,takast á við
 tackle,takast á við
+handle,takast á við
 mental stressors,andlegt álag
 mental strain,andlegt álag
 mental workload,andlegt álag
 spiritual stressors,andlegt álag
 religious pressure,andlegt álag
+crises or conflict,annað andlegt álag
 distance,vegalengd
 stretch,vegalengd
 inside,innan við
@@ -458,7 +462,9 @@ within,innan við
 less than,innan við
 below,innan við
 more than,meira en
-,úr stað
+moving around,hreyfa úr stað
+including,með því að
+such as,með því að
 crawl,skríða
 slither,skríða
 glide,skríða
@@ -476,20 +482,22 @@ bed,reit
 site,reit
 lot,reit
 mobility,hreyfigeta
-,ég á ekki í
-,ég á í
+I have no,ég á ekki í
+I have,ég á í
 with my gait,með gang
 with walking,með gang
 self care,sjálfsumönnun
-,sjálfsumönnun
+self-care,sjálfsumönnun
 a little,svolitlum
 a little bit,svolitlum
 a bit,svolitlum
 some,svolitlum
+slight,svolitlum
 quite,nokkrum
 something,nokkrum
 fairly,nokkrum
 somewhat,nokkrum
+some,nokkrum
 substantial,verulegum
 significant,verulegum
 real,verulegum
@@ -499,22 +507,26 @@ usual,venjubundin
 traditional,venjubundin
 routine,venjubundin
 regular,venjubundin
-,athafnir
+activities,athafnir
 housework,heimilisstörf
 chores,heimilisstörf
 domestic tasks,heimilisstörf
+household chores,heimilisstörf
 being together,samvera
 togetherness,samvera
 company,samvera
 coexistence,samvera
-,frístundaiðja
+family time,samvera með fjölskyldu
+hobbies,frístundaiðja
+pain,verkir
 discomfort,óþægindi
 nuisance,óþægindi
 inconvenience,óþægindi
 hassle,óþægindi
-,ég finn ekki fyrir
-,ég finn fyrir þó nokkrum
-,mjög mikla
+I do not feel,ég finn ekki fyrir
+I feel some,ég finn fyrir þó nokkrum
+very severe,mjög mikla
+severe,mikil
 very,mjög
 really,mjög
 scale,kvarðinn
@@ -527,3 +539,4 @@ hoped,hugsast
 stake,stikuna
 road marker,stikuna
 slider,stikuna
+value,gildi
