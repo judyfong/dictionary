@@ -398,6 +398,8 @@ tell,upplýstir
 notify,upplýstir
 problem,vanda
 habit,vanda
+preparation,vanda
+pains,vanda
 experienced,upplifað
 lived through,upplifað
 moderate,vægari
@@ -433,5 +435,95 @@ pains, sársauka
 general endurance,þol
 physical activities, líkamlega áreynslu
 learning how to use the computer,læra á tölvu
-,sinna
-,daglegri rútínu
+mind,sinna
+attend to,sinna
+take care of,sinna
+head,sinna
+mind,sinna
+daily routine,daglegri rútínu
+quotidian routine,daglegri rútínu
+everyday routine,daglegri rútínu
+take on,takast á við
+deal with,takast á við
+tackle,takast á við
+mental stressors,andlegt álag
+mental strain,andlegt álag
+mental workload,andlegt álag
+spiritual stressors,andlegt álag
+religious pressure,andlegt álag
+distance,vegalengd
+stretch,vegalengd
+inside,innan við
+within,innan við
+less than,innan við
+below,innan við
+more than,meira en
+,úr stað
+crawl,skríða
+slither,skríða
+glide,skríða
+creep,skríða
+scrape through,skríða
+grovel,skríða fyrir
+title,yfirskrift
+rubric,yfirskrift
+heading,yfirskrift
+header,yfirskrift
+plot,reit
+area,reit
+patch,reit
+bed,reit
+site,reit
+lot,reit
+mobility,hreyfigeta
+,ég á ekki í
+,ég á í
+with my gait,með gang
+with walking,með gang
+self care,sjálfsumönnun
+,sjálfsumönnun
+a little,svolitlum
+a little bit,svolitlum
+a bit,svolitlum
+some,svolitlum
+quite,nokkrum
+something,nokkrum
+fairly,nokkrum
+somewhat,nokkrum
+substantial,verulegum
+significant,verulegum
+real,verulegum
+noteworthy,verulegum
+wash myself,þvegið mér
+usual,venjubundin
+traditional,venjubundin
+routine,venjubundin
+regular,venjubundin
+,athafnir
+housework,heimilisstörf
+chores,heimilisstörf
+domestic tasks,heimilisstörf
+being together,samvera
+togetherness,samvera
+company,samvera
+coexistence,samvera
+,frístundaiðja
+discomfort,óþægindi
+nuisance,óþægindi
+inconvenience,óþægindi
+hassle,óþægindi
+,ég finn ekki fyrir
+,ég finn fyrir þó nokkrum
+,mjög mikla
+very,mjög
+really,mjög
+scale,kvarðinn
+gauge,kvarðinn
+yardstick,kvarðinn
+possible,hugsast
+could be,hugsast
+can possibly be,hugsast
+hoped,hugsast
+stake,stikuna
+road marker,stikuna
+slider,stikuna
