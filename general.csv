@@ -422,6 +422,8 @@ blunt,skorinorður
 blustery weather,hvassviðri
 board,fæði
 boast,monta
+boast,mont
+boasting,mont
 bobcat,rauðgaupa
 boil,suða
 boil,bulla
@@ -453,6 +455,8 @@ bow, hneigði
 boy, snáði
 boycott,sniðganga
 bracelet,armband
+brag,mont
+braggin,mont
 brain cell,heilafruma
 brain stem,heilastofn
 brake housing,bremsubarki
@@ -880,6 +884,7 @@ create,sjóða saman
 creative,sköpun
 creature,skepna
 credit,inneign
+credits,kredilistinn
 creditor,lánardrottinn
 creep,læðast
 crested puffin,topplundi
@@ -913,6 +918,7 @@ copy fee,útskriftargjald
 cottage cheese,kotasæla
 cover,þekja
 cower,hnipra sig
+coxcombry,mont
 coyote,sléttuúlfur
 crop,snoðklippa
 cross validation,krossprófun
@@ -2591,6 +2597,7 @@ opinion piece,pistill
 opposite,gagnstæður
 opthalmologist,augnlæknir
 oral contract,samkomulag
+orchid,brönugras
 order (biology),ættbálkur
 ordinance,ákvörðun
 ordinance,fyrirskipun
@@ -2912,6 +2919,7 @@ prevent,sporna við
 pride,dramb
 pride,stolt
 pride,hroki
+priggery,mont
 primaries,prófkjöri
 primitive,frumstæður
 primitive,upphaflegur
@@ -3165,6 +3173,7 @@ Reykjavik University,Háskólinn í Reykjavík,not slang
 Reykjavík University,Háskólinn í Reykjavík,not slang
 Reykjavik University,Háskólinn við Nauthólsvík,slang
 Reykjavík University,Háskólinn við Nauthólsvík,slang
+rice,hrísgrjón
 rich in fiber,trefjaríkur
 ricochet,skoppa
 ricotta pancakes,ostapönnukökur
@@ -3400,6 +3409,7 @@ short stretch,spölkorn
 short-track speed skating,skautaat
 shoulders,herðar
 shower,skúr
+show off,mont
 rain shower,skvetta
 shreds,tætlurnar
 shrewd,skarpur
@@ -3490,6 +3500,7 @@ snarl,hreyta
 sneakers,strigaskór
 sneeze,hnerri
 sneeze,hnerra
+snobbism,mont
 snort,hnussa
 snow,mjöll
 snow cover,snjóþekja
@@ -4297,7 +4308,9 @@ wilderness,óbyggðir
 will,vilyrði
 willing,fús
 willow,víðir
+windiness,mont
 wind noises,vindgnauð
+wings,vængir
 wino,róni
 wiper blades,þurrkublöð
 wire,vír
