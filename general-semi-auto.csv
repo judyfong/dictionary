@@ -5,6 +5,8 @@ English,Icelandic
 2 independent sample t-test,t-próf tveggja óháðra úrtaka
 2 paired sample t-test,t-próf tveggja háðra úrtaka
 4-step process,fimm skrefa líkan
+abandon,falla frá
+abandon,fellur niður
 abandon,yfirgefa
 ABC activity based costing,verkþáttatengda kostnaðarútreikninga
 ABC analysis,verkgrundaður kostnaðarreikningur
@@ -16,8 +18,11 @@ a bit,svolitlum
 able to compete,samkeppnishæft
 abode,sel
 abolished,afnumið
+abortion,fóstureyðing
+abortion,þungarróf
 above mean sea level,hæð yfir sjávarmáli
 above mean sea level,h.y.s.
+above-mentioned,ofangreindu
 above,umfram
 absence,fjarvera
 absent,fjarvera
@@ -33,31 +38,41 @@ absurd,fjarstæður
 absurd,hlægilegur
 absurdly,fáránlega
 abundant,gnótt
+abundant,rík
 abused,misnotaði
 abuse,misbeiting
+abuse,misbeitt
 abuse,misnotar
 abuse,ofbeldi
 acacia,akacía
 academic calendar,kennslualmanak
 academic progress,námsframvindu
+academic subject,fræðigreinum
+accelerator,taug
 acceptable,aðgengilegt
+acceptable,tæk
 acceptable,viðunandi
 acceptance,viðurkenning
 accept an invitation,að þiggja boð
 accepted,samþykk
 accepted,viðtekinn
 accepted,viðurkennt
+accept,taka við
 accept,viðtöku
 accept,þiggja
 access,aðgangsheimildum
 accessible,aðgengilegt
 accessible,tiltækt
 accidental gap,tilviljunargat
+accompany,fara með
 accompany,fer með
+accompany,flytja
 accomplish,afreka
 accomplishment,afrek
 accordance,samræmi
 according to,(skv.) samkvæmt
+accord,mæla fyrir
+accord,sáttmála
 accost,yrða
 accountant,bókarar
 accounting,bókhald
@@ -85,6 +100,7 @@ acknowledgement,viðurkenning
 acoustic analysis,hljóðgreining
 acoustics,eðlisfræðilegir þættir málhljóða
 acquiescence,samþykkishneigðar
+acquire,afla
 acquire,tileinka
 acquisition,fengur
 acquisitions,aðföng
@@ -95,8 +111,10 @@ a creature from Icelandic folklore summoned with magic to milk others' sheep and
 acrobatics,fimleikar
 acrobatics,loftfimleikar
 across from,gagnvart
+across from,móts við
 across,þver
 act,athafnir
+act,haga sér
 action,athafna
 action,athafnir
 action movie,hasarmyndir
@@ -115,6 +133,7 @@ activity,starfsemi
 activity,verkþáttur
 activity,virkni
 act of law,löggerningur
+acts of parliament,almenn lög
 actual cost,raunkostnaður
 actually,eiginlega
 actually,nefnilega
@@ -136,6 +155,7 @@ additive,viðbætinn
 adds up,ganga upp
 adequate,viðunandi
 adjust,samhæfa
+administration,forráð
 administration,stjórnsýslu
 administration,yfirstjórnendur
 administrative division,umdæmi
@@ -143,14 +163,23 @@ administrative laws,stjórnsýslulögin
 administrative law,stjórnsýslulögin
 administrative procedures act,stjórnsýslulögun
 admit to oneself,gangast við
+adopted child,kjörbarns
+adoption,setning
+adopt,settar
 advanced discourse processing,þróuð orðræðuaðferð
 advance,framþróun
 advancement,framgangur
 advancement,frami
 advantage,ávinningurinn
 advantage,forskot
+advantage,hagur
+advantage,högum
+advantage,í hag
+advent,tilkomu
 advertise,framfæri
 aesthete,fagurkeri
+affairs,hagur
+affairs,högum
 affection,ástuð
 affection,hlýhug
 affection,kærleikur
@@ -159,6 +188,7 @@ aftertaste,eftirkeimur
 against,mótfallnir
 age,eldast
 agency,tilstilli
+agent,erindreki
 age,öld
 aggravate,ergja
 aggravation,leiðindi
@@ -171,15 +201,18 @@ agreed,umsamin
 agreed,umsamins
 agreed upon,umsamið
 agreement,samræmi
+agreement,sáttmála
 agreements must be kept,pacta sunt servanda
 agreements must be kept,samningar skulu standa
 agree,semja
 ahead,á undan
 ahead,framundan
+ahead of,fram fyrir
 aid,dugir
 aid,hjálpartæki
 aim,beint
 aim,stefnu
+AI notetaker,sjálfvirkir ritarar
 airbag,líknarbelgur
 airbag,loftpúði
 airbag,öryggispúði
@@ -211,19 +244,24 @@ alleged,meintur
 alliance,fylking
 allocated indirect costs,úthlutaður óbeinn kostnaður
 allocated indirect costs,úthluta óbeinum kostnaði
+allocate,ráðstafa
 allocation of indirect costs,úthlutun óbeins kostnaðar (óbk)
 all of one's possessions,aleiga
 allophones,hljóðbrigði
+all over,á við og dreif
+all over the place,á við og dreif
 all over,þvers og kruss
 allowed,unnt
 allow to adjust,unnt sé að aðlaga
 allure,lokka
 ally,samherjar
 almond,mandla
+alone,ein og sér
 alone,einsamall
 along,meðfram
 alongside,jafnframt
 a lot,gríðarlegu
+a lot,tiltölulega mikið
 alpine skiing,alpagreinar
 alternately,víxli
 alternating,til skiptis
@@ -232,7 +270,9 @@ although,þótt
 aluminum,áli
 always,æ
 always,ætíð
+always,ævinlega
 always,ávallt
+always,tíðkast
 amaranth,eilífðarblóm
 amateur,fúskari
 amazed,dolfallinn
@@ -262,6 +302,8 @@ Analysis of variance,dreifigreining
 ancestor,ái
 anchovy,ansjósa
 Andean Cock-of-the-rock,klettahani
+and more,o.fl.
+and more,og fleira
 androgen insensitivity,andrógenónæmis
 androsexuality,karlkynhneigð
 and things like that,og þess háttar
@@ -290,6 +332,7 @@ annulment,rifting
 annul,riftunar
 anonymity,nafnleynd
 answer extraction,útdráttur svara
+answer,leysa úr
 antacid,kalsíumkarbónat
 antacid,magalyf
 antacid,magapillur
@@ -297,6 +340,7 @@ antacid,magasýruhemjandi lyf
 antacid,magasýrulyf
 antacid,sýrubindandi lyf
 antacid,sýruhlutleysir
+antecedents,aðdragandi
 antenna,fálmari
 anteroom,gímald
 anticipate,að hafa hugboð
@@ -321,6 +365,7 @@ anti-inflammatory medicine,bólgueyðandi lyf
 antioxidants,andoxunarefni
 antipathy,andúð
 anxiolytic,kvíðastillandi
+anyhow,hvort eð er
 any more,meir
 any,nokkru
 any,nokkrum
@@ -332,8 +377,10 @@ Apartheid,Aðskilnaðarstefnan
 aphid,blaðlús
 API,API
 API,forritaskil
+apologies,biðja velvirðingar
 appeal,áfryja
 appeal,áfrýjunar
+appeal,málaleitunar
 appeal,umleitun
 appearance,ásýnd
 appear as a ghost,gengin aftur
@@ -384,22 +431,27 @@ ardour,eldmóður
 area,flatarmál
 area of interest,áhugasvið
 area,reit
+argue for,mæla fyrir
 argumentation,rökstuðning
 argument definitions,rökliðagreining
 arguments,rökstuðning
+argument,umræður
 Aries,Hrútur
 armchair,hægindastóll
 armchair,hægindi
 armpit,handarkriki
 armpit,holhönd
 around 3 a.m.,ótta
+around the corner,fyrir dyrum standi
 arraignment,þingfesting
 arrangement,fyrirkomulag
 arrangement,ráðstafanir
+arrange,ráðstafa
 arrears document,vanskilaskráin
 arrears register,vanskilaskrá
 arrears registry,vanskilaskráin
 arrears,vanskil
+arrival,tilkomu
 arrogance,hroki
 arrogance,reigingur
 arrogance,yfirlæti
@@ -410,6 +462,7 @@ arrow,ör
 arson,íkveikja
 artful,slægur
 arthritis,liðagigt
+article for sale,söluhlutur
 article,greinin
 articulate,mælskur
 articulation,myndun málhljóða
@@ -419,7 +472,9 @@ artistic creation,listsköpun
 artist,listasmiður
 arytenoid,könnubrjósk
 as a matter of fact,reyndar
+as a result,enda
 as a whole,solidarísk
+as,enda
 asexuality,eikynhneigð
 as follows,eftirfarandi
 ask,biðja
@@ -427,6 +482,8 @@ askew,skáhallt
 askew,skáhalt
 ask follow-up questions,spyrja meira út af svarið
 ask for,ferð fram á
+ask for forgiveness,biðja velvirðingar
+ask for understanding,biðjast velvirðingar
 ask,innt
 ask,lögð fyrir
 ask more about,spyrja meira út af svarið
@@ -439,9 +496,11 @@ assassin,launmorðingi
 assault,ráðast
 assembly department,samsetningardeild
 assembly line,samsetningardeild
+assembly to change the constitution,stjórnlagaþing
 assert,fullyrða
 assert,gera ráð fyrir
 assertion,fullyrðingar
+assert,kveðið
 asset,eign
 assets,eignir
 asshole,skíthæll
@@ -451,12 +510,15 @@ assimilate,aðlagast
 assimilation,samlögun
 assistive device,hjálpartækjum
 Association of Businesswomen in Iceland,Félag Kvenna í Atvinnulífinu
+associations and institutions,lögpersónur
 as soon as possible,eins fljótt og auðið er
+as soon as,um leið og
 as such,eftirfarandi
 assumed,gert var ráð fyrir
 assume,gera ráð fyrir
 assume,miða við
 assume,sló <> föstu
+assume,slógu föstu
 assumption,forsendum
 assumption,forsendur
 assured,fullvissaði
@@ -471,19 +533,23 @@ astronomy,Stjarnvísindi
 astronomy,Stjörnufræði
 astute,gáfulegt
 at all hours,allan sólarhringinn
+at all times,ávallt
 at an angle,á ská
 ate,smjöttuðu
 at first,framan af
  … at full pelt,... í einum spreng
 … at full speed,... í einum spreng
+at hand,fyrir hendi
 atheist,guðleysingi
 atmosphere,andrúmsloft
 atmosphere,bragur
 atmosphere,lofthjúpur
 atmosphere,yfirbragð
+at odds with,brjóti í bága
 atomic number,sætistala
 atoms,frumeindirnar
 at once,jafnskjótt
+at once,þegar í stað
 a trim,snyrting á toppi
 at stake,í húfi
 attachment,fjárnám
@@ -507,6 +573,7 @@ at the same time,jafnframt
 attorney,lögmaður
 attractive,aðlaðandi
 attribute,eigind
+attribute,eiginleika
 attribute,eiginleiki
 at us not with us,af okkur ekki við okkur
 auction,uppboðs
@@ -531,6 +598,7 @@ automatic language identification,sjálfvirk tungumálskennsl
 automatic rule-based parser,sjálfvirkum regluþáttara
 automatic text summarization,vélrænn útdráttur
 automobile inspection,bifreiðaskoðun
+available,fyrir hendi
 available,liggja fyrir
 available,ráðstöfun
 available,tiltækt
@@ -540,6 +608,7 @@ avaricious,ágjarn
 avaricious,nískur
 average collection period,innheimtutími krafna
 average method,meðaltalsaðferð
+average,tíðkast
 avid,sólginn
 avoid,forðist
 award,viðurkenning
@@ -548,6 +617,7 @@ awareness,vitund
 awful,agalegur
 awfully,ægilega
 awkwardly,klaufalega
+awning,skyggni
 awry,úrskeiðis
 axe,öxi
 babble,röfla
@@ -599,6 +669,7 @@ bankruptcy decree,gjaldþrotaúrskurðar
 bankrupt estate,þrotabú
 banner,gunnfánum
 baptismal vows,skírnarsáttmálanum
+baptism,skírn
 bara,rimlar
 barber,bartskeri
 barber shop,rakarastofa
@@ -626,6 +697,7 @@ based on,miða við
 baseline,beislínu
 baseline,grunnlína
 base year,grunnár
+basic law,stjórnarskrárinnar
 basic need,grunnþarfir
 basic rule,meginregla
 basin,bali
@@ -651,6 +723,7 @@ be appropriate,tilheyrir
 bear,ala
 bear,bar
 bearer,handhafa
+bearer,handhöfum
 bear up,harka af sér
 be ashamed,blygðast
 beast,skíthæll
@@ -660,10 +733,18 @@ beat,berja
 beaten,laminn
 beats,slög
 be busy,vera í óða önn að
+because,enda
+become aware of,átta sig á
 become reasonable,vitkast
+becomes,varð að
+be common,tíðkast
+be considered,teljist
+be considered,þóttu
+be considered,þykja
 be customary,tíðkast
 bedbug,veggjalús
 be dead meat,vera búinn að vera
+be deemed,teljist
 be done for,vera búinn að vera
 bed,reit
 bed,rekkja
@@ -677,21 +758,26 @@ bedwetting,að pissa undir
 bee-eaters,svelgir
 beeper,símboðinn
 be fitting,tilheyrir
+before 18 years old,fyrir 18 ára
 before,á undan
 before,framan af
 before,fyrirfram
 be for,hljóðar upp á
+be formed,mótast
 beginner,viðvaningur
 beginning balance,upphafsstöðu
 begrudge,öfunda
 beg,sárbæna
 behave badly,kemur illa fram við þig
+behave,haga sér
 behave well,kemur vel fram við þig
 behavior,framkoma
 behavior,taktur
 behavior,umgengni
+behemoth,bákn
 behind the scenes,bak við tjöldin
 be impending,aðsigi
+be in bed,liggi fyrir
 being together,samvera
 be in the soup,sitja í súpunni
 be in the soup,sitja í því
@@ -714,9 +800,13 @@ benchmarking,hagnýtra viðmiða
 benchmarking,hagnýt viðmið
 benchmark,við mat
 bench press,bekkpressa
+bend,lúta
 benefit,gagn
 benefit,hagur
 benefit,hlunnindi
+benefit,högum
+benefit,í hag
+benefit?,komi til góða
 benefit,kostur
 benefit,skila
 benefits,kosta
@@ -732,15 +822,22 @@ be proper,tilheyrir
 bequeath,arfleiða
 Bergen,Björgvin
 berth,rúmklefi
+be ruled,lúta
 be satisfied,una
+be shaped,mótast
 beside,við hliðina á
 bespoke,sérsníða
 be,standa
 best estimate,matskennd fjáhæð
 be suitable,á við
 be sunk,vera búinn að vera
+be the cause of,valda
+be the cause of,veldur
 be the victor,með pálmann í höndum
 be toast,vera búinn að vera
+better consumer terms,betri rétt neytenda
+better made,vandaðri
+better,rétt
 better,skárri
 between,innbyrðis
 be unimposing before you go,láta lítið fyrir þér fara
@@ -753,7 +850,9 @@ bibliography,heimildaskrá
 biceps,tvíhöfði
 bidirectional tagger,tvístefnumarkari
 big crowd,fjölmenni
+bigger,meiri
 big,megnri
+big picture,heildarmynd
 bigram,tvennd
 bigram,tvístæða
 bike seat,hnakkur
@@ -772,12 +871,14 @@ birch,björk
 bird chirp,fuglakvak
 bisexuality,tvíkynhneigð
 bit,bútur
+bitewing,bitmynd
 biting midge,lúsmý
 bladed weapon,eggvopn
 blade,eggvopn
 blade of grass,strá
 blade,strá
 blah blah blah,daddaradadd
+blame,skuldum
 blame somebody,áfelldist
 blast,spýta
 bleach,bleikiklór
@@ -814,6 +915,8 @@ blunt,sljóvga
 blustery weather,hvassviðri
 board,fæði
 board members,hæstaráðendur
+boasting,mont
+boast,mont
 boast,monta
 bobble,hnökri
 bobcat,rauðgaupa
@@ -832,6 +935,7 @@ boil,suða
 bold,frekur
 bold,kræfur
 bolt,fælast
+bombast,mont
 bone-weary,þrekaður
 booking,bókun
 bookkeepers,bókarar
@@ -850,6 +954,7 @@ boreal forest,barrskógabeltið
 borrowing,lántökur
 boss,yfirmaður
 bother,ergja
+both,hvoru tveggja
 both sides,báðum megin
 both sides,b/m
 bottlenecks,flöskuhálsa
@@ -859,18 +964,24 @@ boulder,grjótglíma
 boulder,hnullungur
 boundary,jaðar
 boundarylessness,markaleysi
+bound,bundið
 bowels,iður
 bowel,þörmum
 bow,hneigði
+bow,lúta
 boycott,sniðganga
 boy,snáði
 bracelet,armband
+bragging,mont
 brag,hæla
+brag,mont
 brain cell,heilafruma
 brain stem,heilastofn
 brainwash,heilaþvo
 brake housing,bremsubarki
 branch,greinin
+brand name,vörumerki
+brands,vörumerki
 brave,hugdjarfur
 brave,hugprúður
 brave,þora
@@ -893,11 +1004,16 @@ brilliant,framúrskarandi
 brill type tagger,markari brills
 bring,barst
 bring,bera
+bring,færa
+bring,færi
+bring,fara með
 bring,fer með
+bring,flytja
 brink,brún
 brittle,brothætt
 brittle,stökkur
 broaden,breikka
+broad,víðtækara
 broken,bilun
 broken,bjagaður
 broken down,vélarvana
@@ -915,10 +1031,13 @@ brute,skynlausar skepna
 bubble,bólur
 bubble,bulla
 buckle,kikna
+budge,hagga
+budge,haggað
 budgetary planning,áætlanagerð
 budgeted balance sheet,efnahagsáætlun
 budgeted cost,áætlaður kostnaður
 bug,ergja
+building,mannvirkjum
 building material,efniviður
 bulb,blómlaukur
 bulldog,bolabítar
@@ -951,24 +1070,29 @@ bush,runni
 business,bransi
 business letter,viðskiptabréfi
 business presentation,fjárfestakynningur
+business,viðskiptalífið
 busy,önnum kafin
 butler,bryti
 butler,þjónn
 button,hneppa
 button mushroom,matkempa
 button up,hneppa
+butt,stangist á
 buzz,stuð
 buzz,suða
 by all accounts,í hvívetna
 by all means,um að gera
 by,á vegum
+by,en leiðir af
 by,framhjá
 by heart,utan að
+by itself,ein og sér
 by phone,símleiðis
 by telephone,símleiðis
 cabin,káeta
 cabin,káetunni
 cable housing,barki
+cable,taug
 cabling,raflögn
 cage,búr
 caiques,seglskip
@@ -978,6 +1102,7 @@ calisthenics,leikfimiæfingar
 call,hóa
 call in (a loan),gjaldfella
 call names,uppnefna
+call option,kauprétti
 call out,úthringingar
 calls,innkallanir
 callus,sigg
@@ -988,9 +1113,11 @@ camp,bækistöð
 camping stove,prímus
 canal,síki
 canal,skurður
+can be found,er að finna
 can be,unnt
 can,brúsi
 cancel,afboða
+cancel,fellur niður
 cancellation,niðurfelling
 cancelled,falla niður
 cancer,krabbamein
@@ -1010,6 +1137,9 @@ canteen,háma
 canvas bag,segldúkspoki
 canvas,segldúkur
 canvas,strigi
+capable,bær
+capable,bæri
+capable,bæru
 capable,fallinn
 capable,fallna
 capelin,loðnu
@@ -1058,7 +1188,9 @@ carry,bera
 carry,búa yfir
 carrying value of the bond,bókfært verð af skulduna
 carry out,efna
+carry out,framið
 carry out,framkvæmir
+carry out,fremja
 carry out,innt
 carry out,sinna
 cartilage,brjósk
@@ -1067,12 +1199,15 @@ carved,ristur
 carved,útskorinn
 carve,rista
 carving,rista
+case law,dómvenju
+case precedents,dómvenju
 case,ver
 cash agent,greiðslubanki
 cash flow,sjóðstreymi
 cash payment,staðgreiðsla
 cash sale,staðgreiðslusala
 castle,slot
+catch,góma
 catch,ná
 catch on,fatta
 catchy,grípandi
@@ -1087,8 +1222,10 @@ cat ownership,kattahold
 cat's tail,stýri
 cattle,nautpeningur
 caught wind,fékk veður
+cause damage,vinna tjón
 cause,olli
 cause,orsakir
+cause,veldur
 cause,verki
 caution,aðgát
 caution,árvekni
@@ -1136,12 +1273,15 @@ change of measure,málskipti
 change,snúast
 chaos,þvögunni
 chapstick,varasalvi
+characteristic,eiginleika
 characteristic,eiginleiki
 characteristic,eiginleikunum
 chard,blaðbeta
 chard,silfurbeðja
 charge,gjaldfæra
 charge,kæra
+charge,sakarefni
+charges,sakarefni
 charity work,góðgerðastarf
 charming,aðlaðandi
 charming,heillaður
@@ -1154,6 +1294,7 @@ check,aðgæti
 check,athugun
 checkbox,reit
 check,gá
+check,kanna
 checkmate,mát
 checkmate,skák og mát
 check-up,skoðun
@@ -1170,12 +1311,15 @@ chest of drawers,kommóða
 chewed mouthful,tuggði
 chick,skvísa
 chick,ungi
+Chief Guardianship Authority,Yfirlögráðandi
 chiefly,aðallega
 childhood,bernska
 child maintenance,meðlags
 child,peð
 child prodigy,afburðargreindur
 childrens' garage sale,tombóla
+child's parents,barna foreldrar
+child's parents,lögbornir lögráðamenn
 child support,meðlags
 chimney,skorsteini
 chimney,súla
@@ -1199,6 +1343,7 @@ choreography,danssmíði
 choreography,samræming hreyfinga
 chores,heimilisstörf
 chorus,viðlag
+christening,skírn
 christmas melon,mélona græn
 chromatography,litskilja
 chromatography,litskiljun
@@ -1209,12 +1354,19 @@ chunking,böggun
 chute,lyftustokkinn
 cigar,vindill
 circular,hringlaga
+circumstances,hagur
+circumstances,högum
 citizenship,ríkisfang
+citizen,þegn
+citizen,þegna
 civic duty,borgaraskylda
 civil action,einkamál
 civilization,heimsmenning
 civilization,menningarheimur
 claimant,kröfuhafi
+claimant,stefnanda
+claimant,tjónþola
+claim,bera fyrir sig
 claim,fullyrðingar
 claim,heimtingu
 claim,krafna
@@ -1227,6 +1379,8 @@ clamber,klöngruðust
 clan,ættbálkur
 clap,hvellur
 clarify,skýrt
+clash,stangast á
+clash,stangist á
 clasped hands,fléttaði fingrum
 class,áfangi
 class,bekkur
@@ -1238,11 +1392,17 @@ clay pot,leirker
 clearance,aðgangsheimildum
 clearance sale,rýmingarsala
 clear-cut,skilmerkilega
+clear,dreifa
 clearing,rjóður
 clearly,glöggt
+clearly open,skýrt rúmt
 clear one's throat,ræskja
+clear open,rúmur
 clear,ryðja
+clear sign,greinileg merki
 clear,tær
+clear up,dragi úr
+clear up,dregið úr
 cleat,takkaskór
 clench your teeth,bíttu á jaxlinn
 clever,gáfulegt
@@ -1325,6 +1485,7 @@ collapse,hrynja
 collarbone,viðbein
 collar,hólkur
 collateral,veði
+collect,afla
 collect,innheimtist
 collection letter,kröfubréf
 collection of texts,textasafn
@@ -1338,6 +1499,7 @@ collocations,samstæður
 collusion,samsæri
 colomn,súla
 colorful,litadýrð
+colossus,bákn
 colostomy bag,hægðapoki
 colt,foli
 column,pistill
@@ -1347,18 +1509,29 @@ combat,bardagi
 combination lock,stafalás
 combining,samsetning
 comb,kemba
+come about,koma til sögunnar
 come about,tilkomin
 come along,slást
 come back,skila sér
 comedy,gamanmynd
+come into the picture,koma til sögunnar
 comfort,hugga
 comfort,makindum
+command,fyrirmæli
+command,mæla fyrir
 commencement of proceedings,þingfesting
 commentator,umsagnaraðili
+commercial creditor,viðskiptabréfakröfur
+commercial demand,viðskiptabréfakröfur
 commercial document,viðskiptabréfi
+commercial letter,viðskiptabréfakröfur
 commercial paper,viðskiptabréf
 commission,söluþóknun
+commit,framið
+commit,fremja
+commitment,skuldbindingu
 commit,skuldbinda
+common denominator,samnefnari
 common dolphin,eiginlegur höfrungur
 common dolphin,hundfiskur
 common dolphin,léttir
@@ -1375,6 +1548,7 @@ company feel,fyrirtækjabrag
 company,samneyti
 company,samvera
 compared to,miða við
+compared to,móts við
 compared with,miðað við
 compass,áttaviti
 compel,knýja
@@ -1385,7 +1559,12 @@ compensation responsibility,fébótaábyrgð
 compensation responsibility,skaðabótaábyrgð
 compensation,skaðabóta
 compete,kapp
+competence,gerhæfi
+competent,bær
+competent,bæri
+competent,bæru
 competent,fullfær
+competition authorities,samkeppnisyfirvöld
 competitive,samkeppnishæft
 compile,sjóða saman
 complain,barma
@@ -1398,12 +1577,14 @@ completely,aldeilis
 completely,algerlega
 completely,alveg
 completely impartial,bláhlutlaus
+completely,með öllu
 completely reliable,pottþétt
 complex,margbrotinn
 complex,samsettur
 complication,fylgikvili
 complication,vankvæði
 component,íhlutir
+compose,kveðið
 composition,samsetning
 composition,stíll
 composition,tónverk
@@ -1413,10 +1594,12 @@ compound interest,vextir og vaxtavextir
 compound word,samsett orð
 comprehensive income,heildarafkoma
 comprehensive,víðtæk
+comprehensive,víðtækara
 compression,þjöppun
 comprise,felast
 comprise,felst
 comprise,sé fólginn í
+comprises,fólgin í
 compromise,málamiðlun
 compulsion,áráttu
 computational linguistics,reiknifræðileg málfræði
@@ -1442,6 +1625,7 @@ concern,umhyggja
 concern,varða
 concert tour,tónleikaferðalagi
 conclusion,ályktunin
+conclusive,endanlega
 concrete,steypa
 condemn,fordæma
 condensed milk,niðursoðin mjólk
@@ -1450,6 +1634,7 @@ condescending,hrokafullt
 condescending,lítillátur
 condescending,yfirlætislegur
 conditional random fields,skilyrt slembisvæði
+condition,forsendu
 condition,forsendum
 condition,forsendur
 condition,fyrirvara
@@ -1467,29 +1652,38 @@ confidence limit,öryggisbil
 confidence limit,öryggismörk
 confidentiality,trúnaður
 confined,þröngur
+confirmation,fermingu
+conflict,stangast á
+conflict,stangist á
 conflict with,stríða
 conformity,samkvæmni
 conformity,samræmi
 confound,raska
 confused,ráðvilltur
 confusion,fát
+congress to change the constitution,stjórnlagaþing
 conization,keiluskurð
 connectionist techniques,samtengiaðferðir
 conscientious,skyldurækinn
 conscription,herskylda
 consecration,vígsla
+considerable,rík
 considerable,tilfinnanlegt
 consider,álitin
 consideration,hliðsjón
+consideration,meðferðar
 consideration,skoðun
 consideration,tilliti
 consideration time,umhugsunartími
 considered,þóttist
 consider,hugleiða
 consider,íhuga
+consider,tekur mið af
 consider,telja
 consider,tilliti
+consist,fólgin
 consist of,felst
+consist of,fólgin í
 consist of something,samanstanda
 consist,sé fólgin í
 consol,eilífðarbréf
@@ -1498,18 +1692,30 @@ constant,skurðpunktur
 constant,stöðugt
 constant,stöðugur
 constant,þrotlaus
+constitutional congress,stjórnlagaþing
+constitutional law,grundvallarlög
+constitutional law,stjórnskipunarlög
+constitutional,stjórnskipulegum
+constitution,grundvallarlög
+constitution,stjórnarskrárinnar
+constitution,stjórnskipunarlög
 constrained,þvingaður
 construction,samsetning
 consul,ræðismaður
 consult,hliðsjón
+consumer credit,neytendalán
 consumer goods,almenningseign
 consumer,neytandi
+consumer,neytendun
+consumer price index,vísitölu neysluverðs
 consumption,eyðslan
 contact information,tengiliðaupplýsingar
 contact,samneyti
 container,gámur
 container,ílát
+contain,rúmast
 contaminant,aðskotaefni
+content,efni
 content production,semja efni
 context sensitive spell-checking,samhengisháð ritvilluleit
 context sensitive spell-checking,samhengisháð stafrýni
@@ -1530,6 +1736,7 @@ contribution ratio,Framlegðarhlutfall rekstrar
 controllability,stjórnhrifum
 controlling,eftirlit
 controls,stýribúnað
+controversial,umdeildar
 convenience,þægindi
 convenient,handhægur
 conversational agent,talþjónn
@@ -1547,8 +1754,10 @@ coordinate,samhæft
 coordination,samhæfingu
 co-payment,meðlag
 copy fee,útskriftargjald
+copy room,fjölföldunarstofa
 coreference resolution,samvísunartúlkun
 coreference resolution,tilvísanagreining
+core,taug
 corkscrew,tappatogari
 cork,tappi
 cornea,hornhimnu
@@ -1557,6 +1766,9 @@ corpus linguistics,gagnamálfræði
 corpus linguistics,gagnamálvísindi
 corpus,málheild
 correctional boot camp,betrunarvist
+correctly,rétt
+correct,rétt
+correspond,standast á
 correspond,stemma
 corrode,tærist
 corvidae,hröfnungar
@@ -1595,9 +1807,12 @@ count,telst
 courage,kjarkur
 courier,fylgdarmaður
 course,farvegi
+court,dómstóll
 court,hirð
 court of arbitration,gerðardóma
+court of law,dómstóll
 court of law,dómstólunum
+covenant,sáttmála
 cover,afleysing
 coverage,efnisnotkun
 cover,hjúpa
@@ -1611,6 +1826,7 @@ cower,hnipra
 cower,hnipra sig
 cow eyes,eins og barðir hundar
 cowgirl,kúrekastelpa
+coxcombry,mont
 coyote,sléttuúlfur
 crabbed,önugur
 crabby,önugur
@@ -1637,6 +1853,7 @@ crease,brot
 crease,felling
 crease,fellingar
 create art,listsköpun
+created,tilorðnar
 create,sjóða saman
 create,skapa
 creation,sköpun
@@ -1646,6 +1863,7 @@ credit,inneign
 creditor hierarchy,skuldaröðinni
 creditor,kröfuhafi
 creditor,lánardrottinn
+credits,kredilistinn
 creep,læðast
 creep,skríða
 cremation oven,líkbrennsluofnsins
@@ -1654,7 +1872,9 @@ criminal,afbrotamaður
 criminal case,sakamál
 criminal law,refsirétt
 criminal prosecution,saksókn
+criminal,saknæm
 criminal,saknæma
+criminal,saknæmt
 crises or conflict,annað andlegt álag
 crispbread,hrökkbrauð
 crisp,stökkur
@@ -1687,6 +1907,7 @@ crouch,grúfa
 crowded,þéttskipaðan
 crowd,mannþröng
 crowd,mergð
+crowd together,þjappast saman
 crow,gala
 crown,hvirfill
 crown,koll
@@ -1717,6 +1938,7 @@ curiosity,spurn
 curl,lokka
 curl up,hnipra sig
 curly,hrokkinn
+currency restrictions,gjaldeyrishöftum
 current assets,lausafjármunir
 current,núverandi
 current ratio,veltufjárhlutfall
@@ -1730,14 +1952,17 @@ curved,sveigum
 cushion,púði
 cuss,blóta
 custody,forsjá
+custody,lögráð
 customer,kúnni
 customer profitability,ábati af viðskiptavinum
 customer,viðskiptavinur
 customized,sérsníða
+custom,réttarvenja
 cut,hunsa
 cutoff rate,ávöxtunarkrafa
 cut,saxa
 cut,skera
+cut,skerðingu
 cut to the bone,brjóta til mergjar
 CVP cost-volume-profit analysis,núllpunktsgreining
 cyan,blágrænn
@@ -1751,6 +1976,7 @@ dalmatian pelican,hrokkinkani
 damaged,grandað
 damage,skemmist
 damages,skaðabóta
+damaging deed,tjónsverknaðinn
 damnation,glötun
 damp,deigan
 damselfish,svölusporður
@@ -1759,6 +1985,7 @@ dandle,hossa
 dandy,pjattrófa
 dandy,spjátrungur
 dangerous,glæfralegur
+dangerous,varhugavert
 dare,áræða
 dare,dirfðist
 dare,voga
@@ -1793,6 +2020,8 @@ date,tímasetningu
 dawn,dagrenningar
 dawn,dögun
 day-to-day activities,verkefnum frá degi til dags
+dead,látinn
+dead,látnu
 deadlift,dedda
 deadlift,réttstöðulyfta
 deadline,eindagi
@@ -1807,13 +2036,18 @@ dear,hugleikin
 death,bani
 deathly pale,náfölt
 Death Valley,Dauðadalurinn
+debate,umræður
 debit,gjaldfæra
 debit,staðgreiðsla
 debt mitigation,greiðsluaðlögun
 debt ratio,skuldahlutfall
 debt,skuld
+debt,skuldum
 decade,áratugur
+decades,átatugi
 decade,tugur
+deceased,látinn
+deceased,látnu
 deceitful,svikull
 deceive,blekkja
 decent,drengilegur
@@ -1827,6 +2061,7 @@ decision,úrskurðar
 decision,úrskurðum
 decisive,ótvírætt
 deck,þilfar
+decline,dala
 decline,synja
 declining balance depreciation method,hröðunarafskrift
 decoder,afkóðari
@@ -1853,11 +2088,13 @@ deer,dýr
 default surcharge,vanefndaálag
 default,vanefndir
 default,vanskil
+defeated,lúta
 defeated,unninn
 defect,ágalli
 defect,annmarkana
 defect,annmörkunum
 defect,bresti
+defect,brestsins
 defective,ábótavant
 defect percentage,hlutfall galla
 defendant,stefndi
@@ -1886,8 +2123,10 @@ delightful,heillandi
 delight,unaður
 delimit,afmarka
 delist,afskrá
+deliver,flytja
 deliver,miðla
 delivers to,berist til (b.t.)
+delivery,afgreiðslu
 delivery delay,afhendingardrátt
 delivery delay,stöðvunarrétt
 delivery time,afhendingartími
@@ -1895,6 +2134,7 @@ delivery,útburður
 delivery,útkeyrsla
 deltoid muscle,axlarvöðvi
 demand,krafna
+demand,krefjast
 demand,krefst
 demand letter,kröfubréf
 demands,kröfur
@@ -1933,6 +2173,8 @@ depreciation of office equipment,afskriftir skrifstofutækja
 depressed,niðurdreginn
 depression,þunglyndis
 deprivation,missis
+deprivation of rights,réttindamissi
+deprived,sviptur
 deprive,sviptir
 derange,raska
 derived,afleidd
@@ -1953,6 +2195,7 @@ dessert,eftirmatur
 dessert,eftirréttur
 detail,smáatriði
 detective,spæjari
+deteriorate,dala
 deteriorated,rýrnað
 deterioration,rýrni
 determined by,ráðast af því
@@ -1964,6 +2207,7 @@ developmental process,þroskaleið
 development,framköllun
 development sets,þróunarlistar
 develop,móta
+develops,þrífast
 develops,þrífst
 deviation,frávik
 deviation,skekkju
@@ -2003,6 +2247,7 @@ dick test,lókaprof
 dictate,ráðskast
 dictionary,orðalista
 didn't like the look of it,leist ekki á blikuna
+die,falla frá
 die,geispa golunni
 die like flies,hrynja
 diet,kúr
@@ -2010,8 +2255,11 @@ difference,muni
 different,frábrugðnir
 differential analysis,jaðargreining
 different,margvíslegu
+different,mismunandi
 different,ólíkur
+differing,mismunandi
 difficult,örðugt
+difficulty,örðugleikum
 dig,grafa
 digital humanities,stafræn hugvísindi
 digital library,stafrænt bókasafn
@@ -2023,6 +2271,7 @@ diligence,elju
 diligence,starfsemi
 dilute,þynna
 dimension,stærð
+diminish,dala
 diminish,rýri
 ding,beygla
 dinghy,jullur
@@ -2061,6 +2310,7 @@ disciple,fylgismaður
 disciple,lærisveinn
 discipline,aga
 disciplined,agaður
+discipline,fræðigreinum
 discipline,greinin
 disclose,afhjúpa
 disclosure,uppljóstrun
@@ -2078,43 +2328,59 @@ discourse modeling,gerð orðræðulíkana
 discourse,orðræða
 discourse,orðræðum
 discourse,samræður
+discover,komist að
+discrepancy,misræmi
+discrete,aðgreindum
+discrete,aðgreindur
 discriminate,mismuna
 discriminative tagger,aðgreiningarmarkari
 disc,skífa
+discussed,umrætt
 discussion questions,lesefnisspurningar
 discussion,reifun
+discussion,umræður
 discussion-worthy,umtalsvert
 disguise,dulargervi
 disgust,andstyggð
 disgusting,andstyggðar
 disgust,viðbjóð
+dishonest,ómerkingar
 dish towel,viskustykki
 dishwashing,uppþvotta
 disobey,óhlýðnast
+disperse,dreifa
 disposable funds,ráðstöfunarfé
 disposable income,ráðstöfunartekjur
 disposal,förgun
 disposal,umráð
 dispose of,farga
+dispose of,ráðstafa
 dispute,ágreiningur
 dispute,véfengja
 dispute,þrætti
+disqualification of rights,réttindamissi
 disqualified,ógildur
 disruption,rask
 disrupt,raska
 dissection class,krufningarkúrsarnir
+disseminate,dreifa
 dissent,ágreiningur
 dissenter,ættleri
 dissimilar,frábrugðnir
 dissolution,lútandi
+dissolution of parliament,þingrofi
 distance,fjarska
 distance,tilsýndar
 distance,vegalengd
 distant sound,ómur
+distinct,aðgreindum
+distinct,aðgreindur
 distinct,frábrugðnir
 distinguish,auðkenna
 distort,skekkja
+distract,dreifa
 distraction,leiðsla
+distribute,dreifa
 distribute,útdeildi
 distribution,útburður
 district attorney,saksóknari
@@ -2134,9 +2400,13 @@ dive,búlla
 dive,dúfa
 dive,kafa
 divergent plate boundary,flekaskil
+divert,dreifa
 divide and conquer,deilum og drottnum
 divided,greinist
+divided viewpoints,skiptar skoðanir
 dividend,arður
+division of assets,fjárskipta
+divisive views,skiptar skoðanir
 divorced,skilinn
 do,aðhafst
 doctrine,kenning
@@ -2178,6 +2448,8 @@ double pointed knitting needles,sokkaprjónar
 doubt,efist
 doubtful,efablöndnum
 doubts,efasemdir
+doubt,vafa
+doubt,vafi
 dough,deig
 dove,dúfa
 dove,friðarsinni
@@ -2198,6 +2470,7 @@ draft,víxils
 drag sth out of,herja e-ð út úr
 drain,ræsi
 drama,leiklist
+draw a clear line,draga skýrmörk
 draw a quick breath as when surprised,súpa hveljur
 draw,beint
 draw one's last,geispa golunni
@@ -2231,6 +2504,7 @@ drizzle,suddi
 drizzle,súld
 droll,spaugilegur
 droop,lygna
+drop-in,droppa inn
 drowning in,bólakafi
 drowsily,drungalegri
 drudgery,at
@@ -2242,6 +2516,7 @@ dry,brakandi
 dry-cured ham,hráskinka
 dry-cured jamón,hráskinka
 dsp techniques,stafrænar merkjavinnsluaðferðir
+dualism,tvíeðli
 dubious,vafasamur
 duck duck goose,hlaupa í skarðið
 duck,dúfa
@@ -2249,6 +2524,9 @@ duck,firra
 due date,gjalddagi
 due diligence specialist,áreiðanleikafræðingur
 due diligence survey,áreiðanleikakönnun
+duel,einvígi
+duel,hólmganga
+due to,sakir
 dumb,bjálfi
 dumbfounded,agndofa
 dumb,lúði
@@ -2263,8 +2541,10 @@ during the day,að degi til
 dust,mylsna
 dust,ryk
 dusty,rykföllnum
+duty,skuldbindingu
 duty to teach or guide persons legally,leiðbeiningarskyldu stjórnsýslulaga
 duvet,sæng
+dwindle,dala
 dyke,síki
 dyke,skurður
 dynamic programming,kvik bestun
@@ -2282,13 +2562,16 @@ eager,ákaft
 eagerness,ákefð
 early childhood,frumbernska
 early,skjótur
+earn,afla
 earned,áunnin
 earned,eiga skilið
 earnings per share EPS,hagnaður á hlut
+earn,vinna sér inn
 earth,jarðríki
 earth's crust,jarðskorpuna
 EAR,virkir vextir
 easement,ítak
+easier to understand,auðskiljanlegri
 easy-peasy,skítléttur
 easy to locate,auðfundið
 eating disorder,átröskun
@@ -2300,6 +2583,7 @@ echo,bergmála
 eclipse period,hvarftími
 ecologist,vistfræðingur
 economic condition,hagræn staða
+economic life,viðskiptalífið
 economics,hagfræði
 economy,efnahagur
 ecosystem,vistkerfi
@@ -2311,7 +2595,16 @@ edged weapon,eggvopn
 edge,hjari
 edge,jaðar
 edge of a seat,stólbríkurnar
+edifice,bákn
+edifice,mannvirkjum
+educational activities,fræðslustarfsemi
+educational activities,fræðustarfsemi
+educational services,fræðustarfsemi
+education,fræðslustarfsemi
+education,fræðustarfsemi
 education,menntun
+EEA agreement,EES-samninginn
+EEA Supplement,EES-viðbæti
 effective annual rate,virkir vextir
 effective interest,virkir vextir
 effectiveness,hagkvæmni
@@ -2323,8 +2616,10 @@ efficiency,hagkvæmni
 efficiency,skilvirkni
 effort,áreynslu
 effort,fyrirhöfn
+effortlessly,greiðlega
 effort,viðleitni
 EFF%,virkir vextir
+EFTA Surveillance Authority (ESA),EFtirlitsstofnun EFTA
 egocentric,sjálfsmiðuð
 egotistical,eigingjarnan
 elbow,hnippa í
@@ -2341,6 +2636,7 @@ electronic wing,rafeindavængina
 elegiac,harmljóðlegur
 elevated,upphöfðu
 elevator speech,lyfturæða
+eligible,tæk
 eliminate,útiloka
 elision,brottfall
 elliptical,sporöskjulaga
@@ -2352,6 +2648,7 @@ embroidered,bróderaður
 embryo,fósturvísir
 embryo,kím
 emerged,fram kom
+emergency law,bráðabirðalög
 emerge,skila sér
 emerging computing paradigms,uppkomandi viðmið í tölvun
 emojis,broskallar
@@ -2365,6 +2662,8 @@ employ,beita
 employ,beita við
 employ,beitt
 employer,vinnuveitandi
+empowerment,sjálfsefling
+empowerment,valdefling
 empty talk,málalengingar
 emulsifier,ýruefni
 enabler,viðhaldari
@@ -2374,10 +2673,12 @@ encode,kóta
 encoder,kóðari
 encoder,kótari
 encompasses,fela í sér
+encompasses,fól í śer
 encompass,fela í sér
 encouragement,örvun
 encroachment,sókn
 encryption,dulkóðun
+endeavour,leitast við
 ended,endast
 end,endið
 ending inventory,lokabirgðir
@@ -2406,8 +2707,11 @@ enigmatic,óræðum
 enjoy,njóta
 Enska,Islenska
 Enska,Íslenska
+ensure,sést til þeirra
 entangle,flækja
+enter into marriage,ganga í hjúskap
 enterprise value,heildarvirði
+enter,stofna til
 entertainment,afþreying
 enthusiasm,ákafi
 enthusiasm,ákefð
@@ -2415,12 +2719,14 @@ enthusiasm,eldmóður
 entice,lokka
 enticing,lokkandi
 entirely,alveg
+entirely,með öllu
 entitlement,réttindi
 entourage,föruneyti
 entrepreneur,athafnamaður
 entrusted,háttsettir
 entrust with,fela
 entry,bókun
+enumerate,teljið upp
 envelope,umvafðar
 envious,öfundsjúk
 envy,öfund
@@ -2446,6 +2752,8 @@ erection,reising
 erection,uppsetning
 erection,uppsláttur
 erotic,erótík
+erroneous,rangar
+erroneous,rangur
 error categories,villuflokkar
 error corpus,villumálheild
 error,skekkja
@@ -2458,36 +2766,51 @@ eschew,forðist
 escort,fylgdarmaður
 especially,aðallega
 especially,einkum
+essential,brýnt
 essential,hagnýtur
 established,rótgróinn
 established,stofnað
+establish,komið á fót
 establish,setja á fót
+establish,setti á stofn
+establish,stofnast
+establish,stofna til
 estate,bú
 estate,dánarbúum
 estate,jarðareign
 estate,landareign
 estate of a dead person,dánarbúum
 estimate,telst
+etcetera,og fleira
+etc.,o.fl.
+etc.,og fleira
 etiquette,mannasiðir
 eucalyptus,myrtusviður
 eucalyptus,tröllatré
 euphoria,sælukenndin
 eurasian teal,urtönd
+European Economic Area agreement,EES-samningurinn
+European Economic Area agreement,Evrópska efnahagsvæðið samningurinn
+European economic area,Evrópska efnahagssvæðið (EES) lög nr.2/1993
 European Free Trade Association country,EFTA-ríki
 evade,komast undan
 evaluate,meta
 evaluation,mat
 even,kvittur
 even,meira að segja
+even so,séu þau það
 evens out,ganga upp
 even though,enda þótt
 even though,þrátt fyrir
 ever-growing,síaukinni
 ever-increasing,síaukinni
+ever since,upp frá því
 everyday routine,daglegri rútínu
 every,sérhverju
+everywhere,á við og dreif
 evidence,framburður
 ewe,rollurnar
+exact,eiginlega
 exaction,heimtingu
 exactly,einmitt
 exactly,nákvæmlega
@@ -2497,6 +2820,7 @@ examination,athugun
 examination,skoðun
 examine,virti fyrir sér
 example-based translation,dæmabyggð þýðing
+example,fordæmi
 example resource exercise,dæmaæfing
 excavate,grafa
 excavation,gryfja
@@ -2513,20 +2837,28 @@ exchange information,skiptast á upplýsingum
 exchange of words,orðaskiptin
 excitability,ertanleiki
 excite,trylla
+exclusionary laws,bannreglum
 excrement,saur
 excursion,skemmtiferð
 excuse,afsökun
 Excuse me who are you?,Fyrirgefðu hver ertu?
+excuse oneself,bera fyrir sig
 execute,framkvæmir
 execution,fullnustugerðir
+executive branch,framkvæmdarvaldinn
+executive power,framkvæmdarvaldinn
 exercise bars,rimlar
 exert,beita
+exertion,fyrirhöfn
 exert,reynt á
 exhausted look,þreytusvipinn
 exhausted,magnþrota
 exhausted,þrekaður
 exhaustive,tæmandi
+existed during the adoption,staðið að setningu
 existence,tilvistar
+exists,liggi fyrir
+ex officio,embættisnafni
 expect,búast
 expedite,skjótur
 expeditious,skjótur
@@ -2541,12 +2873,15 @@ experiment,fikta
 experiment,tilraun
 expert,umsagnaraðili
 expire,fyrnast
+explain away,bera fyrir sig
 explain,skýrt
 exploit,arðdræna
+exploit,hagnýta
 exploits,afrek
 exploratory data analysis,gagnakönnun
 exploratory expedition,könnunarleiðöngrum
 explore,grúska
+explore,kanna
 export,fluttar út
 export,útflutning
 expose,afhjúpa
@@ -2556,6 +2891,7 @@ expression,orðatiltæki
 expression,orðtak
 expression,svipleiftri
 express,orða
+extend,byggju við
 extended play,stuttskífa
 extension,viðbyggingar
 extensive,víðtæk
@@ -2568,6 +2904,7 @@ extraction,útdráttur
 extract,unnar
 extract,útdráttur
 extract,þykkni
+extradited,heimfærður
 extradition,framsal
 extraordinary courts,sérdómstólarnir
 extremely,ægilegum
@@ -2586,6 +2923,7 @@ fact-finding,gagnaöflun
 Factor analysis,þáttagreiningu
 factoring,vörureikningsveði
 fact,staðreynd
+faff,fyrirhöfn
 faggot,kynvillingur
 fail,bregðist
 fail,fall
@@ -2597,6 +2935,8 @@ faint,í yfirlið
 faint,öngvit
 fairly,nokkrum
 fairness,réttlæta
+fair,sanngjarn
+fair,sanngjörn
 fair value,sanngjörnu matsvirði
 fairy lights,ljósasería
 fairy lights,sería
@@ -2607,6 +2947,10 @@ fall,bylta
 fall,dottnir
 fall,hrynja
 falls,detta
+falls outside of,falla utan
+fall under,heyrði undir
+false,rangar
+false,rangur
 fame,orðstír
 familiar,tamt
 family estate,óðalssetur
@@ -2619,6 +2963,7 @@ famous last words,fræg síðustu orð
 famous,sögufrægur
 fanatical,öfgakennda
 fantastic,meiriháttar
+far and wide,á við og dreif
 fare,fæði
 farm,býli
 farther away,fjær
@@ -2639,11 +2984,15 @@ fault,annmörkunum
 fault finding,aðfinnslum
 fault,gallar
 favor,bón
+favor,hagur
+favor,högum
+favor,í hag
 favorite,eftirlæti
 fearful,smeykur
 fear,ógnin
 feasibility,hagkvæmni
 feat,afrek
+feature,eiginleika
 feature,kenni
 feature,sérkennaþáttur
 features,virkni
@@ -2685,15 +3034,20 @@ figurative,óeiginlegur
 figurative,táknrænn
 figurative,yfirfærður
 figure of speech,orðtak
+figure out,átta sig á
 figure skating,listskautar
 filch,hnupla
 filetype,skráargerðir
 file,þjöl
 filled out,áritað
 filling,seðjandi
+fill up,séð
+fill up,séðja
 film,þynna
 filter,síur
 filth,saur
+final,endanlega
+final say,síðasta orðið
 finance,að standa straum af
 finances,efnahagur
 finances,fjárhagur
@@ -2705,7 +3059,9 @@ financial,fjárhagslegur
 financially incapable,ófjárráða
 financial situation,afkoma
 financial situation,afkomu
+financial trust,fjárhald
 find one's way,ratað
+find out,komist að
 fine particles,svifryk
 finery,glys
 finished,fullunnar
@@ -2716,6 +3072,7 @@ finished goods inventory,fullunnar vörur
 finished goods inventory leftover,kostnaðarverð óseldra vara á lager
 finished,yfirstaðinn
 finish,endið
+finite,endanlega
 finite state machine,endanlegar stöðuvélar
 finite-state machine,stöðuvél
 finite-state,stöðuferjöld
@@ -2733,6 +3090,7 @@ fireworks,flugeldar
 firework,skoteldur
 fireworks,skoteldar
 firm,firma
+first and foremost,einkum
 first,á undan
 first born,frumburðar
 first,fyrst
@@ -2743,6 +3101,7 @@ fishing village,verstöðvum
 fish skin,roð
 fistula,pípa
 fit,falla
+fit,rúmast
 fits exceptionally well,smellpassa
 fits like a glove,smellpassa
 fits,stemma
@@ -2775,6 +3134,7 @@ flask,brúsi
 flask,#flaska
 flatulence,viðrekstur
 flaw,annmörkunum
+flaw,brestsins
 flay,flegið
 fleece,flíspeysa
 fleece jacket,flíspeysa
@@ -2796,6 +3156,7 @@ flock,flokkur
 floor pump,standpumpa
 floor subsidence,gólfsiginu
 floor-to-ceiling,gólfsíðir
+flourish,þrífast
 flourish,þrífst
 flour,mjöl
 flow,flæði
@@ -2820,7 +3181,10 @@ follower,fylgdarmaður
 follow,fara eftir
 following,eftirfarandi
 following,eftirtalinna
+follow,rakið
+follow,rekja
 follows,taka við
+follow-up checkup,áfangaeftirlit
 fondle,káfa
 food,fæða
 food,fæði
@@ -2844,6 +3208,7 @@ foreign language,annars mál
 foreign language,L2
 foreign language speakers,annars málshafar
 foresight,forsjá
+forever,ævinlega
 for example,svo að dæmi séu tekin
 for example,svo dæmi séu tekin
 for example,svo sem
@@ -2852,17 +3217,21 @@ forgiveness,eftirgjafar
 forgiveness,eftirgjöf
 forgiving,sáttfús
 for god's sake,í Guðs bænum
+for life,ævinlega
 formal acknowledgement of full payment,fullnaðar kvittun
 formal acknowledgement of full payment,fullnaðar viðurkenning
 formant synthesiser,formandagervill
 formation,mótun
+formed,tilorðnar
 form,móta
 form,móti
 form,myndast
 formulate,orðuð
 for now,í bráð
 forseeable future,ókomin ár
+forsee,séð fyrir
 for sure,upp á hár
+for the longest time,lengst af
 for the time being,í bráð
 fortition,lokhljóðun
 fortunately,sem betur fer
@@ -2876,6 +3245,8 @@ foul smell,fnykur
 foundational,órjúfanlegur
 foundation,grundvöllur
 found on,sést á
+found,stofnast
+found,stofna til
 fountain,gosbrunnur
 fowl,alifugl
 fowl,hænsni
@@ -2907,6 +3278,7 @@ frighten off,fælt
 frightful,skelfilegt
 fringe,hjari
 from head to toe,frá hvirfli til ilja
+from then on,upp frá því
 from top to toe,frá hvirfli til ilja
 front-end,framendi
 front,frammi
@@ -2922,9 +3294,13 @@ frustration,ógilding
 frustration,ónýting
 fry,seiði
 fuel efficient,sparneytinn
+fulfil,efndur
+fulfill,séð
+fulfill,séðja
 fulfills,standist
 full parsing,djúp þáttun
 full parsing,full þáttun
+full picture,heildarmynd
 fully,fyllilega
 fumigate,svæla
 fuming mad,bálill
@@ -2935,6 +3311,8 @@ functioning,starfsemi
 functioning,virkni
 function,virkni
 function,vörpun
+fundamental law,grundvallarlög
+fundamental law,stjórnskipunarlög
 fungal infection,sveppasýking
 fun,gríni
 fungus gnat,svarðmý
@@ -2961,6 +3339,7 @@ gallop,valhopp
 gallows,gálgi
 gamble,gambla
 gamble,spila fjárhættuspil
+game rules,leikreglur
 gang,gengið
 gang of kids,krakkaskari
 gannet,súla
@@ -2990,6 +3369,7 @@ gel pen,kúlutússpenni
 Gemini,Tvíburar
 Gemini,Tvíburi
 general endurance,þol
+generally,jafnan
 generally,yfirhöfuð
 generally,yfirleitt
 generation,kynslóð
