@@ -10,7 +10,7 @@ Aðskilnaðarstefnan,Apartheid
 réttarkerfi,justice system
 stjórnsýslu,administration
 réttarheimildirnar,law sources
-réttaeheimildirnar,sources of law
+réttarheimildirnar,sources of law
 rekstri,management
 öðlist,obtain
 álitamál,matter of opinion
@@ -1459,6 +1459,7 @@ handhöfum,holder
 handhöfum,bearer
 handhöfum,wielder
 handhöfum,weilder
+handhöfum,wielder
 ríkisvalds,
 framsal,transfer
 framsal,extradition
@@ -1798,6 +1799,7 @@ sjálfskuldarábyrgð,unlimited liability
 ábyrgð pro rata,several liability
 veðréttur,mortgage
 fasteing,real estate
+fasteign,real estate
 forkaupsrétti,right of first refusal (ROFR)
 forkaupsrétti,option (to buy)
 kauprétti,call option
@@ -1858,6 +1860,7 @@ taka mið af,
 hagsmunaafla,
 sakamanna,
 Litháa,Lithiauanian
+Litháa,Lithuanian
 ákæruvaldið,
 hlutaðeigandi,
 heimfærður,extradited
