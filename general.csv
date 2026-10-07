@@ -8,6 +8,7 @@ abolished,afnumið
 absolutely right,hárréttur
 above mean sea level,hæð yfir sjávarmáli
 above mean sea level,h.y.s.
+absenteeism,skróp
 absorb,soga
 abstract,huglæg
 absurd,fjarstæður
@@ -2137,6 +2138,8 @@ larynx,barkakýlisins
 laser,leysir
 lasting,varanlegur
 late,framorðið
+late cancellation fee,skrópgjald
+late cancellation fee,skropgjald
 latent semantic analysis,hulin merkingargreining
 lava cake,blaut súkkulaðikaka
 law enforcement,löggæsla
@@ -2374,6 +2377,8 @@ minutiae,smáatriði
 miracle,kraftaverk
 mischief,fláttaskap
 miss,ungfrú
+missed appointment fee,skrópgjald
+missed appointment fee,skropgjald
 missive,sendibréf
 mistake,skekkja
 mistreat,misþyrma
@@ -2542,6 +2547,9 @@ noose,lykkja
 normalized,staðlaður
 Northern Lapwing,vepja
 nose bridge,nefrót
+no show,skróp
+no show fee,skrópgjald
+no show fee,skropgjald
 not,eigi
 notable feat,afreksverk
 not aligned,skakkur
@@ -4124,6 +4132,7 @@ trodden,troðinn
 trot, skálma
 trouble,fyrirhöfn
 trough,lægð
+truancy,skróp
 true Iceland lichen,fjallagrös
 trustworthy,áreiðanlegur
 truth-conditional semantics,sannkjaramerkingarfræði
