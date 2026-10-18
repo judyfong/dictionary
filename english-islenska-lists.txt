@@ -12,3 +12,4 @@ research.csv
 thestudentpaper.csv
 virk.csv
 vertu-ulfur.csv
+snulli-snigill-thorgrimur-thrainsson.csv
