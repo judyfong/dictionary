@@ -1074,6 +1074,7 @@ DVT, blóðsegamyndun í djúpum bláæðum
 defeated,unninn
 defense,vörn
 define,afmarka,not slang
+definitive,endanlegur
 degree,menntun
 dejected,angurvært
 delay, töf, not slang
@@ -1412,6 +1413,7 @@ estate,jarðareign
 etiquette,mannasiðir
 exactly,nákvæmlega
 exactly,einmitt
+exaggeration,öfga
 examination,skoðun
 excavate,grafa
 excavation,gryfja
@@ -1428,6 +1430,7 @@ extract,þykkni
 extract,extrakt
 extract,útdráttur
 extraction,útdráttur
+extreme,öfga
 extremely,urrandi
 eucalyptus,myrtusviður
 eucalyptus,tröllatré
@@ -1476,6 +1479,7 @@ fame,orðstír
 family gathering,fjölskylduboð
 family name,ættarnafn
 famous,sögufrægur
+fanatic,öfga
 fantastic,meiriháttar
 fare,fæði
 farm,býli
@@ -1527,6 +1531,7 @@ file,þjöl
 filling,seðjandi
 film,þynna
 filth,saur
+final,endanlegur
 finances,fjárhagur
 finances,efnahagur
 financial budget,fjárhagsáætlun
@@ -2411,6 +2416,7 @@ menstrual cup,tíðabikar
 mentally disabled,þroskaheftur
 mention,vikið að
 measles,mislingar
+merge,sameignast
 merry,kátur
 messing with,stríða
 meta analysis,fjölgreining
@@ -2420,6 +2426,7 @@ meteor shower,loftsteinaregn
 meteor shower,loftsteinadrífa
 meters above mean sea level, metar hæð yfir sjávarmáli
 meters above mean sea level,m.h.y.s.
+methane gas,jarðgas
 meticulous,vandvirkur
 microbe,gerill
 microorganism,örvera
@@ -2550,6 +2557,7 @@ par value,nafnverð
 pauper,niðursetningur
 pauper,sveitarómagi
 pauper,ómagi
+naivety,einfeldni
 named entity,nefnd eining
 named entity recognition,nafnakennsl
 named entity recognition,nafnaþekkjari
@@ -2565,6 +2573,7 @@ nasal root,nefrót
 natant,fljótandi
 nationality,ríkisfang
 natural,hispurslaus
+natural gas,jarðgas
 natural language generation,gerving náttúrulegs máls
 natural language generation,myndun náttúrulegs máls
 natural language parsing,þáttun náttúrulegs máls
@@ -3560,6 +3569,8 @@ sill,þröskuldur
 silly season,gúrkutíð
 sitar,sítar
 similar to,svipað og
+simplification,einfeldni
+simplicity,einfeldni
 sinew,sin
 sing softly,raula
 sister cities,vinabæir
@@ -3885,6 +3896,7 @@ stuff,stoppa upp
 stupefy,deyfa
 stupefy,sljóvga
 stupid,ör
+stupidity,einfeldni
 stylish,smart
 subjectivism,hughyggja
 subject matter,efniviður
@@ -4274,6 +4286,7 @@ Type II error,fastheldnismistök
 typewritten,vélritað
 UFO,FFH
 UHT,leifturhitaðar
+ultimate,endanlegur
 ultra-high temperature treated,leifturhitaðar
 ultra pasteurized,leifturhitaðar
 ultra-processed foods,ofurunnum matvælum
