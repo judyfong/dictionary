@@ -808,6 +808,8 @@ málalengingar,chit-chat
 gáleysi,negligence
 gáleysi,mistake
 gáleysi,oversight
+gáleysi,recklessness
+gáleysi,lack of vigilance
 vítavert gáleysi,gross negligence
 stórfellt gáleysi,gross negligence
 gróft gáleysi,gross negligence
@@ -1013,6 +1015,9 @@ handvömm,carelessness
 handvömm,heedlessness
 handvömm,negligence
 handvömm,ineptitude
+handvömm,hand blunder
+handvömm,sloppy work
+handvömm,thoughtlessness
 athafnafrelsis,freedom of enterprise
 athafnafrelsis,freedom to operate
 leggja mat,
