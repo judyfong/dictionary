@@ -3359,13 +3359,25 @@ flytjendum,performer
 flytjendum,musician
 flytjendum,artist
 neyðarvarnarregla,
-verjast,
-vofir,
-yfirvofandi,
-slagsmála,
-harðræði,
-viðbára,
-haldlaus,
+verjast,refuse
+verjast,couldn't help
+vofir,loom
+vofir,threaten
+vofir,linger
+yfirvofandi,imminent
+yfirvofandi,impending
+slagsmála,assault
+slagsmála,attack
+harðræði,hardship
+harðræði,duress
+viðbára,pretext
+viðbára excuses
+viðbára evasions
+haldlaus,insubatantial
+haldlaus,unfounded
+haldlaus,unwarranted
+haldlaus,groundless
+haldlaus,false
 íþyngt,
 um of,too much
 um of,excessively
@@ -3405,8 +3417,10 @@ dragast saman,
 sá sami,the same
 neyðarréttur,necessity
 neyðarréttur,defense of necessity
-neyðarvörn,
+neyðarvörn,self-defense
 óbeðinn erindisrekstur,negotiorum gestio
+óbeðinn erindisrekstur,management of business
+negotiorum gestio,management of business
 áhættutaka,
 skúrs,
 rífi,
