@@ -1829,7 +1829,8 @@ tekið fram,
 hafa verður í huga,
 hjúskaparlaga,
 óvígða,
-málavextir,
+málavextir,denouement
+málavextir,course of events
 sæþotur,jetskis
 skipta bæri sök,
 jöfnu,
@@ -2535,7 +2536,15 @@ lögræðisskortur,
 viðtöku,accept
 viðtöku,receive
 rýrnun,
-stafar,
+stafar,emit
+stafar,spell
+stafar,give off
+stafar,radiate
+stafar,shine
+stafar,be caused by
+stafar,originate
+stafar,stem from
+stafar,presents
 eiginleikum,
 reynist,
 til geymslu,
