@@ -3534,8 +3534,10 @@ fótagafli,
 steinvegg,
 sýna fram,
 meintrar,
-fjarlæga afleiðingu,
+fjarlæga afleiðingu,remote consequence
+fjarlæga afleiðingu,distant consequence
 sennileg afleiðing,likely consequences
+sennileg afleiðing,probably consequences
 aðstandendur,
 aðaldeiluefnið,main disputable evidence
 aðaldeiluefnið,main point of contention
@@ -3645,7 +3647,7 @@ sjúklegt,
 fyrirbrigði,
 sakhæfur,culpable
 sakhæfur,criminally responsible in law
-heilsutjóns,
+heilsutjóns,harm to health
 undan,
 myndað,
 fyrirmynd,
